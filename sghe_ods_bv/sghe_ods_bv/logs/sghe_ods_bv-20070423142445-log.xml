@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtactionlog project="D:\My Documents\My Source\Cognos Projects\sghe_ods_bv\sghe_ods_bv.cpf" templatedir="../templates/bmt/Cr1Model" timestamp="20070423142445671" user="dawilson" version="2.0.1886.0"><transaction saved="false" seq="1" timestamp="20070423142555437"><action seq="1" type="SetActiveLocale"><inputparams><param seq="1" type="i18nstring"><value>en</value></param></inputparams><domchanges/><result success="t"><outputparams/></result></action></transaction></bmtactionlog>

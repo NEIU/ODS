@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archive xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bus="http://developer.cognos.com/schemas/bibus/3/" xmlns:cm="http://developer.cognos.com/schemas/bibus/3/">
+<!-- CM Build=8.4.6020.0 -->
+  <objects>
+	<object>
+		<class>package</class>
+		<name>Operational Data Store Data View</name>
+		<id>1</id>
+		<parentId>0</parentId>
+		<storeID>iB9653EBDD83142EEA34FBC7E9CA7ED9B</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:31:19.015Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:31:38.774Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">Operational Data Store Data View</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<retentions>
+				<value><item><objectClass xsi:type="cm:classEnum">model</objectClass><prop xsi:type="cm:propEnum">creationTime</prop><maxObjects xsi:type="xsd:integer">1</maxObjects></item>
+</value>
+			</retentions>
+			<defaultPortalAction>
+				<value>view</value>
+			</defaultPortalAction>
+			<userInterfaces>
+				<value><item>eventStudio</item>
+<item>queryStudio</item>
+<item>reportStudio</item>
+</value>
+			</userInterfaces>
+		</props>
+	</object>
+	<object>
+		<class>packageConfiguration</class>
+		<name>Operational Data Store Data View</name>
+		<parentId>1</parentId>
+		<storeID>i13A985AF1872480FB94F9DEDE38601B2</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:31:22.791Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:31:22.791Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">Operational Data Store Data View</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<crosstabItemDisplayCountDefault>
+				<value>5</value>
+			</crosstabItemDisplayCountDefault>
+			<crosstabItemDisplayCountLimit>
+				<value>20</value>
+			</crosstabItemDisplayCountLimit>
+			<memberDisplayCountDefault>
+				<value>20</value>
+			</memberDisplayCountDefault>
+			<memberDisplayCountLimit>
+				<value>50</value>
+			</memberDisplayCountLimit>
+		</props>
+	</object>
+	<object>
+		<class>model</class>
+		<name>model</name>
+		<id>2</id>
+		<parentId>1</parentId>
+		<storeID>iE798EC6D469B4DB0B3E4CDAB85D68E9E</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:31:38.774Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:31:39.735Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">model</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<model>
+				<value href="48.dat" size="450787"/>
+			</model>
+		</props>
+	</object>
+	<object>
+		<class>modelView</class>
+		<name>[].[securityViews].[Operational Data Store Data View]</name>
+		<parentId>2</parentId>
+		<storeID>iF3D31E084CDD48E9B8025390A375CF10</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:31:39.735Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:31:39.735Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">[].[securityViews].[Operational Data Store Data View]</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+		</props>
+	</object>
+  </objects>
+</archive>

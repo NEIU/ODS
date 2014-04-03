@@ -1,0 +1,9492 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:4329</property><property name="BMTFW_Layout"><![CDATA[string:[List of Values].[Donor LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,729
+[List of Values].[Earnings LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,785
+[List of Values].[Educational Goal LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,785
+[List of Values].[Educational Level LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,785
+[List of Values].[EEO Skill LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,785
+[List of Values].[Employee Class LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,785
+[List of Values].[Employee Group LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,841
+[List of Values].[Employee Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,841
+[List of Values].[Employer LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,841
+[List of Values].[Employer Category LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,841
+[List of Values].[Employer Industrial Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,841
+[List of Values].[Employment Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,897
+[List of Values].[Enrollment Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,897
+[List of Values].[Ethnicity LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,897
+[List of Values].[Finance Account LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,897
+[List of Values].[Finance Account Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,897
+[List of Values].[Finance Activity LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,953
+[List of Values].[Finance Fund LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,953
+[List of Values].[Finance Fund Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,953
+[List of Values].[Finance Location LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,953
+[List of Values].[Finance Organization LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,953
+[List of Values].[Finance Program LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1009
+[List of Values].[Financial Manager LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1009
+[List of Values].[Fiscal Period LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1009
+[Annual Giving Comparison].[Annual Giving Info]
+	dx=180,225
+	parent=Annual Giving Comparison
+	x=10,122
+[Annual Giving Comparison].[Campaign Giving Info]
+	dx=180,169
+	parent=Annual Giving Comparison
+	x=230,122
+[Annual Giving Comparison].[Designated Giving Info]
+	dx=180,189
+	parent=Annual Giving Comparison
+	x=10,178
+[Annual Giving Comparison]
+	c=d8a77d
+	dx=480,217
+	expanded=t
+	parent=Presentation View
+	x=530,57
+[Faculty Subset].[Time Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Faculty Subset
+	x=10,57
+[Faculty Subset].[Faculty and Assignments]
+	dx=180,225
+	parent=Faculty Subset
+	x=260,57
+[Faculty Subset]
+	c=bf8cbc
+	dx=450,105
+	expanded=t
+	parent=Presentation View
+	x=1020,798
+[Enrollment Management Subset].[Time Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Enrollment Management Subset
+	x=10,57
+[Enrollment Management Subset].[Student Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Enrollment Management Subset
+	x=260,57
+[Enrollment Management Subset].[Enrollment Info]
+	dx=180,225
+	parent=Enrollment Management Subset
+	x=10,122
+[Enrollment Management Subset]
+	c=99f7ff
+	dx=480,161
+	expanded=t
+	parent=Presentation View
+	x=530,610
+[Operating Ledger Comparison].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Operating Ledger Comparison
+	x=10,57
+[Operating Ledger Comparison].[Ledger Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Operating Ledger Comparison
+	x=260,57
+[Operating Ledger Comparison].[Operating Ledger Info]
+	dx=180,225
+	parent=Operating Ledger Comparison
+	x=10,122
+[Operating Ledger Comparison]
+	c=527ca5
+	dx=480,161
+	expanded=t
+	parent=Presentation View
+	view=0,0
+	x=10,798
+	zoom=8192
+[Cashier Session Analysis].[Time Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Cashier Session Analysis
+	x=10,57
+[Cashier Session Analysis].[Cashier Session Analysis]
+	dx=180,225
+	parent=Cashier Session Analysis
+	x=260,57
+[Cashier Session Analysis]
+	c=89c6fd
+	dx=450,105
+	expanded=t
+	parent=Presentation View
+	x=10,986
+[Grant-Contract and Proposal].[Proposal Info Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Grant-Contract and Proposal
+	x=10,57
+[List of Values].[Budget LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,449
+[List of Values].[Budget Group LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,505
+[List of Values].[Budget Phase LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,505
+[List of Values].[Building LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,505
+[List of Values].[Calendar Month LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,505
+[List of Values].[Campaign LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,505
+[List of Values].[Campaign Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,561
+[List of Values].[Campus LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,561
+[List of Values].[Certification LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,561
+[List of Values].[Chart of Accounts LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,561
+[List of Values].[Collection Agency Name LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,561
+[List of Values].[Cohort LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,617
+[List of Values].[College LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,617
+[List of Values].[Commodity LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,617
+[List of Values].[County LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,617
+[List of Values].[Contract Number LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,617
+[List of Values].[Contract Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,673
+[List of Values].[Course Attribute LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,673
+[List of Values].[Course Identification LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,673
+[List of Values].[Course Reference Number LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,673
+[List of Values].[Current Time Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,673
+[List of Values].[Department LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,729
+[List of Values].[Designation LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,729
+[List of Values].[District Division LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,729
+[List of Values].[Division LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,729
+[List of Values].[Fiscal Year LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1009
+[List of Values].[Foreign Currency LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1009
+[List of Values].[Fund Attribute Set LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1065
+[List of Values].[Fund Attribute Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1065
+[List of Values].[Fund Attribute Value LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1065
+[List of Values].[Fund Level 1 LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1065
+[List of Values].[Fund Level 2 LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1065
+[List of Values].[Fund Level 3 LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1121
+[List of Values].[Fund Level 4 LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1121
+[List of Values].[Fund Level 5 LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1121
+[List of Values].[Fund Pool LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1121
+[List of Values].[Fund Source LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1121
+[List of Values].[Fund Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1177
+[List of Values].[Fund Type Attr Set LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1177
+[List of Values].[Fund Type Attr Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1177
+[List of Values].[Fund Type Attr Value LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1177
+[List of Values].[Fund Type Level 1 LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1177
+[List of Values].[Fund Type Level 2 LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1233
+[List of Values].[Gender LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1233
+[List of Values].[Geographic Area LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1233
+[List of Values].[Grade Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1233
+[List of Values].[Grant LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1233
+[List of Values].[Hold LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1289
+[List of Values].[HR Application Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1289
+[List of Values].[Income Level LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1289
+[List of Values].[Installment Plan LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1289
+[List of Values].[Instructional Method LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1289
+[List of Values].[Instructor Name LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1345
+[List of Values].[Internal Account Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1345
+[List of Values].[Internal Fund Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1345
+[List of Values].[Interview Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1345
+[List of Values].[Job Leave Category LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1345
+[List of Values].[Job Suffix LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1401
+[List of Values].[Leadership Role LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1401
+[List of Values].[Leave Of Absence Reason LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1401
+[List of Values].[Legacy LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1401
+[List of Values].[Level LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1401
+[List of Values].[Location Level 1 LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1457
+[List of Values].[Location Level 2 LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1457
+[List of Values].[Location Level 3 LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1457
+[List of Values].[Location Level 4 LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1457
+[List of Values].[Mail LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1457
+[List of Values].[Major LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1513
+[List of Values].[Marital Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1513
+[List of Values].[Meal Plan LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1513
+[List of Values].[Meeting Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1513
+[List of Values].[Nation LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1513
+[List of Values].[Native Language LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1569
+[List of Values].[Organization Attr Set LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1569
+[List of Values].[Organization Attr Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1569
+[List of Values].[Organization Attr Value LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1569
+[List of Values].[Organization Level 1 LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1569
+[List of Values].[Organization Level 2 LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1625
+[List of Values].[Organization Level 3 LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1625
+[List of Values].[Organization Level 4 LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1625
+[List of Values].[Organization Level 5 LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1625
+[List of Values].[Organization Level 6 LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1625
+[List of Values].[Organization Level 7 LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1681
+[List of Values].[Organization Level 8 LOV]
+	dx=180,225
+	parent=List of Values
+	x=510,928
+[List of Values].[Organization Pool LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1681
+[List of Values].[Org Financial Manager LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1681
+[List of Values].[Outcome LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1681
+[List of Values].[Outcome Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1681
+[List of Values].[Packaging Group LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1737
+[List of Values].[Position LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1737
+[List of Values].[Position Class LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1737
+[List of Values].[Position Change Reason LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1737
+[List of Values].[Position Deferred Pay LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1737
+[List of Values].[Position Location LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1793
+[List of Values].[Position Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1793
+[List of Values].[Post Code LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1793
+[List of Values].[Post Secondary School LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1793
+[List of Values].[Pref Class LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1793
+[List of Values].[Prim Disability LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1849
+[List of Values].[Principal Investigator LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1849
+[List of Values].[Program LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1849
+[List of Values].[Program Attr Set LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1849
+[List of Values].[Program Attr Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1849
+[List of Values].[Program Attr Value LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1905
+[List of Values].[Program Classification LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1905
+[List of Values].[Program Level 1 LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1905
+[List of Values].[Program Level 2 LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1905
+[List of Values].[Program Level 3 LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1905
+[List of Values].[Program Level 4 LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,1961
+[List of Values].[Progress Evaluation LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,1961
+[List of Values].[Project LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,1961
+[List of Values].[Prospect Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,1961
+[List of Values].[Rating LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,1961
+[List of Values].[Rating Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,2017
+[List of Values].[Receivable Category LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,2017
+[List of Values].[Receivable Contract LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,2017
+[List of Values].[Receivable Delinquency LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,2017
+[List of Values].[Account Type Attr Set LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,169
+[List of Values].[Account Type Attr Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,225
+[List of Values].[Account Type Attr Value LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,225
+[List of Values].[Account Type Level 1 LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,225
+[List of Values].[Account Type Level 2 LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,225
+[List of Values].[Activity LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,225
+[List of Values].[Activity Category LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,281
+[List of Values].[Activity Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,281
+[List of Values].[Address Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,281
+[List of Values].[Admissions Attribute LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,281
+[List of Values].[Admissions Population LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,281
+[List of Values].[Advancement Fund LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,337
+[List of Values].[Advisor Name LFMI LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,337
+[List of Values].[Advisor Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,337
+[List of Values].[Aid Fund LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,337
+[List of Values].[Aid Year LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,337
+[List of Values].[Application Decision LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,393
+[List of Values].[Application Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,393
+[List of Values].[Assignment Grade LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,393
+[List of Values].[Assignment Pay ID LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,393
+[List of Values].[Assignment Salary Group LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,393
+[List of Values].[Award Category LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,449
+[List of Values].[Benefit Deduction LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,449
+[List of Values].[Benefit Category LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,449
+[List of Values].[Block Schedule LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,449
+[Grant-Contract and Proposal].[Proposal Info]
+	dx=180,225
+	parent=Grant-Contract and Proposal
+	x=260,57
+[Grant-Contract and Proposal]
+	c=bf8cbc
+	dx=450,105
+	expanded=t
+	parent=Presentation View
+	x=500,986
+[Presentation View]
+	c=9bdfc4
+	dx=1510,1101
+	expanded=t
+	parent=Model
+	view=0,430
+	x=25058,11819
+	zoom=6144
+[Date Hierarchies].[Calendar Date Hierarchy]
+	dx=180,225
+	parent=Date Hierarchies
+	x=10,57
+[Date Hierarchies]
+	c=d8a77d
+	dx=210,96
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=2740,70288
+	zoom=8192
+[List of Values].[All Values LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,57
+[List of Values].[Academic Period LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,57
+[List of Values].[Academic Standing LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,57
+[List of Values].[Academic Title LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,57
+[List of Values].[Academic Year LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,57
+[List of Values].[Account Attribute Set LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,113
+[List of Values].[Account Attribute Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,113
+[List of Values].[Account Attribute Value LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,113
+[List of Values].[Account Class LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,113
+[List of Values].[Account Level 1 LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,113
+[List of Values].[Account Level 2 LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,169
+[List of Values].[Account Level 3 LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,169
+[List of Values].[Account Level 4 LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,169
+[List of Values].[Account Pool LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,169
+[Employee and Position].[Time Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Employee and Position
+	x=10,57
+[Employee and Position].[Position Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Employee and Position
+	x=260,57
+[Employee and Position].[Employee Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Employee and Position
+	x=10,122
+[Employee and Position].[Employee Info]
+	dx=180,225
+	parent=Employee and Position
+	x=260,122
+[Employee and Position].[Employee Earning CY Info]
+	dx=180,129
+	parent=Employee and Position
+	x=10,187
+[Employee and Position].[Skills Info]
+	dx=180,69
+	parent=Employee and Position
+	x=230,187
+[Employee and Position].[Positon Budget Info]
+	dx=180,225
+	parent=Employee and Position
+	x=10,243
+[Employee and Position]
+	c=d8a77d
+	dx=480,282
+	expanded=t
+	parent=Presentation View
+	x=10,57
+[Budget Availability Comparison].[Time Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Budget Availability Comparison
+	x=10,57
+[Budget Availability Comparison].[Budget Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Budget Availability Comparison
+	x=260,57
+[Budget Availability Comparison].[Budget Availability Ledger]
+	dx=180,225
+	parent=Budget Availability Comparison
+	x=10,122
+[Budget Availability Comparison]
+	c=758698
+	dx=480,161
+	expanded=t
+	parent=Presentation View
+	x=1020,366
+[Student Detail Subset].[Time Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Student Detail Subset
+	x=10,57
+[Student Detail Subset].[Student Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Student Detail Subset
+	x=260,57
+[Student Detail Subset].[Student Info]
+	dx=180,225
+	parent=Student Detail Subset
+	x=10,122
+[Student Detail Subset]
+	c=568ef6
+	dx=480,161
+	expanded=t
+	parent=Presentation View
+	x=427,817
+[Annual Giving Comparison].[Time Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Annual Giving Comparison
+	x=10,57
+[Annual Giving Comparison].[Donor Category Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Annual Giving Comparison
+	x=260,57
+[List of Values].[Receivable Detail Code LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,2017
+[List of Values].[Receivable Exemption LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,2073
+[List of Values].[Receivable Source LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,2073
+[List of Values].[Recruiter LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,2073
+[List of Values].[Registration Reason LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,2073
+[List of Values].[Registration Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,2073
+[List of Values].[Residency LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,2129
+[List of Values].[Review Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,2129
+[List of Values].[Schedule Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,2129
+[List of Values].[Secondary School LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,2129
+[List of Values].[Site LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,2129
+[List of Values].[Solicitation Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,2185
+[List of Values].[Solicitor Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,2185
+[List of Values].[Source Background LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,2185
+[List of Values].[State Province LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,2185
+[List of Values].[Student Class LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,2185
+[List of Values].[Student Population LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,2241
+[List of Values].[Student Status LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,2241
+[List of Values].[Subject LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,2241
+[List of Values].[Sub Academic Period LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,2241
+[List of Values].[Termination Reason LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,2241
+[List of Values].[Test LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,2297
+[List of Values].[Test Rule LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,2297
+[List of Values].[Tracking Group LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,2297
+[List of Values].[Vendor Type LOV]
+	dx=180,225
+	parent=List of Values
+	x=670,2297
+[List of Values].[Veteran Category LOV]
+	dx=180,225
+	parent=List of Values
+	x=890,2297
+[List of Values].[Visa LOV]
+	dx=180,225
+	parent=List of Values
+	x=10,2353
+[List of Values].[Withdraw Reason LOV]
+	dx=180,225
+	parent=List of Values
+	x=230,2353
+[List of Values].[Worker Compensation Class LOV]
+	dx=180,225
+	parent=List of Values
+	x=450,2353
+[List of Values]
+	c=9bdfc4
+	dx=1080,2392
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=3171,55248
+	zoom=8192
+[Slotted Views].[Academic Outcome Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,57
+[Slotted Views].[Admissions Decision Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,57
+[Slotted Views].[Admissions Source Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,57
+[Slotted Views].[Advancement Rating Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,113
+[Slotted Views].[Advisor Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,113
+[Slotted Views].[Annual Giving Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,113
+[Slotted Views].[Barg Unit Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,169
+[Slotted Views].[Beneficiary Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,169
+[Slotted Views].[Certification Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,169
+[Slotted Views].[Communication Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,225
+[Slotted Views].[Contact Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,225
+[Slotted Views].[Cross Reference Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,225
+[Slotted Views].[Degree Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,281
+[Slotted Views].[Donor Category Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,281
+[Slotted Views].[Empl Earn CY Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,281
+[Slotted Views].[Exclusion Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,337
+[Slotted Views].[Faculty Att Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,337
+[Slotted Views].[Finaid Budget Comp Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,337
+[Slotted Views].[Funding Interest Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,393
+[Slotted Views].[Gift Society Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,393
+[Slotted Views].[Grant Fund Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,393
+[Slotted Views].[Hold Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,449
+[Slotted Views].[HR Appl Stat Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,449
+[Slotted Views].[Interest Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,449
+[Slotted Views].[Interview Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,505
+[Slotted Views].[Leave Balance Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,505
+[Slotted Views].[Mail Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,505
+[Slotted Views].[Medical Information Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,561
+[Slotted Views].[Meeting Time Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,561
+[Slotted Views].[Monthly Deduct Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,561
+[Slotted Views].[Noninstruct Assign Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,617
+[Slotted Views].[Past Employment Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,617
+[Slotted Views].[Posn Labor Dist Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,617
+[Slotted Views].[Previous Education Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,673
+[Slotted Views].[Recruitment Source Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,673
+[Slotted Views].[Reference Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,673
+[Slotted Views].[Requirement Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,729
+[Slotted Views].[Review Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,729
+[Slotted Views].[Skill Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,729
+[Slotted Views].[Special Activity Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,785
+[Slotted Views].[Special Purpose Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,785
+[Slotted Views].[Sport Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=450,785
+[Slotted Views].[Student Course Att Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=10,841
+[Slotted Views].[Test Slot]
+	dx=180,225
+	parent=Slotted Views
+	x=230,841
+[Slotted Views]
+	c=89c6fd
+	dx=640,880
+	expanded=t
+	parent=ODS
+	x=1200,70288
+[Account Index Audit].[Account Index]
+	parent=Account Index Audit
+	x=259,319
+[Account Index Audit].[Gift]
+	parent=Account Index Audit
+	x=305,580
+[Account Index Audit].[Grant Billing Detail]
+	parent=Account Index Audit
+	x=525,319
+[Account Index Audit].[Labor Cost Distribution]
+	parent=Account Index Audit
+	x=462,149
+[Account Index Audit].[Miscellaneous Payment Transaction]
+	parent=Account Index Audit
+	x=305,58
+[Account Index Audit].[Miscellaneous Charge Transaction]
+	parent=Account Index Audit
+	x=126,89
+[Account Index Audit].[Payroll Labor Dist Override]
+	parent=Account Index Audit
+	x=10,229
+[Account Index Audit].[Pledge]
+	parent=Account Index Audit
+	x=10,409
+[Account Index Audit].[Purchase Order Accounting]
+	parent=Account Index Audit
+	x=127,549
+[Account Index Audit].[Transaction History Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Account Index Audit
+	x=10,629
+[Account Index Audit].[Transaction History]
+	parent=Account Index Audit
+	x=462,489
+[Account Index Audit]
+	c=d8a77d
+	dx=715,677
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=1298,707
+	zoom=8192
+[Active Registration].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Active Registration
+	x=10,1420
+[Active Registration].[Enrollment Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Active Registration
+	x=240,1420
+[Active Registration].[Enrollment]
+	dx=180,225
+	parent=Active Registration
+	x=434,941
+[Active Registration].[Academic Study Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Active Registration
+	x=10,1478
+[Active Registration].[Academic Study]
+	dx=180,225
+	parent=Active Registration
+	x=867,941
+[Active Registration].[Academic Study Extended]
+	dx=180,225
+	parent=Active Registration
+	x=725,1261
+[Active Registration].[Advisor]
+	dx=180,225
+	parent=Active Registration
+	x=725,621
+[Active Registration].[Award By Person]
+	dx=180,225
+	parent=Active Registration
+	x=222,1318
+[Active Registration].[Faculty]
+	dx=180,225
+	parent=Active Registration
+	x=398,58
+[Active Registration].[GPA By Level]
+	dx=180,225
+	parent=Active Registration
+	x=393,1371
+[Active Registration].[Instructional Assignment]
+	dx=180,225
+	parent=Active Registration
+	x=442,245
+[Active Registration].[Meeting Time]
+	dx=180,225
+	parent=Active Registration
+	x=558,92
+[Active Registration].[Person Address]
+	dx=180,225
+	parent=Active Registration
+	x=80,693
+[Active Registration].[Person Detail]
+	dx=180,225
+	parent=Active Registration
+	x=10,858
+[Active Registration].[Student]
+	dx=180,225
+	parent=Active Registration
+	x=829,766
+[Active Registration].[Student Cohort]
+	dx=180,225
+	parent=Active Registration
+	x=87,1199
+[Active Registration].[Student Course]
+	dx=180,225
+	parent=Active Registration
+	x=386,511
+[Active Registration].[Student Course Attribute]
+	dx=180,225
+	parent=Active Registration
+	x=131,414
+[Active Registration].[Student Course Reg Audit]
+	dx=180,225
+	parent=Active Registration
+	x=12,1036
+[Active Registration].[Student Extended]
+	dx=180,225
+	parent=Active Registration
+	x=829,1116
+[Active Registration].[Telephone Current]
+	dx=180,225
+	parent=Active Registration
+	x=570,1351
+[Active Registration]
+	c=9bdfc4
+	dx=1057,1526
+	expanded=t
+	parent=ODS
+	view=0,200
+	x=10,55248
+	zoom=4096
+[Advancement Prospect].[Prospect Info Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	view=0,0
+	x=10,2377
+	zoom=8192
+[Advancement Prospect].[Prospect Info]
+	dx=180,225
+	parent=Advancement Prospect
+	x=948,997
+[Advancement Prospect].[Advancement Rating]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1888,997
+[Advancement Prospect].[Advancement Rating Slot]
+	dx=180,225
+	parent=Advancement Prospect
+	x=421,220
+[Advancement Prospect].[Constituent Contact Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=240,2377
+[Advancement Prospect].[Constituent Contact]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1713,452
+[Advancement Prospect].[Constituent Entity]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1843,711
+[Advancement Prospect].[Constituent Plan]
+	dx=180,225
+	parent=Advancement Prospect
+	x=683,96
+[Advancement Prospect].[Constituent Staff Assign Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=470,2377
+[Advancement Prospect].[Constituent Staff Assign]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1511,245
+[Advancement Prospect].[Funding Interest Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=10,2435
+[Advancement Prospect].[Funding Interest]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1254,109
+[Advancement Prospect].[Funding Interest Slot]
+	dx=180,225
+	parent=Advancement Prospect
+	x=209,417
+[Advancement Prospect].[Interest]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1158,1913
+[Advancement Prospect].[Organization Entity]
+	dx=180,225
+	parent=Advancement Prospect
+	x=41,1241
+[Advancement Prospect].[Organization Funding Area]
+	dx=180,209
+	parent=Advancement Prospect
+	x=594,1875
+[Advancement Prospect].[Person Address Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=240,2435
+[Advancement Prospect].[Person Address]
+	dx=180,225
+	parent=Advancement Prospect
+	x=67,670
+[Advancement Prospect].[Person Detail]
+	dx=180,225
+	parent=Advancement Prospect
+	x=10,954
+[Advancement Prospect].[Project Interest Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=470,2435
+[Advancement Prospect].[Project Interest]
+	dx=180,225
+	parent=Advancement Prospect
+	x=870,1933
+[Advancement Prospect].[Prospect Confidential Comment]
+	dx=180,225
+	parent=Advancement Prospect
+	x=351,1722
+[Advancement Prospect].[Prospect Conf Comment Subj]
+	dx=180,225
+	parent=Advancement Prospect
+	x=161,1953
+[Advancement Prospect].[Prospect Contact Expense]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1957,278
+[Advancement Prospect].[Prospect Moves Management Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=10,2493
+[Advancement Prospect].[Prospect Moves Management]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1469,1778
+[Advancement Prospect].[Prospect Proposal]
+	dx=180,225
+	parent=Advancement Prospect
+	x=969,58
+[Advancement Prospect].[Prospect Proposal Master Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=240,2493
+[Advancement Prospect].[Prospect Proposal Master]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1843,1283
+[Advancement Prospect].[Prospect Proposal Project Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=470,2493
+[Advancement Prospect].[Prospect Proposal Project]
+	dx=180,225
+	parent=Advancement Prospect
+	x=2128,1374
+[Advancement Prospect].[Prospect Staff Assignment Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=10,2551
+[Advancement Prospect].[Prospect Staff Assignment]
+	dx=180,225
+	parent=Advancement Prospect
+	x=1713,1542
+[Advancement Prospect].[Telephone Current Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Advancement Prospect
+	x=470,2551
+[Advancement Prospect].[Telephone Current]
+	dx=180,225
+	parent=Advancement Prospect
+	x=159,1506
+[Advancement Prospect]
+	c=89c6fd
+	dx=2318,2599
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=10,23353
+	zoom=2048
+[Advancement Rating].[Advancement Rating]
+	dx=180,225
+	parent=Advancement Rating
+	x=243,291
+[Advancement Rating].[Constituent]
+	dx=180,225
+	parent=Advancement Rating
+	x=476,291
+[Advancement Rating].[Constituent Entity]
+	dx=180,225
+	parent=Advancement Rating
+	x=407,127
+[Advancement Rating].[Organization Entity]
+	dx=180,225
+	parent=Advancement Rating
+	x=79,127
+[Advancement Rating].[Organization Entity Address]
+	dx=180,225
+	parent=Advancement Rating
+	x=79,455
+[Advancement Rating].[Organizational Constituent]
+	dx=180,225
+	parent=Advancement Rating
+	x=243,58
+[Advancement Rating].[Person Address]
+	dx=180,225
+	parent=Advancement Rating
+	x=10,291
+[Advancement Rating].[Person Detail]
+	dx=180,225
+	parent=Advancement Rating
+	x=243,524
+[Advancement Rating].[Telephone Current]
+	dx=180,225
+	parent=Advancement Rating
+	x=407,455
+[Advancement Rating]
+	c=99b2c7
+	dx=200,28
+	expanded=f
+	parent=ODS
+	view=0,52
+	x=3711,56206
+	zoom=8192
+[Admission Application].[Time Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Admission Application
+	x=10,3453
+[Admission Application].[Admission Application Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Admission Application
+	x=240,3453
+[Authorization].[Profile Default Accounting]
+	dx=180,225
+	parent=Authorization
+	x=1226,935
+[Authorization].[Reimbursement]
+	dx=180,225
+	parent=Authorization
+	x=1461,298
+[Admission Application].[Admissions Application]
+	dx=180,225
+	parent=Admission Application
+	x=1466,1750
+[Admission Application].[Administrator]
+	dx=180,225
+	parent=Admission Application
+	x=160,1101
+[Admission Application].[Admissions Attribute]
+	dx=180,225
+	parent=Admission Application
+	x=91,2235
+[Admission Application].[Admissions Cohort]
+	dx=180,225
+	parent=Admission Application
+	x=389,2733
+[Admission Application].[Admissions Decision]
+	dx=180,225
+	parent=Admission Application
+	x=10,1661
+[Admission Application].[Admissions Decision Slot]
+	dx=180,225
+	parent=Admission Application
+	x=857,3075
+[Admission Application].[Admissions Rating]
+	dx=180,225
+	parent=Admission Application
+	x=22,1952
+[Admission Application].[Admissions Requirement]
+	dx=180,225
+	parent=Admission Application
+	x=215,2499
+[Admission Application].[Admissions Source]
+	dx=180,225
+	parent=Admission Application
+	x=57,1374
+[Admission Application].[Admissions Source Slot]
+	dx=180,225
+	parent=Admission Application
+	x=1422,3208
+[Admission Application].[Contact]
+	dx=180,225
+	parent=Admission Application
+	x=2397,627
+[Admission Application].[Current Employment]
+	dx=180,225
+	parent=Admission Application
+	x=756,476
+[Admission Application].[Employment History]
+	dx=180,225
+	parent=Admission Application
+	x=517,643
+[Admission Application].[Finaid Applicant Status]
+	dx=180,225
+	parent=Admission Application
+	x=1023,360
+[Admission Application].[Finaid_Hold]
+	dx=180,225
+	parent=Admission Application
+	x=2809,2318
+[Admission Application].[Geographic Region Institution]
+	dx=180,225
+	parent=Admission Application
+	x=3860,1361
+[Admission Application].[Government Admissions]
+	dx=180,225
+	parent=Admission Application
+	x=606,2928
+[Admission Application].[Inst Characteristic Slot]
+	dx=180,225
+	parent=Admission Application
+	x=2780,1435
+[Admission Application].[Institution]
+	dx=180,225
+	parent=Admission Application
+	x=3005,1465
+[Admission Application].[Institution Characteristic]
+	dx=180,225
+	parent=Admission Application
+	x=3306,1554
+[Admission Application].[Institution Demographic]
+	dx=180,225
+	parent=Admission Application
+	x=3472,1165
+[Admission Application].[Interest]
+	dx=180,225
+	parent=Admission Application
+	x=1885,353
+[Admission Application].[Interest Slot]
+	dx=180,225
+	parent=Admission Application
+	x=1712,3188
+[Admission Application].[Person Address]
+	dx=180,225
+	parent=Admission Application
+	x=1308,300
+[Admission Application].[Person Detail]
+	dx=180,225
+	parent=Admission Application
+	x=2481,2797
+[Admission Application].[Pre Student]
+	dx=180,225
+	parent=Admission Application
+	x=2925,1750
+[Admission Application].[Previous Degree]
+	dx=180,225
+	parent=Admission Application
+	x=3291,724
+[Admission Application].[Previous Education]
+	dx=180,225
+	parent=Admission Application
+	x=2839,1089
+[Admission Application].[Previous Education Attendance]
+	dx=328,29
+	parent=Admission Application
+	x=3017,861
+[Admission Application].[Previous Education Slot]
+	dx=180,225
+	parent=Admission Application
+	x=2253,2978
+[Admission Application].[Recruitment Information]
+	dx=180,225
+	parent=Admission Application
+	x=315,854
+[Admission Application].[Requirement Slot]
+	dx=180,225
+	parent=Admission Application
+	x=1133,3170
+[Admission Application].[Secondary School Subject]
+	dx=180,225
+	parent=Admission Application
+	x=3764,1630
+[Admission Application].[Telephone Current]
+	dx=180,225
+	parent=Admission Application
+	x=2669,2574
+[Admission Application].[Test]
+	dx=180,225
+	parent=Admission Application
+	x=2155,465
+[Admission Application].[Test Slot]
+	dx=180,225
+	parent=Admission Application
+	x=1993,3110
+[Admission Application].[Visa Current]
+	dx=180,225
+	parent=Admission Application
+	x=1599,298
+[Admission Application]
+	c=d8a77d
+	dx=4050,3501
+	expanded=t
+	parent=ODS
+	view=1406,1480
+	x=13688,26476
+	zoom=5068
+[Advisor Student List].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Advisor Student List
+	x=10,1824
+[Advisor Student List].[Student]
+	dx=180,225
+	parent=Advisor Student List
+	x=734,1040
+[Advisor Student List].[Academic Outcome]
+	dx=180,225
+	parent=Advisor Student List
+	x=1200,771
+[Advisor Student List].[Academic Outcome Slot]
+	dx=180,225
+	parent=Advisor Student List
+	x=465,1506
+[Advisor Student List].[Academic Study Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Advisor Student List
+	x=240,1824
+[Advisor Student List].[Academic Study]
+	dx=180,225
+	parent=Advisor Student List
+	x=1003,574
+[Advisor Student List].[Advisor]
+	dx=180,225
+	parent=Advisor Student List
+	x=268,771
+[Advisor Student List].[Advisor Person Address]
+	dx=180,225
+	parent=Advisor Student List
+	x=10,622
+[Advisor Student List].[Advisor Slot]
+	dx=180,225
+	parent=Advisor Student List
+	x=268,1309
+[Advisor Student List].[Enrollment]
+	dx=180,225
+	parent=Advisor Student List
+	x=465,574
+[Advisor Student List].[GPA By Term]
+	dx=180,225
+	parent=Advisor Student List
+	x=734,501
+[Advisor Student List].[Person Address]
+	dx=180,225
+	parent=Advisor Student List
+	x=1273,1040
+[Advisor Student List].[Person Detail]
+	dx=180,225
+	parent=Advisor Student List
+	x=734,1579
+[Advisor Student List].[Pre Student]
+	dx=180,225
+	parent=Advisor Student List
+	x=195,1040
+[Advisor Student List].[Student Cohort Slot]
+	dx=180,225
+	parent=Advisor Student List
+	x=1003,1506
+[Advisor Student List].[Student Course]
+	parent=Advisor Student List
+	x=313,327
+[Advisor Student List].[Student Course Attribute]
+	dx=180,225
+	parent=Advisor Student List
+	x=167,58
+[Advisor Student List].[Telephone Current]
+	dx=180,225
+	parent=Advisor Student List
+	x=1200,1309
+[Advisor Student List].[Transcript Comment]
+	dx=180,225
+	parent=Advisor Student List
+	x=1458,622
+[Advisor Student List]
+	c=bf8cbc
+	dx=1648,1872
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=918,55248
+	zoom=4744
+[Annual Giving].[Time Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Annual Giving
+	x=10,1566
+[Annual Giving].[Annual Giving]
+	dx=180,225
+	parent=Annual Giving
+	x=549,597
+[Annual Giving].[Annual Giving Slot]
+	dx=180,225
+	parent=Annual Giving
+	x=1015,866
+[Annual Giving].[Campaign Giving History]
+	dx=180,225
+	parent=Annual Giving
+	x=549,1136
+[Annual Giving].[Designation Finaid Fund]
+	dx=180,225
+	parent=Annual Giving
+	x=131,1321
+[Annual Giving].[Designation Giving History]
+	dx=180,225
+	parent=Annual Giving
+	x=280,1063
+[Annual Giving].[Donor Category Slot]
+	dx=180,225
+	parent=Annual Giving
+	x=1273,179
+[Annual Giving].[Constituent]
+	dx=180,225
+	parent=Annual Giving
+	x=1088,597
+[Annual Giving].[Constituent Entity]
+	dx=180,225
+	parent=Annual Giving
+	x=818,131
+[Annual Giving].[Donor Category]
+	dx=180,225
+	parent=Annual Giving
+	x=1015,328
+[Annual Giving].[Organization Entity]
+	dx=180,225
+	parent=Annual Giving
+	x=280,131
+[Annual Giving].[Organization Entity Address]
+	dx=180,225
+	parent=Annual Giving
+	x=10,597
+[Annual Giving].[Organizational Constituent]
+	dx=180,225
+	parent=Annual Giving
+	x=549,58
+[Annual Giving].[Person Address Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Annual Giving
+	x=240,1566
+[Annual Giving].[Person Address]
+	dx=180,225
+	parent=Annual Giving
+	x=83,328
+[Annual Giving].[Person Detail]
+	dx=180,225
+	parent=Annual Giving
+	x=83,866
+[Annual Giving].[Telephone Current]
+	dx=180,225
+	parent=Annual Giving
+	x=818,1063
+[Annual Giving]
+	c=758698
+	dx=1463,1614
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=5939,55248
+	zoom=2272
+[Authorization].[Authorization Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Authorization
+	x=10,1251
+[Authorization].[Authorization]
+	dx=180,225
+	parent=Authorization
+	x=349,677
+[Authorization].[Authorization Accounting]
+	dx=180,225
+	parent=Authorization
+	x=496,58
+[Authorization].[Authorization Approval History]
+	dx=180,225
+	parent=Authorization
+	x=139,943
+[Authorization].[Authorization Item Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Authorization
+	x=240,1251
+[Authorization].[Authorization Item]
+	dx=180,225
+	parent=Authorization
+	x=644,316
+[Authorization].[Authorization Itinerary Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Authorization
+	x=10,1309
+[Authorization].[Authorization Itinerary]
+	dx=180,225
+	parent=Authorization
+	x=10,677
+[Authorization].[Authorization Status History]
+	dx=180,225
+	parent=Authorization
+	x=139,411
+[Authorization].[Encumbrance]
+	dx=180,225
+	parent=Authorization
+	x=427,1006
+[Authorization].[Invoice]
+	dx=180,225
+	parent=Authorization
+	x=1553,582
+[Authorization].[Portfolio Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Authorization
+	x=240,1309
+[Authorization].[Portfolio]
+	dx=180,225
+	parent=Authorization
+	x=688,677
+[Authorization].[Portfolio Summary]
+	dx=180,225
+	parent=Authorization
+	x=957,548
+[Designation Giving History].[Constituent Entity]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,30
+[Designation Giving History].[Organization Entity]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,786
+[Designation Giving History].[Organization Entity Address]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,1290
+[Designation Giving History].[Organizational Constituent]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,534
+[Designation Giving History].[Person Address]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,1038
+[Designation Giving History].[Person Detail]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,1542
+[Authorization].[Reimbursement Accounting]
+	dx=180,225
+	parent=Authorization
+	x=1030,64
+[Authorization].[Reimbursement Approval History]
+	dx=180,225
+	parent=Authorization
+	x=1220,473
+[Authorization].[Reimbursement Item]
+	dx=180,225
+	parent=Authorization
+	x=946,317
+[Authorization].[Reimbursement Itinerary]
+	dx=180,225
+	parent=Authorization
+	x=1220,123
+[Authorization].[Reimbursement Status History]
+	dx=180,225
+	parent=Authorization
+	x=1553,14
+[Authorization].[Travel And Expense Profile]
+	dx=180,225
+	parent=Authorization
+	x=957,806
+[Authorization]
+	c=99b2c7
+	dx=1743,1357
+	expanded=t
+	parent=ODS
+	view=182,0
+	x=9354,6459
+	zoom=6144
+[Budget Availability Ledger].[Time Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Budget Availability Ledger
+	x=704,896
+[Budget Availability Ledger].[Budget Availability Ledger Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Budget Availability Ledger
+	x=564,1388
+[Budget Availability Ledger].[Budget Availability Ledger]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=10,912
+[Budget Availability Ledger].[Account Attributes]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,1542
+[Budget Availability Ledger].[Account Type Attributes Join Level 1]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,786
+[Budget Availability Ledger].[Account Type Attributes Join Level 2]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,534
+[Budget Availability Ledger].[Fund Attributes]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,1794
+[Budget Availability Ledger].[Fund Type Attributes Join Level 1]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,1038
+[Budget Availability Ledger].[Fund Type Attributes Join Level 2]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,282
+[Budget Availability Ledger].[Organization Attributes]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,1290
+[Budget Availability Ledger].[Program Attributes]
+	dx=180,225
+	parent=Budget Availability Ledger
+	x=230,30
+[Budget Availability Ledger]
+	c=e6c0c0
+	dx=924,1833
+	expanded=t
+	parent=ODS
+	view=0,466
+	x=3380,58557
+	zoom=4096
+[Budget Detail].[Time Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Budget Detail
+	x=568,1152
+[Budget Detail].[Budget Detail Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Budget Detail
+	x=564,1030
+[Budget Detail].[Budget Detail]
+	dx=180,225
+	parent=Budget Detail
+	x=10,1038
+[Budget Detail].[Account Attributes]
+	dx=180,225
+	parent=Budget Detail
+	x=230,2046
+[Budget Detail].[Account Type Attributes Join Level 1]
+	dx=180,225
+	parent=Budget Detail
+	x=230,534
+[Budget Detail].[Account Type Attributes Join Level 2]
+	dx=180,225
+	parent=Budget Detail
+	x=230,1038
+[Budget Detail].[Budget Request Text]
+	dx=180,225
+	parent=Budget Detail
+	x=30,30
+[Budget Detail].[Fund Attributes]
+	dx=180,225
+	parent=Budget Detail
+	x=230,1542
+[Budget Detail].[Fund Type Attributes Join Level 1]
+	dx=180,225
+	parent=Budget Detail
+	x=230,786
+[Budget Detail].[Fund Type Attributes Join Level 2]
+	dx=180,225
+	parent=Budget Detail
+	x=230,1290
+[Budget Detail].[Location Attributes]
+	dx=180,225
+	parent=Budget Detail
+	x=230,282
+[Budget Detail].[Organization Attributes]
+	dx=180,225
+	parent=Budget Detail
+	x=230,1794
+[Budget Detail].[Program Attributes]
+	dx=180,225
+	parent=Budget Detail
+	x=230,30
+[Budget Detail]
+	c=99f7ff
+	dx=788,2085
+	expanded=t
+	parent=ODS
+	view=0,418
+	x=4321,14656
+	zoom=4096
+[Campaign Giving History].[Campaign Giving History]
+	dx=180,225
+	parent=Campaign Giving History
+	x=10,1038
+[Campaign Giving History].[Annual Giving]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,1794
+[Campaign Giving History].[Constituent]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,282
+[Campaign Giving History].[Constituent Entity]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,786
+[Campaign Giving History].[Organization Entity]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,30
+[Campaign Giving History].[Organization Entity Address]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,1290
+[Campaign Giving History].[Organizational Constituent]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,534
+[Campaign Giving History].[Person Address]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,1038
+[Campaign Giving History].[Person Detail]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,1542
+[Campaign Giving History].[Telephone Current]
+	dx=180,225
+	parent=Campaign Giving History
+	x=230,2046
+[Campaign Giving History]
+	c=73d3ac
+	dx=420,2085
+	expanded=t
+	parent=ODS
+	x=3400,67735
+[Campaign Management].[Campaign Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Campaign Management
+	x=70,44
+[Campaign Management].[Campaign]
+	dx=180,225
+	parent=Campaign Management
+	x=385,493
+[Campaign Management].[Campaign Comment]
+	dx=180,225
+	parent=Campaign Management
+	x=10,493
+[Campaign Management].[Campaign Designation Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Campaign Management
+	x=100,74
+[Campaign Management].[Campaign Designation]
+	dx=180,225
+	parent=Campaign Management
+	x=760,493
+[Campaign Management].[Campaign Expense]
+	dx=180,225
+	parent=Campaign Management
+	x=385,118
+[Campaign Management].[Campaign Fundraiser]
+	dx=180,225
+	parent=Campaign Management
+	x=650,758
+[Campaign Management].[Campaign Mail]
+	dx=180,225
+	parent=Campaign Management
+	x=120,228
+[Campaign Management].[Campaign Solicitation]
+	dx=180,225
+	parent=Campaign Management
+	x=650,228
+[Campaign Management].[Gift Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Campaign Management
+	x=130,104
+[Campaign Management].[Gift]
+	dx=180,225
+	parent=Campaign Management
+	x=120,758
+[Campaign Management].[Pledge Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Campaign Management
+	x=160,134
+[Campaign Management].[Pledge]
+	dx=180,225
+	parent=Campaign Management
+	x=385,868
+[Campaign Management]
+	c=d8a77d
+	dx=950,907
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=2430,67735
+	zoom=4096
+[Constituent].[Constituent Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=10,2396
+[Constituent].[Constituent]
+	dx=180,225
+	parent=Constituent
+	x=1332,1203
+[Constituent].[Annual Giving Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=240,2396
+[Constituent].[Annual Giving]
+	dx=180,225
+	parent=Constituent
+	x=2478,1203
+[Constituent].[Annual Giving Slot]
+	dx=180,225
+	parent=Constituent
+	x=585,2071
+[Constituent].[Campaing Giving History Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=470,2396
+[Constituent].[Campaign Giving History]
+	dx=180,225
+	parent=Constituent
+	x=2462,1018
+[Constituent].[Constituent Contact]
+	dx=180,225
+	parent=Constituent
+	x=2462,1388
+[Constituent].[Constituent Entity]
+	dx=180,225
+	parent=Constituent
+	x=194,1069
+[Constituent].[Constituent Plan]
+	dx=180,225
+	parent=Constituent
+	x=540,134
+[Constituent].[Consituent Spouse Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=10,2454
+[Constituent].[Constituent Spouse]
+	dx=180,225
+	parent=Constituent
+	x=2343,1741
+[Constituent].[Constituent Staff Assign Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=240,2454
+[Constituent].[Constituent Staff Assign]
+	dx=180,225
+	parent=Constituent
+	x=298,711
+[Constituent].[Current Employment Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=470,2454
+[Constituent].[Current Employment]
+	dx=180,225
+	parent=Constituent
+	x=454,1938
+[Constituent].[Cross Reference Slot]
+	dx=180,225
+	parent=Constituent
+	x=1972,2153
+[Constituent].[Degree]
+	dx=180,225
+	parent=Constituent
+	x=2207,470
+[Constituent].[Degree Slot]
+	dx=180,225
+	parent=Constituent
+	x=736,2181
+[Constituent].[Designation Giving History Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=10,2512
+[Constituent].[Designation Giving History]
+	dx=180,225
+	parent=Constituent
+	x=1347,58
+[Constituent].[Donor Category Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=240,2512
+[Constituent].[Donor Category]
+	dx=180,225
+	parent=Constituent
+	x=2039,302
+[Constituent].[Donor Category Slot]
+	dx=180,225
+	parent=Constituent
+	x=1809,2244
+[Constituent].[Employment History Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=470,2512
+[Constituent].[Employment History]
+	dx=180,225
+	parent=Constituent
+	x=231,886
+[Constituent].[Exclusion Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=10,2570
+[Constituent].[Exclusion]
+	dx=180,225
+	parent=Constituent
+	x=2417,837
+[Constituent].[Exclusion Slot]
+	dx=180,225
+	parent=Constituent
+	x=902,2265
+[Constituent].[Gift Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=240,2570
+[Constituent].[Gift]
+	dx=180,225
+	parent=Constituent
+	x=1162,70
+[Constituent].[Gift Society]
+	dx=180,225
+	parent=Constituent
+	x=808,184
+[Constituent].[Gift Society Slot]
+	dx=180,225
+	parent=Constituent
+	x=1080,2320
+[Constituent].[Gift Transaction Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=470,2570
+[Constituent].[Gift Transaction]
+	dx=180,225
+	parent=Constituent
+	x=211,1439
+[Constituent].[Interest]
+	dx=180,225
+	parent=Constituent
+	x=1,1009
+[Constituent].[Mail]
+	dx=180,225
+	parent=Constituent
+	x=981,113
+[Constituent].[Mail Slot]
+	dx=180,225
+	parent=Constituent
+	x=1265,2347
+[Constituent].[Membership]
+	dx=180,225
+	parent=Constituent
+	x=1884,199
+[Constituent].[Membership Interest]
+	dx=180,225
+	parent=Constituent
+	x=346,1786
+[Constituent].[Person Address Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=10,2628
+[Constituent].[Person Address]
+	dx=180,225
+	parent=Constituent
+	x=391,550
+[Constituent].[Person Detail]
+	dx=180,225
+	parent=Constituent
+	x=2242,1898
+[Constituent].[Pledge Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=240,2628
+[Constituent].[Pledge]
+	dx=180,225
+	parent=Constituent
+	x=1533,75
+[Constituent].[Pledge Transaction Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Constituent
+	x=470,2628
+[Constituent].[Pledge Transaction]
+	dx=180,225
+	parent=Constituent
+	x=264,1618
+[Constituent].[Previous Degree]
+	dx=180,225
+	parent=Constituent
+	x=2608,479
+[Constituent].[Previous Education Attendance]
+	dx=180,225
+	parent=Constituent
+	x=2396,590
+[Constituent].[Prospect Info]
+	dx=180,225
+	parent=Constituent
+	x=650,283
+[Constituent].[Relationship]
+	dx=180,225
+	parent=Constituent
+	x=2118,2036
+[Constituent].[Solicitation]
+	dx=180,225
+	parent=Constituent
+	x=188,1254
+[Constituent].[Special Activity]
+	dx=180,225
+	parent=Constituent
+	x=1713,123
+[Constituent].[Special Activity Slot]
+	dx=180,225
+	parent=Constituent
+	x=1451,2342
+[Constituent].[Special Purpose Group]
+	dx=180,225
+	parent=Constituent
+	x=510,406
+[Constituent].[Special Purpose Slot]
+	dx=180,225
+	parent=Constituent
+	x=1634,2308
+[Constituent].[Telephone Current]
+	dx=180,225
+	parent=Constituent
+	x=2417,1569
+[Constituent]
+	c=568ef6
+	dx=2798,2676
+	expanded=t
+	parent=ODS
+	view=998,0
+	x=4109,26476
+	zoom=4096
+[Constituent Entity].[Constituent Entity]
+	dx=180,225
+	parent=Constituent Entity
+	x=1059,1114
+[Constituent Entity].[Advancement Rating Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=10,2415
+[Constituent Entity].[Advancement Rating]
+	dx=180,225
+	parent=Constituent Entity
+	x=1546,2054
+[Constituent Entity].[Advancement Rating Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=1781,1887
+[Constituent Entity].[Annual Giving Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=240,2415
+[Constituent Entity].[Annual Giving]
+	dx=180,225
+	parent=Constituent Entity
+	x=2118,1114
+[Constituent Entity].[Annual Giving Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=10,970
+[Constituent Entity].[Campaing Giving History Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=470,2415
+[Constituent Entity].[Campaign Giving History]
+	dx=180,225
+	parent=Constituent Entity
+	x=2078,829
+[Constituent Entity].[Constituent Conf Comment]
+	dx=180,225
+	parent=Constituent Entity
+	x=1963,1664
+[Constituent Entity].[Constituent Conf Comment Subj]
+	dx=180,225
+	parent=Constituent Entity
+	x=2218,1819
+[Constituent Entity].[Cross Reference Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=1274,2150
+[Constituent Entity].[Designation Giving History Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=10,2473
+[Constituent Entity].[Designation Giving History]
+	dx=180,225
+	parent=Constituent Entity
+	x=987,58
+[Constituent Entity].[Donor Category Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=240,2473
+[Constituent Entity].[Donor Category]
+	dx=180,225
+	parent=Constituent Entity
+	x=1781,341
+[Constituent Entity].[Donor Category Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=987,2170
+[Constituent Entity].[Exclusion Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=470,2473
+[Constituent Entity].[Exclusion]
+	dx=180,225
+	parent=Constituent Entity
+	x=1963,564
+[Constituent Entity].[Exclusion Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=10,1258
+[Constituent Entity].[Gift Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=10,2531
+[Constituent Entity].[Gift]
+	dx=180,225
+	parent=Constituent Entity
+	x=705,117
+[Constituent Entity].[Gift Society Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=240,2531
+[Constituent Entity].[Gift Society]
+	dx=180,225
+	parent=Constituent Entity
+	x=238,446
+[Constituent Entity].[Gift Society Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=88,1535
+[Constituent Entity].[Mail]
+	dx=180,225
+	parent=Constituent Entity
+	x=449,249
+[Constituent Entity].[Mail Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=238,1782
+[Constituent Entity].[Pledge Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Constituent Entity
+	x=470,2531
+[Constituent Entity].[Pledge]
+	dx=180,225
+	parent=Constituent Entity
+	x=1274,78
+[Constituent Entity].[Special Activity]
+	dx=180,225
+	parent=Constituent Entity
+	x=1546,174
+[Constituent Entity].[Special Activity Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=449,1979
+[Constituent Entity].[Special Purpose Group]
+	dx=180,225
+	parent=Constituent Entity
+	x=88,693
+[Constituent Entity].[Special Purpose Slot]
+	dx=180,225
+	parent=Constituent Entity
+	x=705,2111
+[Constituent Entity]
+	c=527ca5
+	dx=2408,2579
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=4200,47848
+	zoom=1422
+[Course Catalog].[Time Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Course Catalog
+	x=10,623
+[Course Catalog].[Course Catalog]
+	dx=180,225
+	parent=Course Catalog
+	x=300,284
+[Course Catalog].[Course Attribute]
+	dx=180,225
+	parent=Course Catalog
+	x=300,58
+[Course Catalog].[Course Coreq]
+	dx=180,225
+	parent=Course Catalog
+	x=459,125
+[Course Catalog].[Course Level]
+	dx=180,225
+	parent=Course Catalog
+	x=141,125
+[Course Catalog].[Course Offering Fees]
+	parent=Course Catalog
+	x=459,443
+[Course Catalog].[Course Prereq]
+	dx=180,225
+	parent=Course Catalog
+	x=526,284
+[Course Catalog].[Course Prereq Combined]
+	dx=180,225
+	parent=Course Catalog
+	x=300,510
+[Course Catalog].[Course Schedule]
+	dx=180,225
+	parent=Course Catalog
+	x=74,284
+[Course Catalog].[Schedule Attribute]
+	dx=180,225
+	parent=Course Catalog
+	x=10,574
+[Course Catalog].[Schedule Offering]
+	dx=180,225
+	parent=Course Catalog
+	x=141,443
+[Course Catalog]
+	c=9bdfc4
+	dx=716,671
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=10,63922
+	zoom=6144
+[Designation].[Designation]
+	dx=180,225
+	parent=Designation
+	x=10,20109
+[Designation].[Designation Accounting]
+	dx=180,225
+	parent=Designation
+	x=230,21117
+[Designation].[Designation Adjustment]
+	dx=180,225
+	parent=Designation
+	x=230,19101
+[Designation].[Designation Attribute]
+	dx=180,225
+	parent=Designation
+	x=230,19353
+[Designation].[Designation Class Year]
+	dx=180,225
+	parent=Designation
+	x=230,19605
+[Designation].[Designation Finaid Fund]
+	dx=180,225
+	parent=Designation
+	x=230,19857
+[Designation].[Designation Comment]
+	dx=180,225
+	parent=Designation
+	x=230,20109
+[Designation].[Designation Comment Subj]
+	dx=180,225
+	parent=Designation
+	x=3889,44
+[Designation].[Designation ID]
+	dx=180,225
+	parent=Designation
+	x=230,20361
+[Designation].[Gift]
+	dx=180,225
+	parent=Designation
+	x=230,20613
+[Designation].[Pledge]
+	dx=180,225
+	parent=Designation
+	x=230,20865
+[Designation]
+	c=9bdfc4
+	dx=4079,21156
+	expanded=t
+	parent=ODS
+	view=35,1278
+	x=10,26476
+	zoom=8192
+[Designation Giving History].[Designation Giving History]
+	dx=180,225
+	parent=Designation Giving History
+	x=10,1038
+[Designation Giving History].[Annual Giving]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,1794
+[Designation Giving History].[Constituent]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,282
+[Financial Aid Application].[User Defined Fields]
+	dx=180,225
+	parent=Financial Aid Application
+	x=833,92
+[Financial Aid Application]
+	c=527ca5
+	dx=1926,1521
+	expanded=t
+	parent=ODS
+	view=422,428
+	x=10,47848
+	zoom=4906
+[Financial Aid Award and Disbursement].[Time Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Financial Aid Award and Disbursement
+	x=10,1752
+[Financial Aid Award and Disbursement].[Award By Person Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Financial Aid Award and Disbursement
+	x=240,1752
+[Financial Aid Award and Disbursement].[Award By Person]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=548,1158
+[Designation Giving History].[Telephone Current]
+	dx=180,225
+	parent=Designation Giving History
+	x=230,2046
+[Designation Giving History]
+	c=d8a77d
+	dx=420,2085
+	expanded=t
+	parent=ODS
+	view=0,777
+	x=10,70288
+	zoom=8192
+[Employee].[Employee Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=55,2075
+[Employee].[Employee]
+	dx=180,225
+	parent=Employee
+	x=1036,1042
+[Employee].[Barg Unit Slot]
+	dx=180,225
+	parent=Employee
+	x=160,1493
+[Employee].[Bargaining Unit]
+	dx=180,225
+	parent=Employee
+	x=1268,84
+[Employee].[Beneficiary Dependent]
+	dx=180,225
+	parent=Employee
+	x=1445,146
+[Employee].[Beneficiary Slot]
+	dx=180,225
+	parent=Employee
+	x=261,1651
+[Employee].[Benefit Deduction]
+	dx=180,225
+	parent=Employee
+	x=1607,239
+[Employee].[Certification]
+	dx=180,225
+	parent=Employee
+	x=1951,676
+[Employee].[Certification Slot]
+	dx=180,225
+	parent=Employee
+	x=391,1787
+[Employee].[Combined Academic outcome Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=285,2075
+[Employee].[Combined Academic Outcome]
+	dx=180,225
+	parent=Employee
+	x=55,949
+[Employee].[Empl Earn CY Slot]
+	dx=180,225
+	parent=Employee
+	x=543,1895
+[Employee].[Employee Earning CY]
+	dx=180,225
+	parent=Employee
+	x=544,189
+[Employee].[Employee Earning FY Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=515,2075
+[Employee].[Employee Earning FY]
+	dx=180,225
+	parent=Employee
+	x=391,297
+[Employee].[Employee Position Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=55,2133
+[Employee].[Employee Position]
+	dx=180,225
+	parent=Employee
+	x=55,1135
+[Employee].[Employement History Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=285,2133
+[Employee].[Employment History]
+	dx=180,225
+	parent=Employee
+	x=2022,1042
+[Employee].[Instructional Assignment Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=515,2133
+[Employee].[Instructional Assignment]
+	dx=180,225
+	parent=Employee
+	x=160,591
+[Employee].[Labor Cost Dist Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=55,2191
+[Employee].[Labor Cost Distribution]
+	dx=180,225
+	parent=Employee
+	x=52,1039
+[Employee].[Leave Balance]
+	dx=180,225
+	parent=Employee
+	x=1082,58
+[Employee].[Leave Balance Slot]
+	dx=180,225
+	parent=Employee
+	x=714,1973
+[Employee].[Monthly Deduct Slot]
+	dx=180,225
+	parent=Employee
+	x=896,2017
+[Employee].[Monthly Deduction]
+	dx=180,225
+	parent=Employee
+	x=1865,509
+[Employee].[Non Instructional Assign Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=285,2191
+[Employee].[Non Instructional Assignment]
+	dx=180,225
+	parent=Employee
+	x=90,765
+[Employee].[Noninstruct Assign Slot]
+	dx=180,225
+	parent=Employee
+	x=1082,2026
+[Employee].[Organization Hierarchy Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=515,2191
+[Employee].[Organization Hierarchy]
+	dx=180,225
+	parent=Employee
+	x=1865,1575
+[Employee].[Past Employment Slot]
+	dx=180,225
+	parent=Employee
+	x=1268,2000
+[Employee].[Person Address Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Employee
+	x=55,2249
+[Employee].[Person Address]
+	dx=180,225
+	parent=Employee
+	x=90,1319
+[Employee].[Person Detail]
+	dx=180,225
+	parent=Employee
+	x=1749,1722
+[Employee].[Previous Degree]
+	dx=180,225
+	parent=Employee
+	x=2017,1978
+[Employee].[Previous Education Attendance]
+	dx=180,225
+	parent=Employee
+	x=1883,1850
+[Employee].[Review]
+	dx=180,225
+	parent=Employee
+	x=896,67
+[Employee].[Review Slot]
+	dx=180,225
+	parent=Employee
+	x=1445,1938
+[Employee].[Skill]
+	dx=180,225
+	parent=Employee
+	x=2004,856
+[Employee].[Skill Slot]
+	dx=180,225
+	parent=Employee
+	x=1607,1845
+[Employee].[Supervisor]
+	dx=180,225
+	parent=Employee
+	x=1951,1408
+[Employee].[Tax]
+	dx=180,225
+	parent=Employee
+	x=261,433
+[Employee].[Telephone Current]
+	dx=180,225
+	parent=Employee
+	x=2004,1228
+[Employee].[Yearly Deduction]
+	dx=180,225
+	parent=Employee
+	x=1749,362
+[Employee]
+	c=89c6fd
+	dx=2212,2297
+	expanded=t
+	parent=ODS
+	view=412,1065
+	x=6741,14656
+	zoom=4096
+[Encumbrance].[Time Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Encumbrance
+	x=10,1995
+[Encumbrance].[Encumbrance Accounting Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Encumbrance
+	x=240,1995
+[Encumbrance].[Encumbrance Accounting]
+	dx=180,225
+	parent=Encumbrance
+	x=1000,1053
+[Encumbrance].[Authorization Accounting]
+	dx=180,225
+	parent=Encumbrance
+	x=1641,1330
+[Encumbrance].[Account Attributes]
+	dx=180,225
+	parent=Encumbrance
+	x=1998,1053
+[Encumbrance].[Account Hierarchy]
+	dx=180,225
+	parent=Encumbrance
+	x=1699,1053
+[Encumbrance].[Account Hierarchy Fiscal]
+	dx=180,225
+	parent=Encumbrance
+	x=959,1750
+[Encumbrance].[Encumbrance Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Encumbrance
+	x=10,2053
+[Encumbrance].[Encumbrance]
+	dx=180,225
+	parent=Encumbrance
+	x=521,545
+[Encumbrance].[Encumbrance Ledger Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Encumbrance
+	x=240,2053
+[Encumbrance].[Encumbrance Ledger]
+	dx=180,225
+	parent=Encumbrance
+	x=306,971
+[Encumbrance].[Encumbrance Text]
+	dx=180,225
+	parent=Encumbrance
+	x=431,260
+[Encumbrance].[Fund Attributes]
+	dx=180,225
+	parent=Encumbrance
+	x=1915,658
+[Encumbrance].[Fund Hierarchy]
+	dx=180,225
+	parent=Encumbrance
+	x=1641,776
+[Encumbrance].[Fund Hierarchy Fiscal]
+	dx=180,225
+	parent=Encumbrance
+	x=464,1501
+[Encumbrance].[Location Attributes]
+	dx=180,225
+	parent=Encumbrance
+	x=1340,115
+[Encumbrance].[Location Hierarchy]
+	dx=180,225
+	parent=Encumbrance
+	x=1238,396
+[Encumbrance].[Location Hierarchy Fiscal]
+	dx=180,225
+	parent=Encumbrance
+	x=1479,1561
+[Encumbrance].[Organization Attributes]
+	dx=180,225
+	parent=Encumbrance
+	x=942,58
+[Encumbrance].[Organization Hierarchy]
+	dx=180,225
+	parent=Encumbrance
+	x=959,356
+[Encumbrance].[Organization Hierarchy Fiscal]
+	dx=180,225
+	parent=Encumbrance
+	x=686,1677
+[Encumbrance].[Program Attributes]
+	dx=180,225
+	parent=Encumbrance
+	x=1684,328
+[Encumbrance].[Program Hierarchy]
+	dx=180,225
+	parent=Encumbrance
+	x=1479,545
+[Encumbrance].[Program Hierarchy Fiscal]
+	dx=180,225
+	parent=Encumbrance
+	x=1238,1710
+[Encumbrance].[Purchase Order Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Encumbrance
+	x=10,2111
+[Encumbrance].[Purchase Order]
+	dx=180,225
+	parent=Encumbrance
+	x=331,1252
+[Encumbrance].[Purchase Order Text]
+	dx=180,225
+	parent=Encumbrance
+	x=45,1337
+[Encumbrance].[Transaction History]
+	dx=180,225
+	parent=Encumbrance
+	x=10,936
+[Encumbrance].[Vendor]
+	dx=180,225
+	parent=Encumbrance
+	x=242,438
+[Encumbrance]
+	c=99b2c7
+	dx=2188,2159
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=10,58
+	zoom=1827
+[Endowment Distribution].[Endowment Distribution Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Endowment Distribution
+	x=480,564
+[Endowment Distribution].[Endowment Distribution]
+	dx=180,225
+	parent=Endowment Distribution
+	x=10,534
+[Endowment Distribution].[Account Type Attributes]
+	dx=180,225
+	parent=Endowment Distribution
+	x=230,1038
+[Endowment Distribution].[Endowment Attributes]
+	dx=180,225
+	parent=Endowment Distribution
+	x=230,534
+[Endowment Distribution].[Fund Attributes]
+	dx=180,225
+	parent=Endowment Distribution
+	x=450,30
+[Endowment Distribution].[Fund Hierarchy]
+	dx=180,225
+	parent=Endowment Distribution
+	x=230,156
+[Endowment Distribution].[Fund Text]
+	dx=180,225
+	parent=Endowment Distribution
+	x=450,282
+[Endowment Distribution].[Transaction History Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Endowment Distribution
+	x=510,594
+[Endowment Distribution].[Transaction History]
+	dx=180,225
+	parent=Endowment Distribution
+	x=230,786
+[Endowment Distribution]
+	c=bf8cbc
+	dx=730,1077
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=450,70288
+	zoom=8192
+[Endowment Unit].[Endowment Units Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Endowment Unit
+	x=10,821
+[Endowment Unit].[Endowment Units]
+	dx=180,225
+	parent=Endowment Unit
+	x=434,466
+[Endowment Unit].[Account Attributes]
+	dx=180,225
+	parent=Endowment Unit
+	x=860,466
+[Endowment Unit].[Account Hierarchy]
+	dx=180,225
+	parent=Endowment Unit
+	x=667,466
+[Endowment Unit].[Account Type Attributes]
+	dx=180,225
+	parent=Endowment Unit
+	x=599,629
+[Endowment Unit].[Endowment Attributes]
+	dx=180,225
+	parent=Endowment Unit
+	x=437,698
+[Endowment Unit].[Endowment Summarized Units]
+	dx=180,225
+	parent=Endowment Unit
+	x=273,633
+[Endowment Unit].[Fund Attributes]
+	dx=180,225
+	parent=Endowment Unit
+	x=659,118
+[Endowment Unit].[Fund Hierarchy]
+	dx=180,225
+	parent=Endowment Unit
+	x=519,250
+[Endowment Unit].[Fund Text]
+	dx=180,225
+	parent=Endowment Unit
+	x=507,58
+[Endowment Unit].[Organization Attributes]
+	dx=180,225
+	parent=Endowment Unit
+	x=125,175
+[Endowment Unit].[Organization Hierarchy]
+	dx=180,225
+	parent=Endowment Unit
+	x=265,307
+[Endowment Unit].[Program Attributes]
+	dx=180,225
+	parent=Endowment Unit
+	x=10,476
+[Endowment Unit].[Program Hierarchy]
+	dx=180,225
+	parent=Endowment Unit
+	x=202,472
+[Endowment Unit].[Summarized Units Endowment Attributes]
+	dx=180,225
+	parent=Endowment Unit
+	x=140,772
+[Endowment Unit]
+	c=758698
+	dx=1050,869
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=10,67735
+	zoom=6144
+[Enrollment Management].[Time Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Enrollment Management
+	x=225,267
+[Enrollment Management].[Enrollment Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Enrollment Management
+	x=255,297
+[Enrollment Management].[Enrollment]
+	dx=180,225
+	parent=Enrollment Management
+	x=10,1038
+[Enrollment Management].[Academic Outcome Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Enrollment Management
+	x=285,327
+[Enrollment Management].[Academic Outcome]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,282
+[Enrollment Management].[Academic Outcome Slot]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,1290
+[Enrollment Management].[Admissions Application]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,534
+[Enrollment Management].[Constituent]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,1038
+[Enrollment Management].[Person Address]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,1542
+[Enrollment Management].[Person Detail]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,1794
+[Enrollment Management].[Recruitment Information]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,786
+[Enrollment Management].[Student]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,30
+[Enrollment Management].[Student Extended]
+	dx=180,225
+	parent=Enrollment Management
+	x=30,30
+[Enrollment Management].[Telephone Current]
+	dx=180,225
+	parent=Enrollment Management
+	x=230,2046
+[Enrollment Management]
+	c=99f7ff
+	dx=505,2085
+	expanded=t
+	parent=ODS
+	view=0,91
+	x=10674,3025
+	zoom=8192
+[Event].[Event]
+	dx=180,225
+	parent=Event
+	x=269,290
+[Event].[Event Invitee]
+	dx=180,225
+	parent=Event
+	x=288,522
+[Event].[Organization Entity]
+	dx=180,225
+	parent=Event
+	x=426,119
+[Event].[Person Address]
+	dx=180,225
+	parent=Event
+	x=502,290
+[Event].[Person Detail]
+	dx=180,225
+	parent=Event
+	x=85,148
+[Event].[Organization Entity Address]
+	dx=180,225
+	parent=Event
+	x=250,58
+[Event].[Telephone Current]
+	dx=180,225
+	parent=Event
+	x=40,329
+[Event].[Invitee Person Detail]
+	dx=260,29
+	parent=Event
+	x=549,804
+[Event].[Invitee Address]
+	dx=301,29
+	parent=Event
+	x=10,872
+[Event].[Invitee Telephone Current]
+	dx=290,28
+	parent=Event
+	x=292,930
+[Event]
+	c=73d3ac
+	dx=819,968
+	expanded=t
+	parent=ODS
+	view=0,145
+	x=1860,70288
+	zoom=6144
+[Faculty Assignment].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Faculty Assignment
+	x=10,1083
+[Faculty Assignment].[Faculty Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Faculty Assignment
+	x=240,1083
+[Faculty Assignment].[Faculty]
+	dx=180,225
+	parent=Faculty Assignment
+	x=551,682
+[Faculty Assignment].[Employee Position]
+	dx=180,225
+	parent=Faculty Assignment
+	x=201,637
+[Faculty Assignment].[Faculty Att Slot]
+	dx=180,225
+	parent=Faculty Assignment
+	x=349,971
+[Faculty Assignment].[Faculty Attribute]
+	dx=180,225
+	parent=Faculty Assignment
+	x=852,499
+[Faculty Assignment].[Faculty Department College]
+	dx=180,225
+	parent=Faculty Assignment
+	x=229,824
+[Faculty Assignment].[Instructional Assignment]
+	dx=180,225
+	parent=Faculty Assignment
+	x=573,330
+[Faculty Assignment].[Labor Cost Distribution]
+	dx=180,225
+	parent=Faculty Assignment
+	x=10,613
+[Faculty Assignment].[Meeting Time]
+	dx=180,225
+	parent=Faculty Assignment
+	x=750,123
+[Faculty Assignment].[Meeting Time Slot]
+	dx=180,225
+	parent=Faculty Assignment
+	x=424,102
+[Faculty Assignment].[Non Instructional Assignment]
+	dx=180,225
+	parent=Faculty Assignment
+	x=276,462
+[Faculty Assignment].[Noninstruct Assign Slot]
+	dx=180,225
+	parent=Faculty Assignment
+	x=529,1034
+[Faculty Assignment].[Person Address]
+	dx=180,225
+	parent=Faculty Assignment
+	x=904,682
+[Faculty Assignment].[Person Detail]
+	dx=180,225
+	parent=Faculty Assignment
+	x=714,995
+[Faculty Assignment].[Schedule Offering]
+	dx=180,225
+	parent=Faculty Assignment
+	x=590,58
+[Faculty Assignment].[Telephone Current]
+	dx=180,225
+	parent=Faculty Assignment
+	x=852,865
+[Faculty Assignment]
+	c=568ef6
+	dx=1094,1131
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=10225,47848
+	zoom=4096
+[Financial Aid Application].[Time Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Financial Aid Application
+	x=10,1473
+[Financial Aid Application].[Finaid Applicant Status Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Financial Aid Application
+	x=240,1473
+[Financial Aid Application].[Finaid Applicant Status]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1051,741
+[Financial Aid Application].[Admissions Application]
+	dx=180,225
+	parent=Financial Aid Application
+	x=667,175
+[Financial Aid Application].[Applicant Need]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1522,244
+[Financial Aid Application].[Applicant Resource]
+	parent=Financial Aid Application
+	x=1711,924
+[Financial Aid Application].[Award By Person]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1371,136
+[Financial Aid Application].[Finaid Budget Component]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1014,58
+[Financial Aid Application].[Finaid Budget Comp Slot]
+	dx=180,225
+	parent=Financial Aid Application
+	x=430,454
+[Financial Aid Application].[Finaid Comments]
+	dx=220,309
+	parent=Financial Aid Application
+	x=402,1011
+[Financial Aid Application].[Finaid Hold]
+	dx=180,225
+	parent=Financial Aid Application
+	x=529,1184
+[Financial Aid Application].[Finaid Message]
+	parent=Financial Aid Application
+	x=1637,1094
+[Financial Aid Application].[Finaid Tracking Requirement]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1736,741
+[Financial Aid Application].[Loan Application]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1637,388
+[Financial Aid Application].[Need Analysis]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1711,558
+[Financial Aid Application].[Need Analysis Demographic]
+	dx=180,225
+	parent=Financial Aid Application
+	x=667,1307
+[Financial Aid Application].[Need Analysis Federal Method]
+	dx=180,225
+	parent=Financial Aid Application
+	x=833,1390
+[Financial Aid Application].[Need Analysis Inst Method]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1014,1424
+[Financial Aid Application].[Need Analysis Isir Specific]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1198,1409
+[Financial Aid Application].[Need Analysis Override]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1371,1346
+[Financial Aid Application].[Need Analysis Profile Specific]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1522,1238
+[Financial Aid Application].[Person Address]
+	dx=180,225
+	parent=Financial Aid Application
+	x=529,298
+[Financial Aid Application].[Person Detail]
+	dx=180,225
+	parent=Financial Aid Application
+	x=376,631
+[Financial Aid Application].[Previous Degree]
+	dx=180,28
+	parent=Financial Aid Application
+	x=10,571
+[Financial Aid Application].[Previous Education Attendance]
+	dx=180,29
+	parent=Financial Aid Application
+	x=193,514
+[Financial Aid Application].[Satisfactory Acad Progress]
+	dx=180,225
+	parent=Financial Aid Application
+	x=1198,73
+[Financial Aid Application].[Telephone Current]
+	dx=180,225
+	parent=Financial Aid Application
+	x=371,815
+[Invoice Payable].[Person Detail]
+	dx=180,225
+	parent=Invoice Payable
+	x=370,93
+[Invoice Payable].[Reimbursement Item]
+	dx=180,225
+	parent=Invoice Payable
+	x=744,422
+[Financial Aid Award and Disbursement].[Academic Study]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=346,651
+[Financial Aid Award and Disbursement].[Academic Study Extended]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=710,1679
+[Financial Aid Award and Disbursement].[Award By Aid Year]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=527,1703
+[Financial Aid Award and Disbursement].[Award By Fund]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=710,637
+[Financial Aid Award and Disbursement].[Award Disbursement Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Financial Aid Award and Disbursement
+	x=10,1810
+[Financial Aid Award and Disbursement].[Award Disbursement]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=527,613
+[Financial Aid Award and Disbursement].[Designation Finaid Fund]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=1002,1461
+[Financial Aid Award and Disbursement].[Enrollment]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=189,748
+[Financial Aid Award and Disbursement].[Finaid Applicant Status]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=1094,1158
+[Financial Aid Award and Disbursement].[Finaid Enrollment]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=874,721
+[Financial Aid Award and Disbursement].[Finaid Fund]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=1002,855
+[Financial Aid Award and Disbursement].[Finaid Hold]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=1261,1239
+[Financial Aid Award and Disbursement].[General Ledger]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=506,58
+[Financial Aid Award and Disbursement].[Government Financial Aid]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=10,1066
+[Financial Aid Award and Disbursement].[GPA By Term]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=189,1568
+[Financial Aid Award and Disbursement].[Loan Aggregates]
+	parent=Financial Aid Award and Disbursement
+	x=1261,1077
+[Financial Aid Award and Disbursement].[Person Address]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=10,1250
+[Financial Aid Award and Disbursement].[Person Detail]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=72,1424
+[Financial Aid Award and Disbursement].[Receivable Account Detail]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=520,428
+[Financial Aid Award and Disbursement].[Student]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=72,892
+[Financial Aid Award and Disbursement].[Student Extended]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=874,1595
+[Financial Aid Award and Disbursement].[Telephone Current]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=346,1665
+[Financial Aid Award and Disbursement].[Transaction History]
+	dx=180,225
+	parent=Financial Aid Award and Disbursement
+	x=513,243
+[Financial Aid Award and Disbursement]
+	c=9bdfc4
+	dx=1451,1858
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=21489,3004
+	zoom=5392
+[Financial Aid Fund].[Time Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Financial Aid Fund
+	x=1047,2180
+[Financial Aid Fund].[Award By Fund]
+	dx=180,225
+	parent=Financial Aid Fund
+	x=670,946
+[Financial Aid Fund].[Award By Aid Year]
+	dx=180,225
+	parent=Financial Aid Fund
+	x=521,1204
+[Financial Aid Fund].[FinAid Fund Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Financial Aid Fund
+	view=0,0
+	x=11,44
+	zoom=8192
+[Financial Aid Fund].[Finaid Fund]
+	dx=180,225
+	parent=Financial Aid Fund
+	x=521,688
+[Financial Aid Fund].[Government FA Fund]
+	dx=180,225
+	parent=Financial Aid Fund
+	x=969,946
+[Financial Aid Fund]
+	c=d8a77d
+	dx=1267,2228
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=1884,55248
+	zoom=4096
+[Fixed Asset].[Fixed Asset Item Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Fixed Asset
+	x=487,1208
+[Fixed Asset].[Fixed Asset Item]
+	dx=180,225
+	parent=Fixed Asset
+	x=10,1542
+[Fixed Asset].[Fixed Asset Accounting History]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,786
+[Fixed Asset].[Fixed Asset Accounting Source Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Fixed Asset
+	view=0,0
+	x=490,1276
+	zoom=8192
+[Fixed Asset].[Fixed Asset Accounting Source]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,534
+[Fixed Asset].[Fixed Asset Adjustment Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Fixed Asset
+	x=490,1346
+[Fixed Asset].[Fixed Asset Adjustment]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,282
+[Fixed Asset].[Fixed Asset Adjustment Text]
+	dx=180,225
+	parent=Fixed Asset
+	x=30,30
+[Fixed Asset].[Fixed Asset Attributes]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,1038
+[Fixed Asset].[Fixed Asset Depreciated Item Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Fixed Asset
+	x=496,1407
+[Fixed Asset].[Fixed Asset Depreciated Item]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,1542
+[Fixed Asset].[Fixed Asset Funding Source]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,30
+[Fixed Asset].[Fixed Asset Text]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,1290
+[Fixed Asset].[Grant View]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,3054
+[Fixed Asset].[Invoice Item]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,2550
+[Fixed Asset].[Location Attributes]
+	dx=180,225
+	parent=Fixed Asset
+	x=450,2046
+[Fixed Asset].[Location Hierarchy]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,2046
+[Fixed Asset].[Organization Attributes]
+	dx=180,225
+	parent=Fixed Asset
+	x=450,1794
+[Fixed Asset].[Organization Hierarchy]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,1794
+[Fixed Asset].[Purchase Order Item]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,2802
+[Fixed Asset].[Transaction History]
+	dx=180,225
+	parent=Fixed Asset
+	x=450,282
+[Fixed Asset].[Vendor]
+	dx=180,225
+	parent=Fixed Asset
+	x=230,2298
+[Fixed Asset]
+	c=89c6fd
+	dx=716,3093
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=10,15809
+	zoom=2048
+[General Ledger].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=General Ledger
+	x=10,573
+[General Ledger].[General Ledger Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=General Ledger
+	x=240,573
+[General Ledger].[General Ledger]
+	dx=180,225
+	parent=General Ledger
+	x=243,291
+[General Ledger].[Account Attributes]
+	dx=180,225
+	parent=General Ledger
+	x=243,524
+[General Ledger].[Account Type Attributes Join Level 1]
+	dx=180,225
+	parent=General Ledger
+	x=407,127
+[General Ledger].[Account Type Attributes Join Level 2]
+	dx=180,225
+	parent=General Ledger
+	x=243,58
+[General Ledger].[Fund Attributes]
+	dx=180,225
+	parent=General Ledger
+	x=79,455
+[General Ledger].[Fund Type Attributes Join Level 1]
+	dx=180,225
+	parent=General Ledger
+	x=79,127
+[General Ledger].[Fund Type Attributes Join Level 2]
+	dx=180,225
+	parent=General Ledger
+	x=10,291
+[General Ledger].[Grant View]
+	dx=180,225
+	parent=General Ledger
+	x=407,455
+[General Ledger].[Transaction History]
+	dx=180,225
+	parent=General Ledger
+	x=476,291
+[General Ledger]
+	c=99b2c7
+	dx=666,621
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=4496,63922
+	zoom=4096
+[Gift].[Time Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Gift
+	x=10,953
+[Gift].[Gift Transaction]
+	dx=180,225
+	parent=Gift
+	x=636,481
+[Gift].[Constituent Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Gift
+	x=240,953
+[Gift].[Constituent]
+	dx=180,225
+	parent=Gift
+	x=916,810
+[Gift].[Constituent Entity]
+	dx=180,225
+	parent=Gift
+	x=549,904
+[Gift].[Designation Finaid Fund]
+	dx=180,549
+	parent=Gift
+	x=1325,239
+[Gift].[Endowment Units]
+	dx=180,225
+	parent=Gift
+	x=248,291
+[Gift].[Gift]
+	dx=180,225
+	parent=Gift
+	x=1069,481
+[Gift].[Gift Associated Entity]
+	dx=180,225
+	parent=Gift
+	x=743,62
+[Gift].[Gift Auxiliary]
+	dx=180,225
+	parent=Gift
+	x=916,152
+[Gift].[Gift Matching]
+	dx=180,225
+	parent=Gift
+	x=10,481
+[Gift].[Gift Matching Transaction]
+	dx=180,225
+	parent=Gift
+	x=203,481
+[Gift].[Gift Memo]
+	dx=180,225
+	parent=Gift
+	x=1410,569
+[Gift].[Gift Multiple]
+	dx=180,225
+	parent=Gift
+	x=1325,723
+[Gift].[Organization Entity]
+	dx=180,225
+	parent=Gift
+	x=371,823
+[Gift].[Organizational Constituent]
+	dx=180,225
+	parent=Gift
+	x=743,900
+[Gift].[Person Detail]
+	dx=180,225
+	parent=Gift
+	x=371,139
+[Gift].[Pledge Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Gift
+	x=10,1011
+[Gift].[Pledge]
+	dx=180,225
+	parent=Gift
+	x=1410,393
+[Gift].[Pledge Transaction Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Gift
+	x=240,1011
+[Gift].[Pledge Transaction]
+	dx=180,225
+	parent=Gift
+	x=248,671
+[Gift].[Solicitation]
+	dx=180,225
+	parent=Gift
+	x=549,58
+[Organizational Constituent].[Organizational Constituent]
+	dx=180,225
+	parent=Organizational Constituent
+	x=10,954
+[Organizational Constituent].[Annual Giving]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,30
+[Organizational Constituent].[Annual Giving Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1262
+[Organizational Constituent].[Campaign Giving History]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,198
+[Organizational Constituent].[Constituent Contact]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1878
+[Organizational Constituent].[Constituent Entity]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1038
+[Organizational Constituent].[Cross Reference Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1710
+[Organizational Constituent].[Designation Giving History]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,142
+[Organizational Constituent].[Donor Category]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,310
+[Organizational Constituent].[Donor Category Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1598
+[Organizational Constituent].[Exclusion]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,86
+[Organizational Constituent].[Exclusion Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1318
+[Organizational Constituent].[Funding Interest]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,926
+[Organizational Constituent].[Funding Interest Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1654
+[Organizational Constituent].[Gift]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,422
+[Organizational Constituent].[Gift Society]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,366
+[Organizational Constituent].[Gift Society Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1374
+[Organizational Constituent].[Gift Transaction]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1150
+[Organizational Constituent].[Mail]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,646
+[Organizational Constituent].[Mail Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1430
+[Organizational Constituent].[Membership]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,478
+[Organizational Constituent].[Membership Interest]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1206
+[Organizational Constituent].[Organization Contact]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,254
+[Organizational Constituent].[Organization Entity]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,590
+[Organizational Constituent].[Organization Entity Address]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,870
+[Organizational Constituent].[Organization Funding Area]
+	dx=180,209
+	parent=Organizational Constituent
+	x=450,1038
+[Organizational Constituent].[Person Detail]
+	dx=180,225
+	parent=Organizational Constituent
+	x=450,254
+[Organizational Constituent].[Pledge]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,534
+[Organizational Constituent].[Pledge Transaction]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1094
+[Organizational Constituent].[Prospect Info]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,814
+[Organizational Constituent].[Relationship]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1766
+[Organizational Constituent].[Solicitation]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,982
+[Organizational Constituent].[Special Activity]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,758
+[Organizational Constituent].[Special Activity Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1486
+[Organizational Constituent].[Special Purpose Group]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,702
+[Organizational Constituent].[Special Purpose Slot]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1542
+[Organizational Constituent].[Telephone]
+	dx=180,225
+	parent=Organizational Constituent
+	x=230,1822
+[Organizational Constituent]
+	c=bf8cbc
+	dx=200,28
+	expanded=f
+	parent=Gift
+	view=0,824
+	x=10,1069
+	zoom=4096
+[Gift]
+	c=bf8cbc
+	dx=1600,1107
+	expanded=t
+	parent=ODS
+	view=566,237
+	x=4316,22897
+	zoom=8192
+[Government Reporting].[Government Student Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Government Reporting
+	x=10,1015
+[Government Reporting].[Government Student]
+	dx=245,28
+	parent=Government Reporting
+	x=692,321
+[Government Reporting].[Government Academic Outcome Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Government Reporting
+	x=240,1015
+[Government Reporting].[Government Academic Outcome]
+	dx=180,225
+	parent=Government Reporting
+	x=963,156
+[Government Reporting].[Government Course]
+	dx=180,225
+	parent=Government Reporting
+	x=1019,321
+[Government Reporting].[Person Address]
+	dx=180,225
+	parent=Government Reporting
+	x=818,58
+[Government Reporting].[Person Detail]
+	dx=180,225
+	parent=Government Reporting
+	x=644,68
+[Government Reporting].[Telephone Current]
+	dx=180,225
+	parent=Government Reporting
+	x=963,486
+[Government Reporting].[Government Financial Aid Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Government Reporting
+	x=10,1073
+[Government Reporting].[Government Financial Aid]
+	dx=242,29
+	parent=Government Reporting
+	x=266,312
+[Government Reporting].[Government FA Fund]
+	dx=180,225
+	parent=Government Reporting
+	x=54,444
+[Government Reporting].[Shortcut to Person Address]
+	dx=180,225
+	parent=Government Reporting
+	x=75,118
+[Government Reporting].[Shortcut to Person Detail]
+	dx=249,28
+	parent=Government Reporting
+	x=440,179
+[Government Reporting].[Shortcut to Telephone Active]
+	dx=180,225
+	parent=Government Reporting
+	x=10,278
+[Government Reporting].[Government Admissions Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Government Reporting
+	x=240,1073
+[Government Reporting].[Government Admissions]
+	dx=180,225
+	parent=Government Reporting
+	x=692,783
+[Government Reporting].[Shortcut (2) to Person Address]
+	dx=180,225
+	parent=Government Reporting
+	x=590,946
+[Government Reporting].[Shortcut (2) to Person Detail]
+	dx=180,225
+	parent=Government Reporting
+	x=714,592
+[Government Reporting].[Shortcut (2) to Telephone Active]
+	dx=180,225
+	parent=Government Reporting
+	x=752,966
+[Government Reporting]
+	c=758698
+	dx=1209,1121
+	expanded=t
+	parent=ODS
+	view=25,36
+	x=814,63922
+	zoom=7510
+[Grant and Project].[Grant View Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Grant and Project
+	x=18,40
+[Grant and Project].[Grant View]
+	dx=180,225
+	parent=Grant and Project
+	x=24,1038
+[Grant and Project].[Fund Attributes]
+	dx=180,225
+	parent=Grant and Project
+	x=684,1290
+[Grant and Project].[Fund Hierarchy]
+	dx=180,225
+	parent=Grant and Project
+	x=464,1290
+[Grant and Project].[Grant Applied Payments Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Grant and Project
+	x=18,86
+[Grant and Project].[Grant Applied Payments]
+	dx=180,225
+	parent=Grant and Project
+	x=244,786
+[Grant and Project].[Grant Attributes]
+	dx=180,225
+	parent=Grant and Project
+	x=244,534
+[Grant and Project].[Grant Billing Detail Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Grant and Project
+	x=18,128
+[Grant and Project].[Grant Billing Detail]
+	dx=180,225
+	parent=Grant and Project
+	x=244,1794
+[Grant and Project].[Grant Fund]
+	dx=180,225
+	parent=Grant and Project
+	x=244,1290
+[Grant and Project].[Grant Fund Slot]
+	dx=180,225
+	parent=Grant and Project
+	x=244,2046
+[Grant and Project].[Grant Ledger Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Grant and Project
+	x=20,170
+[Grant and Project].[Grant Ledger]
+	dx=180,225
+	parent=Grant and Project
+	x=244,282
+[Grant and Project].[Grant Receivable Acct Detail Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Grant and Project
+	x=20,218
+[Grant and Project].[Grant Receivable Acct Detail]
+	dx=180,225
+	parent=Grant and Project
+	x=244,30
+[Grant and Project].[Grant Text]
+	dx=180,225
+	parent=Grant and Project
+	x=244,1038
+[Grant and Project].[Proposal Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Grant and Project
+	x=20,262
+[Grant and Project].[Proposal]
+	dx=180,225
+	parent=Grant and Project
+	x=244,1542
+[Grant and Project].[Proposal Text]
+	dx=180,225
+	parent=Grant and Project
+	x=472,1554
+[Grant and Project].[Transaction History]
+	dx=180,225
+	parent=Grant and Project
+	x=464,30
+[Grant and Project]
+	c=99f7ff
+	dx=874,2085
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=4266,20596
+	zoom=2048
+[Grant Ledger].[Time Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Grant Ledger
+	x=10,725
+[Grant Ledger].[Grant Ledger Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Grant Ledger
+	x=240,725
+[Grant Ledger].[Grant Ledger]
+	dx=180,225
+	parent=Grant Ledger
+	x=310,367
+[Grant Ledger].[Grant View]
+	parent=Grant Ledger
+	x=573,536
+[Grant Ledger].[Account Attributes]
+	dx=180,225
+	parent=Grant Ledger
+	x=106,603
+[Grant Ledger].[Account Type Attributes Join Level 1]
+	dx=180,225
+	parent=Grant Ledger
+	x=106,131
+[Grant Ledger].[Account Type Attributes Join Level 2]
+	dx=180,225
+	parent=Grant Ledger
+	x=10,279
+[Grant Ledger].[Fund Attributes]
+	dx=180,225
+	parent=Grant Ledger
+	x=440,651
+[Grant Ledger].[Fund Type Attributes Join Level 1]
+	dx=180,225
+	parent=Grant Ledger
+	x=266,58
+[Grant Ledger].[Fund Type Attributes Join Level 2]
+	dx=180,225
+	parent=Grant Ledger
+	x=10,455
+[Grant Ledger].[Location Attributes]
+	dx=180,225
+	parent=Grant Ledger
+	x=623,367
+[Grant Ledger].[Organization Attributes]
+	dx=180,225
+	parent=Grant Ledger
+	x=266,676
+[Grant Ledger].[Program Attributes]
+	dx=180,225
+	parent=Grant Ledger
+	x=573,198
+[Grant Ledger].[Transaction History]
+	dx=180,225
+	parent=Grant Ledger
+	x=440,83
+[Grant Ledger]
+	c=73d3ac
+	dx=813,773
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=1990,67735
+	zoom=6144
+[Human Resource Application].[HR Application Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Human Resource Application
+	x=10,1359
+[Human Resource Application].[HR Application]
+	dx=180,225
+	parent=Human Resource Application
+	x=704,684
+[Human Resource Application].[Certification]
+	dx=180,225
+	parent=Human Resource Application
+	x=966,109
+[Human Resource Application].[Certification Slot]
+	dx=180,225
+	parent=Human Resource Application
+	x=290,1162
+[Human Resource Application].[Combined Academic outcome Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Human Resource Application
+	x=240,1359
+[Human Resource Application].[Combined Academic Outcome]
+	dx=180,225
+	parent=Human Resource Application
+	x=172,1026
+[Human Resource Application].[Current Employment]
+	dx=180,225
+	parent=Human Resource Application
+	x=172,342
+[Human Resource Application].[Employee Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Human Resource Application
+	x=10,1417
+[Human Resource Application].[Employee]
+	dx=180,225
+	parent=Human Resource Application
+	x=97,506
+[Human Resource Application].[Employment History]
+	dx=180,225
+	parent=Human Resource Application
+	x=614,58
+[Human Resource Application].[Finaid Applicant Status]
+	dx=180,225
+	parent=Human Resource Application
+	x=97,862
+[Human Resource Application].[HR Application Status]
+	dx=180,225
+	parent=Human Resource Application
+	x=1236,342
+[Human Resource Application].[HR Appl Stat Slot]
+	dx=180,225
+	parent=Human Resource Application
+	x=442,1259
+[Human Resource Application].[HR Requisition Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Human Resource Application
+	x=240,1417
+[Human Resource Application].[HR Requisition]
+	dx=180,225
+	parent=Human Resource Application
+	x=1337,684
+[Human Resource Application].[Interview]
+	dx=180,225
+	parent=Human Resource Application
+	x=1311,506
+[Human Resource Application].[Interview Slot]
+	dx=180,225
+	parent=Human Resource Application
+	x=614,1310
+[Human Resource Application].[Past Employment Slot]
+	dx=180,225
+	parent=Human Resource Application
+	x=794,1310
+[Human Resource Application].[Person Address Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Human Resource Application
+	x=10,1475
+[Human Resource Application].[Person Address]
+	dx=180,225
+	parent=Human Resource Application
+	x=442,109
+[Human Resource Application].[Person Detail]
+	dx=180,225
+	parent=Human Resource Application
+	x=1236,1026
+[Human Resource Application].[Position Definition Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Human Resource Application
+	x=240,1475
+[Human Resource Application].[Position Definition]
+	dx=180,225
+	parent=Human Resource Application
+	x=1530,684
+[Human Resource Application].[Previous Degree]
+	dx=180,225
+	parent=Human Resource Application
+	x=1560,1234
+[Human Resource Application].[Previous Education]
+	dx=180,225
+	parent=Human Resource Application
+	x=290,206
+[Human Resource Application].[Previous Education Attendance]
+	dx=180,225
+	parent=Human Resource Application
+	x=1398,1130
+[Human Resource Application].[Reference]
+	dx=180,225
+	parent=Human Resource Application
+	x=1118,206
+[Human Resource Application].[Reference Slot]
+	dx=180,225
+	parent=Human Resource Application
+	x=966,1259
+[Human Resource Application].[Skill]
+	dx=180,225
+	parent=Human Resource Application
+	x=794,58
+[Human Resource Application].[Skill Slot]
+	dx=180,225
+	parent=Human Resource Application
+	x=1118,1162
+[Human Resource Application].[Student]
+	dx=180,225
+	parent=Human Resource Application
+	x=71,684
+[Human Resource Application].[Telephone Current Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Human Resource Application
+	x=10,1533
+[Human Resource Application].[Telephone Current]
+	dx=180,225
+	parent=Human Resource Application
+	x=1311,862
+[Human Resource Application].[Transcript Comment]
+	dx=180,225
+	parent=Human Resource Application
+	x=10,1130
+[Human Resource Application]
+	c=568ef6
+	dx=1750,1581
+	expanded=t
+	parent=ODS
+	view=548,737
+	x=17334,26476
+	zoom=6144
+[Human Resource Faculty].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Human Resource Faculty
+	x=10,725
+[Human Resource Faculty].[Faculty Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Human Resource Faculty
+	x=240,725
+[Human Resource Faculty].[Faculty]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=310,367
+[Human Resource Faculty].[Employee Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Human Resource Faculty
+	x=10,783
+[Human Resource Faculty].[Employee]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=573,198
+[Human Resource Faculty].[Employee Position Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Human Resource Faculty
+	x=240,783
+[Human Resource Faculty].[Employee Position]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=623,367
+[Human Resource Faculty].[Faculty Appointment History]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=10,455
+[Human Resource Faculty].[Faculty Attribute]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=440,83
+[Human Resource Faculty].[Faculty Att Slot]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=266,676
+[Human Resource Faculty].[Faculty Sabbatical History]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=10,279
+[Human Resource Faculty].[Faculty Rank History]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=266,58
+[Human Resource Faculty].[Faculty Tracking]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=106,131
+[Human Resource Faculty].[Person Address Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Human Resource Faculty
+	x=10,841
+[Human Resource Faculty].[Person Address]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=106,603
+[Human Resource Faculty].[Person Detail]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=440,651
+[Human Resource Faculty].[Telephone Current Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Human Resource Faculty
+	x=240,841
+[Human Resource Faculty].[Telephone Current]
+	dx=180,225
+	parent=Human Resource Faculty
+	x=573,536
+[Human Resource Faculty]
+	c=527ca5
+	dx=813,889
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=2630,58557
+	zoom=6144
+[Institution].[Institution Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Institution
+	x=10,1196
+[Institution].[Institution]
+	dx=180,225
+	parent=Institution
+	x=272,323
+[Institution].[Degree]
+	dx=180,225
+	parent=Institution
+	x=510,1092
+[Institution].[Geographic Region Institution]
+	dx=180,225
+	parent=Institution
+	x=109,114
+[Institution].[Inst Characteristic Slot]
+	dx=180,225
+	parent=Institution
+	x=293,58
+[Institution].[Institution Characteristic]
+	dx=180,225
+	parent=Institution
+	x=50,468
+[Institution].[Institution Degree]
+	dx=180,225
+	parent=Institution
+	x=467,143
+[Institution].[Institution Demographic]
+	dx=180,225
+	parent=Institution
+	x=10,280
+[Institution].[Institution Subject]
+	dx=180,225
+	parent=Institution
+	x=538,323
+[Institution].[Person Detail]
+	dx=180,225
+	parent=Institution
+	x=347,1147
+[Institution].[Previous Degree]
+	dx=180,225
+	parent=Institution
+	x=652,601
+[Institution].[Previous Education]
+	dx=180,225
+	parent=Institution
+	x=347,882
+[Institution].[Previous Education Attendance]
+	dx=180,225
+	parent=Institution
+	x=347,577
+[Institution].[Secondary School Subject]
+	dx=180,225
+	parent=Institution
+	x=185,1092
+[Institution]
+	c=9bdfc4
+	dx=842,1244
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=3776,63922
+	zoom=4096
+[Invoice Payable].[Invoice Item]
+	dx=180,225
+	parent=Invoice Payable
+	x=534,584
+[Invoice Payable].[Encumbrance Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Invoice Payable
+	view=0,0
+	x=240,1054
+	zoom=8192
+[Invoice Payable].[Encumbrance]
+	dx=180,225
+	parent=Invoice Payable
+	x=10,522
+[Invoice Payable].[Invoice Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Invoice Payable
+	x=10,1112
+[Invoice Payable].[Invoice]
+	dx=180,225
+	parent=Invoice Payable
+	x=268,584
+[Invoice Payable].[Invoice Accounting Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Invoice Payable
+	x=240,1112
+[Invoice Payable].[Invoice Accounting]
+	dx=180,225
+	parent=Invoice Payable
+	x=174,832
+[Invoice Payable].[Invoice Check Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Invoice Payable
+	x=10,1170
+[Invoice Payable].[Invoice Check]
+	dx=180,225
+	parent=Invoice Payable
+	x=33,708
+[Invoice Payable].[Invoice Tax Rate]
+	dx=180,225
+	parent=Invoice Payable
+	x=744,746
+[Invoice Payable].[Invoice Tax Rate Slot]
+	dx=180,225
+	parent=Invoice Payable
+	x=800,584
+[Invoice Payable].[Invoice Text]
+	dx=180,225
+	parent=Invoice Payable
+	x=362,832
+[Invoice Payable].[Organization Entity]
+	dx=180,225
+	parent=Invoice Payable
+	x=202,58
+[Student Detail].[Academic Study]
+	dx=180,225
+	parent=Student Detail
+	x=1639,1029
+[Invoice Payable].[Transaction History]
+	dx=180,225
+	parent=Invoice Payable
+	x=109,1005
+[Invoice Payable].[Vendor Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Invoice Payable
+	x=240,1170
+[Invoice Payable].[Vendor]
+	dx=180,225
+	parent=Invoice Payable
+	x=235,321
+[Invoice Payable].[Vendor Type]
+	dx=180,225
+	parent=Invoice Payable
+	x=48,133
+[Invoice Payable]
+	c=d8a77d
+	dx=990,1218
+	expanded=t
+	parent=ODS
+	view=0,120
+	x=10889,26476
+	zoom=5230
+[Loan Disbursement].[Student]
+	parent=Loan Disbursement
+	x=434,326
+[Loan Disbursement].[Academic Study]
+	parent=Loan Disbursement
+	x=643,151
+[Loan Disbursement].[Award By Person]
+	parent=Loan Disbursement
+	x=643,501
+[Loan Disbursement].[Award Disbursement]
+	parent=Loan Disbursement
+	x=790,625
+[Loan Disbursement].[Enrollment]
+	parent=Loan Disbursement
+	x=481,58
+[Loan Disbursement].[Finaid Applicant Status]
+	parent=Loan Disbursement
+	x=178,233
+[Loan Disbursement].[Finaid Enrollment]
+	parent=Loan Disbursement
+	x=298,90
+[Loan Disbursement].[General Ledger]
+	parent=Loan Disbursement
+	x=10,1063
+[Loan Disbursement].[Loan Application]
+	parent=Loan Disbursement
+	x=178,419
+[Loan Disbursement].[Loan Disbursement]
+	parent=Loan Disbursement
+	x=298,562
+[Loan Disbursement].[Person Address]
+	parent=Loan Disbursement
+	x=707,326
+[Loan Disbursement].[Person Detail]
+	parent=Loan Disbursement
+	x=481,594
+[Loan Disbursement].[Receivable Account Detail]
+	parent=Loan Disbursement
+	x=202,729
+[Loan Disbursement].[Transaction History]
+	parent=Loan Disbursement
+	x=106,896
+[Loan Disbursement]
+	c=9bdfc4
+	dx=980,1102
+	expanded=t
+	parent=ODS
+	view=0,51
+	x=1268,677
+	zoom=0.750000
+[Operating Ledger].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Operating Ledger
+	x=480,1426
+[Operating Ledger].[Operating Ledger Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Operating Ledger
+	x=510,1456
+[Operating Ledger].[Operating Ledger]
+	dx=180,225
+	parent=Operating Ledger
+	x=10,1290
+[Operating Ledger].[Account Attributes]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,2298
+[Operating Ledger].[Account Type Attributes Join Level 1]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,1038
+[Operating Ledger].[Account Type Attributes Join Level 2]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,1542
+[Operating Ledger].[Fund Attributes]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,1794
+[Operating Ledger].[Fund Type Attributes Join Level 1]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,786
+[Operating Ledger].[Fund Type Attributes Join Level 2]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,1290
+[Operating Ledger].[Grant View Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Operating Ledger
+	x=540,1486
+[Operating Ledger].[Grant View]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,2550
+[Operating Ledger].[Location Attributes]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,30
+[Operating Ledger].[Organization Attributes]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,2046
+[Operating Ledger].[Program Attributes]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,282
+[Operating Ledger].[Transaction History]
+	dx=180,225
+	parent=Operating Ledger
+	x=230,534
+[Operating Ledger]
+	c=89c6fd
+	dx=760,2589
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=1190,58557
+	zoom=2048
+[Organization Entity].[Organization Entity]
+	dx=180,225
+	parent=Organization Entity
+	x=422,470
+[Organization Entity].[Address Current Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Organization Entity
+	x=10,745
+[Organization Entity].[Address Current]
+	dx=180,225
+	parent=Organization Entity
+	x=196,470
+[Organization Entity].[Contract Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Organization Entity
+	x=240,745
+[Organization Entity].[Contract]
+	dx=180,225
+	parent=Organization Entity
+	x=422,244
+[Organization Entity].[Current Employment]
+	dx=180,225
+	parent=Organization Entity
+	x=422,696
+[Organization Entity].[Employment History]
+	dx=180,225
+	parent=Organization Entity
+	x=263,629
+[Organization Entity].[Geographic Region]
+	dx=180,225
+	parent=Organization Entity
+	x=10,470
+[Organization Entity].[Internet Address Current]
+	parent=Organization Entity
+	x=581,629
+[Organization Entity].[Organization Entity Address Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Organization Entity
+	x=10,803
+[Organization Entity].[Organization Entity Address]
+	dx=180,225
+	parent=Organization Entity
+	x=263,311
+[Organization Entity].[Organizartional Constit Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Organization Entity
+	x=240,803
+[Organization Entity].[Organizational Constituent]
+	dx=180,225
+	parent=Organization Entity
+	x=648,470
+[Organization Entity].[Receivable Account]
+	dx=180,225
+	parent=Organization Entity
+	x=422,58
+[Organization Entity].[Vendor]
+	dx=180,225
+	parent=Organization Entity
+	x=581,311
+[Organization Entity]
+	c=99b2c7
+	dx=838,851
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=670,67735
+	zoom=6144
+[Payroll].[Time Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Payroll
+	x=974,182
+[Payroll].[Payroll Document Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Payroll
+	x=974,234
+[Payroll].[Payroll Document]
+	dx=180,225
+	parent=Payroll
+	x=734,597
+[Payroll].[Employee]
+	dx=180,225
+	parent=Payroll
+	x=1273,597
+[Payroll].[Employee Position]
+	dx=180,225
+	parent=Payroll
+	x=1458,179
+[Payroll].[Leave Accrual]
+	dx=180,225
+	parent=Payroll
+	x=465,131
+[Payroll].[Payroll Deduction]
+	dx=180,225
+	parent=Payroll
+	x=734,58
+[Payroll].[Payroll Distribution]
+	dx=180,225
+	parent=Payroll
+	x=268,328
+[Payroll].[Payroll Earning]
+	dx=180,225
+	parent=Payroll
+	x=1003,131
+[Payroll].[Payroll Employee Position]
+	dx=180,225
+	parent=Payroll
+	x=1200,328
+[Payroll].[Payroll Labor Dist Override]
+	dx=180,225
+	parent=Payroll
+	x=26,1377
+[Payroll].[Payroll Position Timesheet]
+	dx=180,225
+	parent=Payroll
+	x=1424,1094
+[Payroll].[Payroll Timsheet]
+	dx=180,225
+	parent=Payroll
+	x=840,964
+[Payroll].[Person Address Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Payroll
+	x=974,234
+[Payroll].[Person Address]
+	dx=180,225
+	parent=Payroll
+	x=195,597
+[Payroll].[Person Detail]
+	dx=180,225
+	parent=Payroll
+	x=268,866
+[Payroll].[Telephone Current Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Payroll
+	x=974,234
+[Payroll].[Telephone Current]
+	dx=180,225
+	parent=Payroll
+	x=481,1183
+[Payroll].[Transaction History Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Payroll
+	x=974,234
+[Payroll].[Transaction History]
+	dx=180,225
+	parent=Payroll
+	x=10,179
+[Payroll]
+	c=758698
+	dx=1648,1416
+	expanded=t
+	parent=ODS
+	view=272,182
+	x=4271,55248
+	zoom=6144
+[Pledge].[Pledge Transaction Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Pledge
+	x=990,1158
+[Pledge].[Pledge Transaction]
+	dx=180,225
+	parent=Pledge
+	x=10,328
+[Pledge].[Constituent Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Pledge
+	x=1020,1188
+[Pledge].[Constituent]
+	dx=180,225
+	parent=Pledge
+	x=197,418
+[Pledge].[Constituent Entity]
+	dx=180,225
+	parent=Pledge
+	x=197,346
+[Pledge].[Gift]
+	dx=180,225
+	parent=Pledge
+	x=384,130
+[Pledge].[Gift Transaction Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Pledge
+	x=1050,1218
+[Pledge].[Gift Transaction]
+	dx=180,225
+	parent=Pledge
+	x=197,238
+[Pledge].[Organization Entity]
+	dx=180,225
+	parent=Pledge
+	x=197,202
+[Pledge].[Organizational Constituent]
+	dx=180,225
+	parent=Pledge
+	x=197,382
+[Pledge].[Person Address Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Pledge
+	x=1080,1248
+[Pledge].[Person Address]
+	dx=180,225
+	parent=Pledge
+	x=197,274
+[Pledge].[Person Detail]
+	dx=180,225
+	parent=Pledge
+	x=197,310
+[Pledge].[Pledge Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Pledge
+	x=1110,1278
+[Pledge].[Pledge]
+	dx=180,28
+	parent=Pledge
+	x=70,64
+[Pledge].[Pledge Associated Entity]
+	dx=180,225
+	parent=Pledge
+	x=197,490
+[Pledge].[Pledge Auxiliary]
+	dx=180,225
+	parent=Pledge
+	x=197,526
+[Pledge].[Pledge Conditional]
+	dx=180,225
+	parent=Pledge
+	x=197,562
+[Pledge].[Pledge Installment]
+	dx=180,225
+	parent=Pledge
+	x=197,166
+[Pledge].[Pledge Matching]
+	dx=180,225
+	parent=Pledge
+	x=460,381
+[Pledge].[Pledge Matching Transaction]
+	dx=180,225
+	parent=Pledge
+	x=197,598
+[Pledge].[Solicitation]
+	dx=180,225
+	parent=Pledge
+	x=312,33
+[Pledge].[Telephone Current]
+	dx=180,225
+	parent=Pledge
+	x=197,454
+[Pledge]
+	c=568ef6
+	dx=1330,1326
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=1965,63922
+	zoom=6144
+[Person Demographic].[Person Detail Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Person Demographic
+	view=0,0
+	x=10,1033
+	zoom=8192
+[Person Demographic].[Person Detail]
+	dx=180,225
+	parent=Person Demographic
+	x=646,521
+[Person Demographic].[Address]
+	dx=180,225
+	parent=Person Demographic
+	x=269,794
+[Person Demographic].[Person Address Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Person Demographic
+	x=240,1033
+[Person Demographic].[Address By Rule]
+	dx=180,225
+	parent=Person Demographic
+	x=269,248
+[Person Demographic].[Address By Rule Geographic Region]
+	dx=180,225
+	parent=Person Demographic
+	x=119,139
+[Person Demographic].[Address Current]
+	dx=180,225
+	parent=Person Demographic
+	x=191,425
+[Person Demographic].[Address Preferred]
+	dx=180,225
+	parent=Person Demographic
+	x=191,617
+[Person Demographic].[Current Address Geographic Region]
+	dx=180,225
+	parent=Person Demographic
+	x=10,387
+[Person Demographic].[Geographic Region]
+	dx=180,225
+	parent=Person Demographic
+	x=119,903
+[Person Demographic].[Internet Address]
+	parent=Person Demographic
+	x=957,867
+[Person Demographic].[Internet Address Current]
+	parent=Person Demographic
+	x=1071,710
+[Person Demographic].[Person]
+	dx=180,225
+	parent=Person Demographic
+	x=957,175
+[Person Demographic].[Person Address]
+	dx=180,225
+	parent=Person Demographic
+	x=790,78
+[Person Demographic].[Person Sensitive]
+	dx=180,225
+	parent=Person Demographic
+	x=1112,521
+[Person Demographic].[Person Sensitive Race]
+	dx=180,225
+	parent=Person Demographic
+	x=598,984
+[Person Demographic].[Person Sensitive Race Slot]
+	dx=180,225
+	parent=Person Demographic
+	x=414,924
+[Person Demographic].[Preferred Address Geographic Region]
+	dx=180,225
+	parent=Person Demographic
+	x=10,655
+[Person Demographic].[Relationship]
+	dx=180,225
+	parent=Person Demographic
+	x=413,118
+[Person Demographic].[Salutation]
+	dx=180,225
+	parent=Person Demographic
+	x=598,58
+[Person Demographic].[Telephone]
+	dx=180,225
+	parent=Person Demographic
+	x=1071,332
+[Person Demographic].[Telephone Current]
+	dx=180,225
+	parent=Person Demographic
+	x=790,964
+[Person Demographic]
+	c=99f7ff
+	dx=1302,1081
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=1970,58557
+	zoom=4906
+[Person Role].[Person Detail Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Person Role
+	x=221,1653
+[Person Role].[Person Detail]
+	dx=180,225
+	parent=Person Role
+	x=10,1794
+[Person Role].[Administrator]
+	dx=180,225
+	parent=Person Role
+	x=230,30
+[Person Role].[Admissions Application]
+	dx=180,225
+	parent=Person Role
+	x=230,282
+[Person Role].[Advisor]
+	dx=180,225
+	parent=Person Role
+	x=230,786
+[Person Role].[Constituent]
+	dx=180,225
+	parent=Person Role
+	x=230,534
+[Person Role].[Employee]
+	dx=180,225
+	parent=Person Role
+	x=230,1290
+[Person Role].[Faculty]
+	dx=180,225
+	parent=Person Role
+	x=230,1542
+[Person Role].[Finaid Applicant Status]
+	dx=180,225
+	parent=Person Role
+	x=230,1794
+[Person Role].[HR Application]
+	dx=180,225
+	parent=Person Role
+	x=230,2802
+[Person Role].[Organization Contact]
+	dx=180,225
+	parent=Person Role
+	x=230,3558
+[Person Role].[Pre Student]
+	dx=180,225
+	parent=Person Role
+	x=230,1038
+[Person Role].[Prospect Info]
+	dx=180,225
+	parent=Person Role
+	x=230,2046
+[Person Role].[Receivable Account]
+	dx=180,225
+	parent=Person Role
+	x=230,3054
+[Person Role].[Recruitment Information]
+	dx=180,225
+	parent=Person Role
+	x=230,2550
+[Person Role].[Student]
+	dx=180,225
+	parent=Person Role
+	x=230,2298
+[Person Role].[Vendor]
+	dx=180,225
+	parent=Person Role
+	x=230,3306
+[Person Role]
+	c=73d3ac
+	dx=441,3597
+	expanded=t
+	parent=ODS
+	view=0,1617
+	x=3315,63922
+	zoom=8192
+[Person Supplemental].[Person Detail]
+	dx=180,225
+	parent=Person Supplemental
+	x=1031,1082
+[Person Supplemental].[Activity]
+	dx=180,225
+	parent=Person Supplemental
+	x=1348,2057
+[Person Supplemental].[Certification]
+	dx=180,225
+	parent=Person Supplemental
+	x=2040,899
+[Person Supplemental].[Certification Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=42,1354
+[Person Supplemental].[Combined Academic Outcome]
+	dx=180,225
+	parent=Person Supplemental
+	x=10,1173
+[Person Supplemental].[Communication]
+	dx=180,225
+	parent=Person Supplemental
+	x=1991,722
+[Person Supplemental].[Communication Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=107,1527
+[Person Supplemental].[Contact]
+	dx=180,225
+	parent=Person Supplemental
+	x=2057,1082
+[Person Supplemental].[Contact Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=201,1685
+[Person Supplemental].[Current Employment]
+	dx=180,225
+	parent=Person Supplemental
+	x=1911,556
+[Person Supplemental].[Employment History]
+	dx=180,225
+	parent=Person Supplemental
+	x=1168,66
+[Person Supplemental].[Hold]
+	dx=180,225
+	parent=Person Supplemental
+	x=1803,407
+[Person Supplemental].[Hold Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=1168,2098
+[Person Supplemental].[Interest]
+	dx=180,225
+	parent=Person Supplemental
+	x=1517,179
+[Person Supplemental].[Internet Address]
+	parent=Person Supplemental
+	x=1517,1985
+[Person Supplemental].[Internet Address Current]
+	parent=Person Supplemental
+	x=1670,1884
+[Person Supplemental].[Interest Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=322,1823
+[Person Supplemental].[Mail]
+	dx=180,225
+	parent=Person Supplemental
+	x=1348,107
+[Person Supplemental].[Medical Information]
+	dx=180,225
+	parent=Person Supplemental
+	x=1670,280
+[Person Supplemental].[Medical Information Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=466,1938
+[Person Supplemental].[Person International]
+	dx=180,225
+	parent=Person Supplemental
+	x=322,341
+[Person Supplemental].[Person Sensitive]
+	parent=Person Supplemental
+	x=1911,1608
+[Person Supplemental].[Person Sensitive Race]
+	parent=Person Supplemental
+	x=1991,1442
+[Person Supplemental].[Person Sensitive Race Slot]
+	parent=Person Supplemental
+	x=2040,1265
+[Person Supplemental].[Person Veteran]
+	dx=180,225
+	parent=Person Supplemental
+	x=985,58
+[Person Supplemental].[Previous Degree]
+	dx=180,225
+	parent=Person Supplemental
+	x=1943,1879
+[Person Supplemental].[Previous Education]
+	dx=180,225
+	parent=Person Supplemental
+	x=803,82
+[Person Supplemental].[Previous Education Attendance]
+	dx=180,28
+	parent=Person Supplemental
+	x=1803,1757
+[Person Supplemental].[Previous Education Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=628,2025
+[Person Supplemental].[Skill]
+	dx=180,225
+	parent=Person Supplemental
+	x=201,479
+[Person Supplemental].[Skill Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=803,2082
+[Person Supplemental].[Special Activity]
+	dx=180,225
+	parent=Person Supplemental
+	x=10,991
+[Person Supplemental].[Sport]
+	dx=180,225
+	parent=Person Supplemental
+	x=107,637
+[Person Supplemental].[Test]
+	dx=180,225
+	parent=Person Supplemental
+	x=628,139
+[Person Supplemental].[Test Slot]
+	dx=180,225
+	parent=Person Supplemental
+	x=985,2106
+[Person Supplemental].[Visa]
+	dx=180,225
+	parent=Person Supplemental
+	x=42,810
+[Person Supplemental].[Visa Current]
+	dx=180,225
+	parent=Person Supplemental
+	x=466,226
+[Person Supplemental]
+	c=527ca5
+	dx=2247,2145
+	expanded=t
+	parent=ODS
+	view=711,1093
+	x=2986,47848
+	zoom=4802
+[Position].[Position Definition Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Position Definition]
+	dx=180,225
+	parent=Position
+	x=10,1020
+[Position].[Employee Position Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Employee Position]
+	dx=180,29
+	parent=Position
+	x=238,716
+[Position].[HR Requisition]
+	dx=180,225
+	parent=Position
+	x=230,1507
+[Position].[Labor Cost Dist Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Labor Cost Distribution]
+	dx=180,225
+	parent=Position
+	x=616,1803
+[Position].[Organization Hierarchy]
+	dx=180,225
+	parent=Position
+	x=692,732
+[Position].[Position Budget Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Position Budget]
+	dx=180,225
+	parent=Position
+	x=720,1218
+[Position].[Position Labor Dist Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Position Labor Distribution]
+	dx=180,29
+	parent=Position
+	x=230,30
+[Position].[Position Labor Dist Slot Filters]
+	c=527ca5
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Posn Labor Dist Slot]
+	dx=180,225
+	parent=Position
+	x=230,2011
+[Position].[Person Address Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Person Address]
+	dx=180,29
+	parent=Position
+	x=450,282
+[Position].[Person Detail]
+	dx=180,225
+	parent=Position
+	x=450,534
+[Position].[Telephone Current Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Position
+	x=472,102
+[Position].[Telephone Current]
+	dx=180,225
+	parent=Position
+	x=450,1038
+[Position]
+	c=527ca5
+	dx=910,2050
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=11772,15412
+	zoom=2048
+[Purchasing Payable].[Purchase Order Item Filters]
+	c=758698
+	dx=200,28
+	expanded=t
+	parent=Purchasing Payable
+	view=0,0
+	x=10,1767
+	zoom=8192
+[Purchasing Payable].[Purchase Order Item]
+	dx=180,225
+	parent=Purchasing Payable
+	x=554,871
+[Purchasing Payable].[Encumbrance]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1684,825
+[Purchasing Payable].[Invoice]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1654,646
+[Purchasing Payable].[Invoice Accounting Filters]
+	c=99f7ff
+	dx=200,28
+	expanded=t
+	parent=Purchasing Payable
+	view=0,0
+	x=240,1767
+	zoom=8192
+[Purchasing Payable].[Invoice Accounting]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1554,248
+[Purchasing Payable].[Invoice Check Filters]
+	c=73d3ac
+	dx=200,28
+	expanded=t
+	parent=Purchasing Payable
+	view=0,0
+	x=10,1825
+	zoom=8192
+[Purchasing Payable].[Invoice Check]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1909,574
+[Purchasing Payable].[Invoice Item]
+	dx=180,225
+	parent=Purchasing Payable
+	x=263,777
+[Purchasing Payable].[Invoice Tax Rate]
+	dx=180,225
+	parent=Purchasing Payable
+	x=114,558
+[Purchasing Payable].[Invoice Tax Rate Slot]
+	dx=180,225
+	parent=Purchasing Payable
+	x=10,695
+[Purchasing Payable].[Invoice Text]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1811,432
+[Purchasing Payable].[Organization Entity]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1561,1718
+[Purchasing Payable].[Person Detail]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1723,1650
+[Purchasing Payable].[Purchase Order Filters]
+	c=568ef6
+	dx=200,28
+	expanded=t
+	parent=Purchasing Payable
+	view=0,0
+	x=240,1825
+	zoom=8192
+[Purchasing Payable].[Purchase Order]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1176,873
+[Purchasing Payable].[Purchase Order Accounting Filters]
+	c=527ca5
+	dx=200,28
+	expanded=t
+	parent=Purchasing Payable
+	view=0,0
+	x=10,1883
+	zoom=8192
+[Purchasing Payable].[Purchase Order Accounting]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1335,227
+[Purchasing Payable].[Purchase Order Item Summary]
+	dx=180,225
+	parent=Purchasing Payable
+	x=335,1084
+[Purchasing Payable].[Purchase Order Item Text]
+	dx=180,225
+	parent=Purchasing Payable
+	x=688,1145
+[Purchasing Payable].[Purchase Order Tax Rate]
+	dx=180,225
+	parent=Purchasing Payable
+	x=502,570
+[Purchasing Payable].[Purchase Order Text]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1193,116
+[Purchasing Payable].[Received Item]
+	dx=180,225
+	parent=Purchasing Payable
+	x=688,597
+[Purchasing Payable].[Received Item Text]
+	dx=180,225
+	parent=Purchasing Payable
+	x=769,430
+[Purchasing Payable].[Reimbursement Item]
+	dx=180,225
+	parent=Purchasing Payable
+	x=13,867
+[Purchasing Payable].[Returned Item]
+	dx=180,225
+	parent=Purchasing Payable
+	x=502,1172
+[Purchasing Payable].[Returned Item Text]
+	dx=180,225
+	parent=Purchasing Payable
+	x=471,1355
+[Purchasing Payable].[Transaction History]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1460,58
+[Purchasing Payable].[Vendor]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1513,1376
+[Purchasing Payable].[Vendor Text]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1831,1511
+[Purchasing Payable].[Vendor Type]
+	dx=180,225
+	parent=Purchasing Payable
+	x=1856,1338
+[Purchasing Payable].[Transaction History Invoice]
+	parent=Purchasing Payable
+	x=1820,162
+[Purchasing Payable]
+	c=9bdfc4
+	dx=200,28
+	expanded=f
+	parent=ODS
+	view=48,478
+	x=6521,18749
+	zoom=6144
+[Receivable Customer].[Receivable Account Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Receivable Customer
+	x=480,992
+[Receivable Customer].[Receivable Account]
+	dx=180,225
+	parent=Receivable Customer
+	x=433,553
+[Receivable Customer].[Contract]
+	dx=180,28
+	parent=Receivable Customer
+	x=106,295
+[Receivable Customer].[Contract Third Party Filters]
+	c=bf8cbc
+	dx=210,38
+	expanded=t
+	parent=Receivable Customer
+	x=510,1022
+[Receivable Customer].[Contract Third Party]
+	dx=180,225
+	parent=Receivable Customer
+	x=45,399
+[Receivable Customer].[Deposit]
+	dx=180,225
+	parent=Receivable Customer
+	x=828,377
+[Receivable Customer].[Enrollment Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Receivable Customer
+	x=540,1052
+[Receivable Customer].[Enrollment]
+	dx=180,225
+	parent=Receivable Customer
+	x=722,874
+[Receivable Customer].[Exemption Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Receivable Customer
+	x=570,1082
+[Receivable Customer].[Exemption]
+	dx=180,225
+	parent=Receivable Customer
+	x=722,232
+[Receivable Customer].[Hold Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Receivable Customer
+	x=1259,654
+[Receivable Customer].[Hold]
+	dx=180,225
+	parent=Receivable Customer
+	x=388,123
+[Receivable Customer].[Hold Slot]
+	dx=180,225
+	parent=Receivable Customer
+	x=10,643
+[Receivable Customer].[Installment Plan]
+	dx=180,225
+	parent=Receivable Customer
+	x=566,142
+[Receivable Customer].[Miscellaneous Transaction]
+	dx=180,225
+	parent=Receivable Customer
+	x=566,964
+[Receivable Customer].[Organization Entity]
+	dx=180,28
+	parent=Receivable Customer
+	x=217,179
+[Receivable Customer].[Organization Entity Address]
+	dx=180,225
+	parent=Receivable Customer
+	x=217,927
+[Receivable Customer].[Person Address]
+	dx=180,225
+	parent=Receivable Customer
+	x=83,807
+[Receivable Customer].[Person Detail]
+	dx=180,225
+	parent=Receivable Customer
+	x=388,983
+[Receivable Customer].[Receivable Account Detail]
+	dx=180,225
+	parent=Receivable Customer
+	x=866,553
+[Receivable Customer].[Telephone Current]
+	dx=180,225
+	parent=Receivable Customer
+	x=828,729
+[Finance Text].[Vendor Text]
+	dx=180,225
+	parent=Finance Text
+	x=450,30
+[Finance Text].[Invoice Text]
+	dx=180,225
+	parent=Finance Text
+	x=10,254
+[Finance Text].[Returned Item Text]
+	dx=180,225
+	parent=Finance Text
+	x=890,30
+[Finance Text].[Received Item Text]
+	dx=180,225
+	parent=Finance Text
+	x=10,142
+[Finance Text].[Journal Voucher Text]
+	dx=180,225
+	parent=Finance Text
+	x=450,142
+[Finance Text].[Proposal Text]
+	dx=180,225
+	parent=Finance Text
+	x=230,30
+[Finance Text].[Fixed Asset Adjustment Text]
+	dx=180,225
+	parent=Finance Text
+	x=890,142
+[Finance Text].[Budget Request Text]
+	dx=180,225
+	parent=Finance Text
+	x=10,198
+[Finance Text].[Purchase Order Text]
+	dx=180,225
+	parent=Finance Text
+	x=450,198
+[Finance Text].[Purchase Order Item Text]
+	dx=180,225
+	parent=Finance Text
+	x=890,198
+[Finance Text].[Purchase Order]
+	dx=180,225
+	parent=Finance Text
+	x=670,198
+[Finance Text].[Invoice]
+	dx=180,225
+	parent=Finance Text
+	x=230,254
+[Finance Text].[Returned Item]
+	dx=180,225
+	parent=Finance Text
+	x=1110,30
+[Finance Text].[Transaction History]
+	dx=180,225
+	parent=Finance Text
+	x=670,142
+[Finance Text].[Received Item]
+	dx=180,225
+	parent=Finance Text
+	x=230,142
+[Finance Text].[Proposal]
+	dx=180,225
+	parent=Finance Text
+	x=10,58
+[Finance Text].[Fixed Asset Adjustment]
+	dx=180,225
+	parent=Finance Text
+	x=1110,142
+[Finance Text].[Budget Detail]
+	dx=180,225
+	parent=Finance Text
+	x=230,198
+[Finance Text].[Vendor]
+	dx=180,225
+	parent=Finance Text
+	x=670,30
+[Finance Text].[Grant View]
+	dx=180,225
+	parent=Finance Text
+	x=230,86
+[Finance Text].[Purchase Order Item]
+	dx=180,225
+	parent=Finance Text
+	x=1110,198
+[Finance Text]
+	c=89c6fd
+	dx=1300,293
+	expanded=t
+	parent=Receivable Customer
+	x=904,946
+[Receivable Customer]
+	c=d8a77d
+	dx=2214,1249
+	expanded=t
+	parent=ODS
+	view=0,154
+	x=2250,17649
+	zoom=6144
+[Receivable Revenue].[Receivable Account Detail Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Receivable Revenue
+	x=91,1432
+[Receivable Revenue].[Receivable Account Detail]
+	dx=192,226
+	parent=Receivable Revenue
+	x=680,804
+[Receivable Revenue].[Appl of Pay Detail Accounting]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1147,1157
+[Receivable Revenue].[Application of Payment]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1267,804
+[Receivable Revenue].[Award Disbursement]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1236,618
+[Receivable Revenue].[Contract]
+	dx=180,225
+	parent=Receivable Revenue
+	x=184,1096
+[Receivable Revenue].[Contract Third Party Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Receivable Revenue
+	x=321,1432
+[Receivable Revenue].[Contract Third Party]
+	dx=180,225
+	parent=Receivable Revenue
+	x=305,1241
+[Receivable Revenue].[Deposit]
+	dx=180,225
+	parent=Receivable Revenue
+	x=650,225
+[Receivable Revenue].[Exemption Filters]
+	c=758698
+	dx=210,38
+	expanded=t
+	parent=Receivable Revenue
+	x=91,1490
+[Receivable Revenue].[Exemption]
+	dx=180,225
+	parent=Receivable Revenue
+	x=466,267
+[Receivable Revenue].[General Ledger Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Receivable Revenue
+	x=321,1490
+[Receivable Revenue].[General Ledger]
+	dx=180,225
+	parent=Receivable Revenue
+	x=887,58
+[Receivable Revenue].[Hold]
+	dx=180,225
+	parent=Receivable Revenue
+	x=184,512
+[Receivable Revenue].[Hold Slot]
+	dx=180,225
+	parent=Receivable Revenue
+	x=466,1341
+[Receivable Revenue].[Installment Plan]
+	dx=180,225
+	parent=Receivable Revenue
+	x=305,367
+[Receivable Revenue].[Miscellaneous Transaction]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1300,334
+[Receivable Revenue].[Organization Entity]
+	dx=180,225
+	parent=Receivable Revenue
+	x=117,919
+[Receivable Revenue].[Organization Entity Address]
+	dx=180,225
+	parent=Receivable Revenue
+	x=837,1364
+[Receivable Revenue].[Person Address]
+	dx=180,225
+	parent=Receivable Revenue
+	x=650,1383
+[Receivable Revenue].[Person Detail]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1009,1286
+[Receivable Revenue].[Receivable Account Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Receivable Revenue
+	x=91,1548
+[Receivable Revenue].[Receivable Account]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1147,451
+[Receivable Revenue].[Receivable Accounting]
+	dx=225,230
+	parent=Receivable Revenue
+	x=43,645
+[Receivable Revenue].[Receivable Summary]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1009,322
+[Receivable Revenue].[Telephone Current]
+	dx=180,225
+	parent=Receivable Revenue
+	x=1236,990
+[Receivable Revenue].[Transaction History]
+	dx=180,225
+	parent=Receivable Revenue
+	x=837,244
+[Receivable Revenue]
+	c=89c6fd
+	dx=1490,1596
+	expanded=t
+	parent=ODS
+	view=26,567
+	x=9011,47848
+	zoom=6584
+[Recruitment Information].[Time Filters]
+	c=99b2c7
+	dx=200,28
+	expanded=t
+	parent=Recruitment Information
+	x=10,1747
+[Recruitment Information].[Recruitment Information Filters]
+	c=bf8cbc
+	dx=200,28
+	expanded=t
+	parent=Recruitment Information
+	x=240,1747
+[Recruitment Information].[Recruitment Information]
+	dx=180,225
+	parent=Recruitment Information
+	x=595,1113
+[Recruitment Information].[Admissions Application]
+	dx=180,225
+	parent=Recruitment Information
+	x=762,552
+[Recruitment Information].[Contact]
+	dx=180,225
+	parent=Recruitment Information
+	x=582,528
+[Recruitment Information].[Contact Slot]
+	dx=180,225
+	parent=Recruitment Information
+	x=941,1585
+[Recruitment Information].[Geographic Region Institution]
+	dx=180,225
+	parent=Recruitment Information
+	x=1769,763
+[Recruitment Information].[Inst Characteristic Slot]
+	dx=180,225
+	parent=Recruitment Information
+	x=1571,273
+[Recruitment Information].[Institution]
+	dx=180,225
+	parent=Recruitment Information
+	x=1430,160
+[Recruitment Information].[Institution Characteristic]
+	dx=180,225
+	parent=Recruitment Information
+	x=1746,585
+[Recruitment Information].[Institution Demographic]
+	dx=180,225
+	parent=Recruitment Information
+	x=1679,417
+[Recruitment Information].[Interest]
+	dx=180,225
+	parent=Recruitment Information
+	x=35,942
+[Recruitment Information].[Person Address]
+	dx=180,225
+	parent=Recruitment Information
+	x=126,1463
+[Recruitment Information].[Person Detail]
+	dx=180,225
+	parent=Recruitment Information
+	x=779,1669
+[Recruitment Information].[Pre Student]
+	dx=180,225
+	parent=Recruitment Information
+	x=1181,1113
+[Recruitment Information].[Previous Degree]
+	dx=180,225
+	parent=Recruitment Information
+	x=1187,129
+[Recruitment Information].[Previous Education]
+	dx=180,225
+	parent=Recruitment Information
+	x=1064,763
+[Recruitment Information].[Previous Education Attendance]
+	dx=334,29
+	parent=Recruitment Information
+	x=789,128
+[Recruitment Information].[Previous Education Slot]
+	dx=180,225
+	parent=Recruitment Information
+	x=256,1590
+[Recruitment Information].[Recruitment Attribute]
+	dx=180,225
+	parent=Recruitment Information
+	x=10,1122
+[Recruitment Information].[Recruitment Cohort]
+	dx=180,225
+	parent=Recruitment Information
+	x=115,778
+[Recruitment Information].[Recruitment Learned]
+	dx=180,225
+	parent=Recruitment Information
+	x=1152,1293
+[Recruitment Information].[Recruitment Source]
+	dx=180,225
+	parent=Recruitment Information
+	x=242,646
+[Recruitment Information].[Recruitment Source Slot]
+	dx=180,225
+	parent=Recruitment Information
+	x=420,1671
+[Recruitment Information].[Secondary School Subject]
+	dx=180,225
+	parent=Recruitment Information
+	x=1746,942
+[Recruitment Information].[Telephone Current]
+	dx=180,225
+	parent=Recruitment Information
+	x=1070,1455
+[Recruitment Information].[Test]
+	dx=180,225
+	parent=Recruitment Information
+	x=402,560
+[Recruitment Information].[Test Slot]
+	dx=180,225
+	parent=Recruitment Information
+	x=599,1698
+[Recruitment Information].[Visa Current]
+	dx=180,225
+	parent=Recruitment Information
+	x=41,1301
+[Recruitment Information]
+	c=99b2c7
+	dx=200,28
+	expanded=f
+	parent=ODS
+	view=360,0
+	x=10,72589
+	zoom=6144
+[Reimbursement].[Reimbursement Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Reimbursement
+	x=671,600
+[Reimbursement].[Reimbursement]
+	dx=180,225
+	parent=Reimbursement
+	x=349,677
+[Reimbursement].[Invoice]
+	dx=180,225
+	parent=Reimbursement
+	x=427,1006
+[Reimbursement].[Portfolio Filters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Reimbursement
+	x=671,600
+[Reimbursement].[Portfolio]
+	dx=180,225
+	parent=Reimbursement
+	x=688,677
+[Reimbursement].[Portfolio Summary]
+	dx=180,225
+	parent=Reimbursement
+	x=957,806
+[Reimbursement].[Profile Default Accounting]
+	dx=180,225
+	parent=Reimbursement
+	x=1226,419
+[Reimbursement].[Reimbursement Accounting]
+	dx=180,225
+	parent=Reimbursement
+	x=496,58
+[Reimbursement].[Reimbursement Approval History]
+	dx=180,225
+	parent=Reimbursement
+	x=139,943
+[Reimbursement].[Reimbursement Item Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Reimbursement
+	view=0,0
+	x=671,600
+	zoom=8192
+[Reimbursement].[Reimbursement Item]
+	dx=180,225
+	parent=Reimbursement
+	x=427,348
+[Reimbursement].[Reimbursement Itinerary Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Reimbursement
+	x=671,600
+[Reimbursement].[Reimbursement Itinerary]
+	dx=180,225
+	parent=Reimbursement
+	x=10,677
+[Reimbursement].[Reimbursement Status History]
+	dx=180,225
+	parent=Reimbursement
+	x=139,411
+[Reimbursement].[Travel And Expense Profile]
+	dx=180,225
+	parent=Reimbursement
+	x=957,548
+[Reimbursement]
+	c=bf8cbc
+	dx=1416,1045
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=1330,67735
+	zoom=6144
+[Relationship].[Relationship]
+	dx=180,225
+	parent=Relationship
+	x=10,1920
+[Relationship].[Constituent Entity First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,2046
+[Relationship].[Constituent Entity Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,2298
+[Relationship].[Constituent First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,2550
+[Relationship].[Constituent Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,2802
+[Relationship].[Organization Address First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,1038
+[Relationship].[Organization Address Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,1290
+[Relationship].[Organizational Constituent First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,3054
+[Relationship].[Organizational Constituent Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,3306
+[Relationship].[Organization First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,282
+[Relationship].[Organization Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,30
+[Relationship].[Person Address First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,534
+[Relationship].[Person Address Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,786
+[Relationship].[Person First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,1542
+[Relationship].[Person Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,1794
+[Relationship].[Telephone Current First Party]
+	dx=180,225
+	parent=Relationship
+	x=230,3558
+[Relationship].[Telephone Current Related Party]
+	dx=180,225
+	parent=Relationship
+	x=230,3810
+[Relationship].[Cross Reference Slot]
+	dx=180,225
+	parent=Slotted View Relationship
+	x=10,534
+[Relationship].[Organization Entity]
+	dx=180,225
+	parent=Slotted View Relationship
+	x=230,30
+[Relationship].[Organization Entity Address]
+	dx=180,225
+	parent=Slotted View Relationship
+	x=230,534
+[Relationship].[Person Address]
+	dx=180,225
+	parent=Slotted View Relationship
+	x=230,282
+[Relationship].[Person Detail]
+	dx=180,225
+	parent=Slotted View Relationship
+	x=230,786
+[Relationship].[Telephone Current]
+	dx=180,225
+	parent=Slotted View Relationship
+	x=230,1038
+[Relationship].[Slotted View Relationship]
+	c=c0c0e6
+	dx=420,1077
+	expanded=t
+	parent=Relationship
+	x=10,4062
+[Relationship]
+	c=bf8cbc
+	dx=440,5149
+	expanded=t
+	parent=ODS
+	x=10,58557
+[Residential Life].[Person Detail]
+	dx=180,225
+	parent=Residential Life
+	x=10,660
+[Residential Life].[Address By Rule]
+	dx=180,225
+	parent=Residential Life
+	x=230,30
+[Residential Life].[Meal Assignment]
+	dx=180,225
+	parent=Residential Life
+	x=230,282
+[Residential Life].[Phone Assignment]
+	dx=180,225
+	parent=Residential Life
+	x=230,534
+[Residential Life].[Room Assignment]
+	dx=180,225
+	parent=Residential Life
+	x=230,786
+[Residential Life].[Academic Study]
+	dx=180,225
+	parent=Residential Life
+	x=230,1038
+[Residential Life].[Student]
+	dx=180,225
+	parent=Residential Life
+	x=230,1290
+[Residential Life]
+	c=758698
+	dx=420,1329
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=2300,70288
+	zoom=8192
+[Schedule Offering].[Time Filters]
+	c=568ef6
+	dx=210,38
+	expanded=t
+	parent=Schedule Offering
+	x=10,1025
+[Schedule Offering].[Schedule Offering]
+	dx=180,225
+	parent=Schedule Offering
+	x=843,639
+[Schedule Offering].[Course Attribute]
+	dx=180,225
+	parent=Schedule Offering
+	x=315,58
+[Schedule Offering].[Course Catalog]
+	dx=180,225
+	parent=Schedule Offering
+	x=551,550
+[Schedule Offering].[Course Coreq]
+	dx=180,225
+	parent=Schedule Offering
+	x=169,161
+[Schedule Offering].[Course Level]
+	dx=180,225
+	parent=Schedule Offering
+	x=63,307
+[Schedule Offering].[Course Offering Fees]
+	dx=180,225
+	parent=Schedule Offering
+	x=1096,810
+[Schedule Offering].[Course Prereq]
+	dx=180,225
+	parent=Schedule Offering
+	x=10,478
+[Schedule Offering].[Course Prereq Combined]
+	dx=180,225
+	parent=Schedule Offering
+	x=80,824
+[Schedule Offering].[Course Schedule]
+	dx=180,225
+	parent=Schedule Offering
+	x=16,657
+[Schedule Offering].[Faculty]
+	dx=180,225
+	parent=Schedule Offering
+	x=486,976
+[Schedule Offering].[Instructional Assignment]
+	dx=180,225
+	parent=Schedule Offering
+	x=621,849
+[Schedule Offering].[Meeting Time]
+	dx=180,225
+	parent=Schedule Offering
+	x=777,341
+[Schedule Offering].[Meeting Time Slot]
+	dx=180,225
+	parent=Schedule Offering
+	x=777,937
+[Schedule Offering].[Offering Coreq]
+	dx=180,225
+	parent=Schedule Offering
+	x=1096,468
+[Schedule Offering].[Offering Grade Type]
+	dx=180,225
+	parent=Schedule Offering
+	x=956,355
+[Schedule Offering].[Offering Prereq]
+	dx=180,225
+	parent=Schedule Offering
+	x=1149,639
+[Schedule Offering].[Schedule Attribute]
+	dx=180,225
+	parent=Schedule Offering
+	x=956,923
+[Schedule Offering]
+	c=99f7ff
+	dx=1339,1073
+	expanded=t
+	parent=ODS
+	view=136,249
+	x=470,58557
+	zoom=6144
+[Student Detail].[Time Filters]
+	c=99f7ff
+	dx=210,38
+	expanded=t
+	parent=Student Detail
+	x=10,2205
+[Student Detail].[Student]
+	dx=180,225
+	parent=Student Detail
+	x=835,1214
+[Student Detail].[Academic Outcome]
+	dx=180,225
+	parent=Student Detail
+	x=990,403
+[Student Detail].[Academic Outcome Slot]
+	dx=180,225
+	parent=Student Detail
+	x=822,2039
+[Student Detail].[Academic Study Filters]
+	c=73d3ac
+	dx=210,38
+	expanded=t
+	parent=Student Detail
+	x=240,2205
+[Student Detail].[Academic Study Extended]
+	dx=180,225
+	parent=Student Detail
+	x=1639,1399
+[Student Detail].[Advisor]
+	dx=180,225
+	parent=Student Detail
+	x=1477,695
+[Student Detail].[Advisor Slot]
+	dx=180,225
+	parent=Student Detail
+	x=1007,2021
+[Student Detail].[Enrollment]
+	dx=180,225
+	parent=Student Detail
+	x=1577,853
+[Student Detail].[Finaid Enrollment]
+	dx=180,225
+	parent=Student Detail
+	x=105,828
+[Student Detail].[Government Course]
+	dx=180,225
+	parent=Student Detail
+	x=176,1711
+[Student Detail].[Government Student]
+	dx=180,225
+	parent=Student Detail
+	x=305,1847
+[Student Detail].[GPA By Level]
+	dx=180,225
+	parent=Student Detail
+	x=37,1002
+[Student Detail].[GPA By Term]
+	dx=180,225
+	parent=Student Detail
+	x=1661,1214
+[Student Detail].[Hold]
+	dx=180,225
+	parent=Student Detail
+	x=10,1187
+[Student Detail].[Hold Slot]
+	dx=180,225
+	parent=Student Detail
+	x=1477,1733
+[Student Detail].[Outcome Departmental Honor]
+	dx=180,225
+	parent=Student Detail
+	x=1273,205
+[Student Detail].[Outcome Honor]
+	dx=180,225
+	parent=Student Detail
+	x=967,58
+[Student Detail].[Outcome Institutional Honor]
+	dx=180,225
+	parent=Student Detail
+	x=1139,91
+[Student Detail].[Person Address]
+	dx=180,225
+	parent=Student Detail
+	x=81,1551
+[Student Detail].[Person Detail]
+	dx=180,225
+	parent=Student Detail
+	x=1343,1864
+[Student Detail].[Previous Degree]
+	dx=180,225
+	parent=Student Detail
+	x=1571,2156
+[Student Detail].[Previous Education Attendance]
+	dx=180,225
+	parent=Student Detail
+	x=1457,2010
+[Student Detail].[Sport]
+	dx=180,225
+	parent=Student Detail
+	x=1343,564
+[Student Detail].[Sport Slot]
+	dx=180,225
+	parent=Student Detail
+	x=1184,1962
+[Student Detail].[Student Activity]
+	dx=180,225
+	parent=Student Detail
+	x=211,674
+[Student Detail].[Student Attribute]
+	dx=180,225
+	parent=Student Detail
+	x=636,2015
+[Student Detail].[Student Cohort]
+	dx=180,225
+	parent=Student Detail
+	x=461,1950
+[Student Detail].[Student Course Att Slot]
+	dx=180,225
+	parent=Student Detail
+	x=470,289
+[Student Detail].[Student Course]
+	parent=Student Detail
+	x=499,516
+[Student Detail].[Student Course Attribute]
+	dx=180,225
+	parent=Student Detail
+	x=323,361
+[Student Detail].[Student Course Grade Change]
+	dx=180,225
+	parent=Student Detail
+	x=25,1372
+[Student Detail].[Telephone Current]
+	dx=180,225
+	parent=Student Detail
+	x=1577,1575
+[Student Detail].[Transcript Comment]
+	dx=180,225
+	parent=Student Detail
+	x=800,115
+[Student Detail]
+	c=73d3ac
+	dx=1851,2253
+	expanded=t
+	parent=ODS
+	view=0,1021
+	x=15482,58
+	zoom=4096
+[Solicitation Effort].[Solicitor Assignment]
+	dx=180,225
+	parent=Solicitation Effort
+	x=544,1465
+[Solicitation Effort].[Solicitor Assignment Result]
+	dx=180,225
+	parent=Solicitation Effort
+	x=193,1759
+[Solicitation Effort].[Constituent Entity]
+	dx=180,225
+	parent=Solicitation Effort
+	x=424,1907
+[Solicitation Effort].[Organizational Constituent]
+	dx=180,225
+	parent=Solicitation Effort
+	x=229,2132
+[Solicitation Effort].[Constituent]
+	dx=180,225
+	parent=Solicitation Effort
+	x=478,2200
+[Solicitation Effort].[Solicitior Organization Fundraiser FIlters]
+	c=9bdfc4
+	dx=210,38
+	expanded=t
+	parent=Solicitation Effort
+	x=10,2445
+[Solicitation Effort].[Solicitor Org Fundraiser]
+	dx=180,1109
+	parent=Solicitation Effort
+	x=1394,320
+[Solicitation Effort].[Solicitor Org Fundraiser Goal Filters]
+	c=d8a77d
+	dx=210,38
+	expanded=t
+	parent=Solicitation Effort
+	x=240,2445
+[Solicitation Effort].[Solicitor Org Fundraiser Goal]
+	dx=180,225
+	parent=Solicitation Effort
+	x=2110,762
+[Solicitation Effort].[Solicitior Organization Filters]
+	c=89c6fd
+	dx=210,38
+	expanded=t
+	parent=Solicitation Effort
+	x=10,2503
+[Solicitation Effort].[Solicitor Organization]
+	dx=180,225
+	parent=Solicitation Effort
+	x=678,762
+[Solicitation Effort].[Solicitor Organization Comment]
+	dx=180,209
+	parent=Solicitation Effort
+	x=10,513
+[Solicitation Effort].[Solicitor Organization Goal Filters]
+	c=99b2c7
+	dx=210,38
+	expanded=t
+	parent=Solicitation Effort
+	x=240,2503
+[Solicitation Effort].[Solicitor Organization Goal]
+	dx=180,225
+	parent=Solicitation Effort
+	x=805,58
+[Solicitation Effort]
+	c=758698
+	dx=2300,2551
+	expanded=t
+	parent=ODS
+	view=0,0
+	x=6691,47848
+	zoom=1679
+[Transaction History].[Time Filters]
+	c=758698
+	dx=200,28
+	expanded=t
+	parent=Transaction History
+	x=10,1340
+[Transaction History].[Transaction History Filters]
+	c=99f7ff
+	dx=200,28
+	expanded=t
+	parent=Transaction History
+	x=240,1340
+[Transaction History].[Transaction History]
+	dx=180,225
+	parent=Transaction History
+	x=554,750
+[Transaction History].[Application of Payment]
+	dx=180,225
+	parent=Transaction History
+	x=366,58
+[Transaction History].[Encumbrance Ledger]
+	dx=180,225
+	parent=Transaction History
+	x=978,407
+[Transaction History].[Endowment Distribution]
+	dx=180,225
+	parent=Transaction History
+	x=1068,568
+[Transaction History].[Fixed Asset Adjustment]
+	dx=180,225
+	parent=Transaction History
+	x=667,216
+[Transaction History].[General Ledger]
+	dx=180,225
+	parent=Transaction History
+	x=839,285
+[Transaction History].[Grant Applied Payments]
+	dx=180,225
+	parent=Transaction History
+	x=306,1236
+[Transaction History].[Grant Billing Detail]
+	dx=180,225
+	parent=Transaction History
+	x=667,1284
+[Transaction History].[Grant Ledger]
+	dx=180,225
+	parent=Transaction History
+	x=105,441
+[Transaction History].[Grant Receivable Acct Detail]
+	dx=180,225
+	parent=Transaction History
+	x=158,1125
+[Transaction History].[Invoice Accounting]
+	dx=180,225
+	parent=Transaction History
+	x=1100,750
+[Transaction History].[Journal Voucher Text]
+	dx=180,225
+	parent=Transaction History
+	x=1068,932
+[Transaction History].[Membership Interest]
+	dx=180,225
+	parent=Transaction History
+	x=27,609
+[Transaction History].[Operating Ledger]
+	dx=180,225
+	parent=Transaction History
+	x=10,792
+[Transaction History].[Payroll Distribution]
+	dx=180,225
+	parent=Transaction History
+	x=483,1291
+[Transaction History].[Purchase Order Accounting]
+	dx=180,225
+	parent=Transaction History
+	x=56,971
+[Transaction History].[Receivable Account Detail]
+	dx=180,225
+	parent=Transaction History
+	x=352,243
+[Transaction History].[Receivable Accounting]
+	dx=180,225
+	parent=Transaction History
+	x=215,119
+[Transaction History].[Vendor]
+	dx=180,225
+	parent=Transaction History
+	x=839,1215
+[Transaction History].[Vendor Type]
+	dx=180,225
+	parent=Transaction History
+	x=978,1093
+[Transaction History]
+	c=568ef6
+	dx=200,28
+	expanded=f
+	parent=ODS
+	view=0,0
+	x=1105,21202
+	zoom=6144
+[Model].[ODS]
+	c=9bdfc4
+	dx=22950,72627
+	expanded=t
+	parent=Model
+	view=0,52209
+	x=10,24
+	zoom=729
+[Model]
+	view=1142,909
+	zoom=1.000000
+[].[dataSources]
+	view=0,0
+	zoom=8192
+[].[packages]
+	view=0,0
+	zoom=8192
+[]
+	Notation=6684704
+	ShowGrid=1
+	Snap=99
+	font=Arial Narrow
+	lod=12
+	tc=323232
+	viewStyle=2
+[ODSLOV].[LOV_ACADEMIC_PERIOD]
+	dx=180,225
+	parent=ODSLOV
+	x=10,57
+[ODSLOV].[LOV_ACADEMIC_STANDING]
+	dx=180,225
+	parent=ODSLOV
+	x=230,57
+[ODSLOV].[LOV_ACADEMIC_TITLE]
+	dx=180,225
+	parent=ODSLOV
+	x=450,57
+[ODSLOV].[LOV_ACADEMIC_YEAR]
+	dx=180,225
+	parent=ODSLOV
+	x=670,57
+[ODSLOV].[LOV_ACCOUNT_ATTRIBUTE_SET]
+	dx=180,225
+	parent=ODSLOV
+	x=890,57
+[ODSLOV].[LOV_ACCOUNT_ATTRIBUTE_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,57
+[ODSLOV].[LOV_ACCOUNT_ATTRIBUTE_VALUE]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,57
+[ODSLOV].[LOV_ACCOUNT_CLASS]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,57
+[ODSLOV].[LOV_ACCOUNT_LEVEL_1]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,57
+[ODSLOV].[LOV_ACCOUNT_LEVEL_2]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,57
+[ODSLOV].[LOV_ACCOUNT_LEVEL_3]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,57
+[ODSLOV].[LOV_ACCOUNT_LEVEL_4]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,57
+[ODSLOV].[LOV_ACCOUNT_POOL]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,57
+[ODSLOV].[LOV_ACCOUNT_TYPE_ATTR_SET]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,57
+[ODSLOV].[LOV_ACCOUNT_TYPE_ATTR_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=10,309
+[ODSLOV].[LOV_ACCOUNT_TYPE_ATTR_VALUE]
+	dx=180,225
+	parent=ODSLOV
+	x=230,309
+[ODSLOV].[LOV_ACCOUNT_TYPE_LEVEL_1]
+	dx=180,225
+	parent=ODSLOV
+	x=450,309
+[ODSLOV].[LOV_ACCOUNT_TYPE_LEVEL_2]
+	dx=180,225
+	parent=ODSLOV
+	x=670,309
+[ODSLOV].[LOV_ACTIVITY]
+	dx=180,225
+	parent=ODSLOV
+	x=890,309
+[ODSLOV].[LOV_ACTIVITY_CATEGORY]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,309
+[ODSLOV].[LOV_FUND_LEVEL_1]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,1569
+[ODSLOV].[LOV_FUND_LEVEL_2]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,1569
+[ODSLOV].[LOV_FUND_LEVEL_3]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,1569
+[ODSLOV].[LOV_FUND_LEVEL_4]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,1569
+[ODSLOV].[LOV_FUND_LEVEL_5]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,1569
+[ODSLOV].[LOV_FUND_POOL]
+	dx=180,225
+	parent=ODSLOV
+	x=10,1821
+[ODSLOV].[LOV_FUND_SOURCE]
+	dx=180,225
+	parent=ODSLOV
+	x=230,1821
+[ODSLOV].[LOV_FUND_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=450,1821
+[ODSLOV].[LOV_FUND_TYPE_ATTR_SET]
+	dx=180,225
+	parent=ODSLOV
+	x=670,1821
+[ODSLOV].[LOV_FUND_TYPE_ATTR_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=890,1821
+[ODSLOV].[LOV_FUND_TYPE_ATTR_VALUE]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,1821
+[ODSLOV].[LOV_FUND_TYPE_LEVEL_1]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,1821
+[ODSLOV].[LOV_FUND_TYPE_LEVEL_2]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,1821
+[ODSLOV].[LOV_GENDER]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,1821
+[ODSLOV].[LOV_GEOGRAPHIC_AREA]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,1821
+[ODSLOV].[LOV_GRADE_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,1821
+[ODSLOV].[LOV_GRANT]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,1821
+[ODSLOV].[LOV_HOLD]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,1821
+[ODSLOV].[LOV_HR_APPLICATION_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,1821
+[ODSLOV].[LOV_INCOME_LEVEL]
+	dx=180,225
+	parent=ODSLOV
+	x=10,2073
+[ODSLOV].[LOV_INSTALLMENT_PLAN]
+	dx=180,225
+	parent=ODSLOV
+	x=230,2073
+[ODSLOV].[LOV_INSTRUCTIONAL_METHOD]
+	dx=180,225
+	parent=ODSLOV
+	x=450,2073
+[ODSLOV].[LOV_CAMPUS]
+	dx=180,225
+	parent=ODSLOV
+	x=890,813
+[ODSLOV].[LOV_CERTIFICATION]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,813
+[ODSLOV].[LOV_CHART_OF_ACCOUNTS]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,813
+[ODSLOV].[LOV_COHORT]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,813
+[ODSLOV].[LOV_COLLECTION_AGENCY_NAME]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,813
+[ODSLOV].[LOV_COLLEGE]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,813
+[ODSLOV].[LOV_COMMODITY]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,813
+[ODSLOV].[LOV_CONTRACT_NUMBER]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,813
+[ODSLOV].[LOV_CONTRACT_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,813
+[ODSLOV].[LOV_COUNTY]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,813
+[ODSLOV].[LOV_COURSE_ATTRIBUTE]
+	dx=180,225
+	parent=ODSLOV
+	x=10,1065
+[ODSLOV].[LOV_COURSE_IDENTIFICATION]
+	dx=180,225
+	parent=ODSLOV
+	x=230,1065
+[ODSLOV].[LOV_COURSE_REFERENCE_NUMBER]
+	dx=180,225
+	parent=ODSLOV
+	x=450,1065
+[ODSLOV].[LOV_CURRENT_TIME_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=670,1065
+[ODSLOV].[LOV_DEPARTMENT]
+	dx=180,225
+	parent=ODSLOV
+	x=890,1065
+[ODSLOV].[LOV_DESIGNATION]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,1065
+[ODSLOV].[LOV_DISTRICT_DIVISION]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,1065
+[ODSLOV].[LOV_DIVISION]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,1065
+[ODSLOV].[LOV_DONOR]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,1065
+[ODSLOV].[LOV_EARNINGS]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,1065
+[ODSLOV].[LOV_EDUCATIONAL_GOAL]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,1065
+[ODSLOV].[LOV_EDUCATIONAL_LEVEL]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,1065
+[ODSLOV].[LOV_EEO_SKILL]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,1065
+[ODSLOV].[LOV_EMPLOYEE_CLASS]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,1065
+[ODSLOV].[LOV_EMPLOYEE_GROUP]
+	dx=180,225
+	parent=ODSLOV
+	x=10,1317
+[ODS].[ACADEMIC_OUTCOME]
+	dx=180,225
+	parent=ODS
+	x=3330,57
+[ODSLOV].[LOV_EMPLOYEE_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=230,1317
+[ODSLOV].[LOV_EMPLOYER]
+	dx=180,225
+	parent=ODSLOV
+	x=450,1317
+[ODSLOV].[LOV_EMPLOYER_CATEGORY]
+	dx=180,225
+	parent=ODSLOV
+	x=670,1317
+[ODSLOV].[LOV_EMPLOYER_INDUSTRIAL_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=890,1317
+[ODSLOV].[LOV_EMPLOYMENT_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,1317
+[ODSLOV].[LOV_ENROLLMENT_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,1317
+[ODSLOV].[LOV_ETHNICITY]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,1317
+[ODSLOV].[LOV_FINANCE_ACCOUNT]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,1317
+[ODSLOV].[LOV_FINANCE_ACCOUNT_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,1317
+[ODSLOV].[LOV_FINANCE_ACTIVITY]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,1317
+[ODSLOV].[LOV_FINANCE_FUND]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,1317
+[ODSLOV].[LOV_FINANCE_FUND_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,1317
+[ODSLOV].[LOV_FINANCE_LOCATION]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,1317
+[ODSLOV].[LOV_FINANCE_ORGANIZATION]
+	dx=180,225
+	parent=ODSLOV
+	x=10,1569
+[ODSLOV].[LOV_FINANCE_PROGRAM]
+	dx=180,225
+	parent=ODSLOV
+	x=230,1569
+[ODSLOV].[LOV_FINANCIAL_MANAGER]
+	dx=180,225
+	parent=ODSLOV
+	x=450,1569
+[ODSLOV].[LOV_FISCAL_PERIOD]
+	dx=180,225
+	parent=ODSLOV
+	x=670,1569
+[ODSLOV].[LOV_FISCAL_YEAR]
+	dx=180,225
+	parent=ODSLOV
+	x=890,1569
+[ODSLOV].[LOV_FOREIGN_CURRENCY]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,1569
+[ODSLOV].[LOV_FUND_ATTRIBUTE_SET]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,1569
+[ODSLOV].[LOV_FUND_ATTRIBUTE_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,1569
+[ODSLOV].[LOV_FUND_ATTRIBUTE_VALUE]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,1569
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_1]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,2325
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_2]
+	dx=180,225
+	parent=ODSLOV
+	x=10,2577
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_3]
+	dx=180,225
+	parent=ODSLOV
+	x=230,2577
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_4]
+	dx=180,225
+	parent=ODSLOV
+	x=450,2577
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_5]
+	dx=180,225
+	parent=ODSLOV
+	x=670,2577
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_6]
+	dx=180,225
+	parent=ODSLOV
+	x=890,2577
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_7]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,2577
+[ODSLOV].[LOV_ORGANIZATION_LEVEL_8]
+	dx=180,225
+	parent=ODSLOV
+	x=3833,56405
+[ODSLOV].[LOV_ORGANIZATION_POOL]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,2577
+[ODSLOV].[LOV_ORG_FINANCIAL_MANAGER]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,2577
+[ODSLOV].[LOV_OUTCOME]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,2577
+[ODSLOV].[LOV_OUTCOME_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,2577
+[ODSLOV].[LOV_PACKAGING_GROUP]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,2577
+[ODSLOV].[LOV_POSITION]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,2577
+[ODSLOV].[LOV_POSITION_CHANGE_REASON]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,2577
+[ODSLOV].[LOV_POSITION_CLASS]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,2577
+[ODSLOV].[LOV_POSITION_DEFERRED_PAY]
+	dx=180,225
+	parent=ODSLOV
+	x=10,2829
+[ODSLOV].[LOV_POSITION_LOCATION]
+	dx=180,225
+	parent=ODSLOV
+	x=230,2829
+[ODSLOV].[LOV_POSITION_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=450,2829
+[ODSLOV].[LOV_POST_CODE]
+	dx=180,225
+	parent=ODSLOV
+	x=670,2829
+[ODSLOV].[LOV_POST_SECONDARY_SCHOOL]
+	dx=180,225
+	parent=ODSLOV
+	x=890,2829
+[ODSLOV].[LOV_PREF_CLASS]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,2829
+[ODSLOV].[LOV_PRIM_DISABILITY]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,2829
+[ODSLOV].[LOV_ACTIVITY_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,309
+[ODSLOV].[LOV_ADDRESS_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,309
+[ODSLOV].[LOV_ADMISSIONS_ATTRIBUTE]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,309
+[ODSLOV].[LOV_ADMISSIONS_POPULATION]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,309
+[ODSLOV].[LOV_ADMISSIONS_RATING_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,309
+[ODSLOV].[LOV_ADVANCEMENT_FUND]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,309
+[ODSLOV].[LOV_ADVISOR_NAME_LFMI]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,309
+[ODSLOV].[LOV_ADVISOR_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,309
+[ODSLOV].[LOV_AID_FUND]
+	dx=180,225
+	parent=ODSLOV
+	x=10,561
+[ODSLOV].[LOV_AID_YEAR]
+	dx=180,225
+	parent=ODSLOV
+	x=230,561
+[ODSLOV].[LOV_APPLICATION_DECISION]
+	dx=180,225
+	parent=ODSLOV
+	x=450,561
+[ODSLOV].[LOV_APPLICATION_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=670,561
+[ODSLOV].[LOV_ASSIGNMENT_GRADE]
+	dx=180,225
+	parent=ODSLOV
+	x=890,561
+[ODSLOV].[LOV_ASSIGNMENT_PAY_ID]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,561
+[ODSLOV].[LOV_ASSIGNMENT_SALARY_GROUP]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,561
+[ODSLOV].[LOV_AWARD_CATEGORY]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,561
+[ODSLOV].[LOV_BENEFIT_CATEGORY]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,561
+[ODSLOV].[LOV_BENEFIT_DEDUCTION]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,561
+[ODSLOV].[LOV_BLOCK_SCHEDULE]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,561
+[ODSLOV].[LOV_BUDGET]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,561
+[ODSLOV].[LOV_BUDGET_GROUP]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,561
+[ODSLOV].[LOV_BUDGET_PHASE]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,561
+[ODSLOV].[LOV_BUILDING]
+	dx=180,225
+	parent=ODSLOV
+	x=10,813
+[ODSLOV].[LOV_CALENDAR_MONTH]
+	dx=180,225
+	parent=ODSLOV
+	x=230,813
+[ODSLOV].[LOV_CAMPAIGN]
+	dx=180,225
+	parent=ODSLOV
+	x=450,813
+[ODSLOV].[LOV_CAMPAIGN_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=670,813
+[ODSLOV].[LOV_PRINCIPAL_INVESTIGATOR]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,2829
+[ODSLOV].[LOV_PROGRAM]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,2829
+[ODSLOV].[LOV_PROGRAM_ATTR_SET]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,2829
+[ODSLOV].[LOV_PROGRAM_ATTR_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,2829
+[ODSLOV].[LOV_PROGRAM_ATTR_VALUE]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,2829
+[ODSLOV].[LOV_PROGRAM_CLASSIFICATION]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,2829
+[ODSLOV].[LOV_PROGRAM_LEVEL_1]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,2829
+[ODSLOV].[LOV_PROGRAM_LEVEL_2]
+	dx=180,225
+	parent=ODSLOV
+	x=10,3081
+[ODSLOV].[LOV_PROGRAM_LEVEL_3]
+	dx=180,225
+	parent=ODSLOV
+	x=230,3081
+[ODSLOV].[LOV_PROGRAM_LEVEL_4]
+	dx=180,225
+	parent=ODSLOV
+	x=450,3081
+[ODSLOV].[LOV_PROGRESS_EVALUATION]
+	dx=180,225
+	parent=ODSLOV
+	x=670,3081
+[ODSLOV].[LOV_PROJECT]
+	dx=180,225
+	parent=ODSLOV
+	x=890,3081
+[ODSLOV].[LOV_PROSPECT_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,3081
+[ODSLOV].[LOV_RATING]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,3081
+[ODSLOV].[LOV_RATING_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,3081
+[ODSLOV].[LOV_RECEIVABLE_CATEGORY]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,3081
+[ODSLOV].[LOV_RECEIVABLE_CONTRACT]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,3081
+[ODSLOV].[LOV_RECEIVABLE_DELINQUENCY]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,3081
+[ODSLOV].[LOV_RECEIVABLE_DETAIL_CODE]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,3081
+[ODSLOV].[LOV_RECEIVABLE_EXEMPTION]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,3081
+[ODSLOV].[LOV_RECEIVABLE_SOURCE]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,3081
+[ODSLOV].[LOV_RECRUITER]
+	dx=180,225
+	parent=ODSLOV
+	x=10,3333
+[ODSLOV].[LOV_REGISTRATION_REASON]
+	dx=180,225
+	parent=ODSLOV
+	x=230,3333
+[ODSLOV].[LOV_INSTRUCTOR_NAME]
+	dx=180,225
+	parent=ODSLOV
+	x=670,2073
+[ODSLOV].[LOV_INTERNAL_ACCOUNT_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=890,2073
+[ODSLOV].[LOV_INTERNAL_FUND_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,2073
+[ODSLOV].[LOV_INTERVIEW_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,2073
+[ODSLOV].[LOV_JOB_LEAVE_CATEGORY]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,2073
+[ODSLOV].[LOV_JOB_SUFFIX]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,2073
+[ODSLOV].[LOV_LEADERSHIP_ROLE]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,2073
+[ODSLOV].[LOV_LEAVE_OF_ABSENCE_REASON]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,2073
+[ODSLOV].[LOV_LEGACY]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,2073
+[ODSLOV].[LOV_LEVEL]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,2073
+[ODSLOV].[LOV_LOCATION_LEVEL_1]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,2073
+[ODSLOV].[LOV_LOCATION_LEVEL_2]
+	dx=180,225
+	parent=ODSLOV
+	x=10,2325
+[ODSLOV].[LOV_LOCATION_LEVEL_3]
+	dx=180,225
+	parent=ODSLOV
+	x=230,2325
+[ODSLOV].[LOV_LOCATION_LEVEL_4]
+	dx=180,225
+	parent=ODSLOV
+	x=450,2325
+[ODSLOV].[LOV_MAIL]
+	dx=180,225
+	parent=ODSLOV
+	x=670,2325
+[ODSLOV].[LOV_MAJOR]
+	dx=180,225
+	parent=ODSLOV
+	x=890,2325
+[ODSLOV].[LOV_MARITAL_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,2325
+[ODSLOV].[LOV_MEAL_PLAN]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,2325
+[ODSLOV].[LOV_MEETING_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,2325
+[ODSLOV].[LOV_NATION]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,2325
+[ODSLOV].[LOV_NATIVE_LANGUAGE]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,2325
+[ODSLOV].[LOV_ORGANIZATION_ATTR_SET]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,2325
+[ODSLOV].[LOV_ORGANIZATION_ATTR_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,2325
+[ODSLOV].[LOV_ORGANIZATION_ATTR_VALUE]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,2325
+[ODSLOV].[LOV_REGISTRATION_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=450,3333
+[ODSLOV].[LOV_RESIDENCY]
+	dx=180,225
+	parent=ODSLOV
+	x=670,3333
+[ODSLOV].[LOV_REVIEW_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=890,3333
+[ODSLOV].[LOV_SCHEDULE_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,3333
+[ODSLOV].[LOV_SECONDARY_SCHOOL]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,3333
+[ODSLOV].[LOV_SITE]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,3333
+[ODSLOV].[LOV_SOLICITATION_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,3333
+[ODSLOV].[LOV_SOLICITOR_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,3333
+[ODSLOV].[LOV_SOURCE_BACKGROUND]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,3333
+[ODSLOV].[LOV_STATE_PROVINCE]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,3333
+[ODSLOV].[LOV_STUDENT_CLASS]
+	dx=180,225
+	parent=ODSLOV
+	x=2650,3333
+[ODSLOV].[LOV_STUDENT_POPULATION]
+	dx=180,225
+	parent=ODSLOV
+	x=2870,3333
+[ODSLOV].[LOV_STUDENT_STATUS]
+	dx=180,225
+	parent=ODSLOV
+	x=10,3585
+[ODSLOV].[LOV_SUBJECT]
+	dx=180,225
+	parent=ODSLOV
+	x=230,3585
+[ODSLOV].[LOV_SUB_ACADEMIC_PERIOD]
+	dx=180,225
+	parent=ODSLOV
+	x=450,3585
+[ODSLOV].[LOV_TERMINATION_REASON]
+	dx=180,225
+	parent=ODSLOV
+	x=670,3585
+[ODSLOV].[LOV_TEST]
+	dx=180,225
+	parent=ODSLOV
+	x=890,3585
+[ODSLOV].[LOV_TEST_RULE]
+	dx=180,225
+	parent=ODSLOV
+	x=1110,3585
+[ODSLOV].[LOV_TRACKING_GROUP]
+	dx=180,225
+	parent=ODSLOV
+	x=1330,3585
+[ODSLOV].[LOV_VENDOR_TYPE]
+	dx=180,225
+	parent=ODSLOV
+	x=1550,3585
+[ODSLOV].[LOV_VETERAN_CATEGORY]
+	dx=180,225
+	parent=ODSLOV
+	x=1770,3585
+[ODSLOV].[LOV_VISA]
+	dx=180,225
+	parent=ODSLOV
+	x=1990,3585
+[ODSLOV].[LOV_WITHDRAW_REASON]
+	dx=180,225
+	parent=ODSLOV
+	x=2210,3585
+[ODSLOV].[LOV_WORKER_COMPENSATION_CLASS]
+	dx=180,225
+	parent=ODSLOV
+	x=2430,3585
+[ODSLOV]
+	c=bf8cbc
+	dx=200,28
+	expanded=f
+	parent=ODS
+	view=0,0
+	x=10,57
+	zoom=8192
+[ODS].[ACADEMIC_HISTORY_EVENT]
+	dx=180,225
+	parent=ODS
+	x=3110,57
+[ODS].[ACADEMIC_OUTCOME_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3550,57
+[ODS].[ACADEMIC_STUDY]
+	dx=180,225
+	parent=ODS
+	x=10,3708
+[ODS].[ACADEMIC_STUDY_EXTENDED]
+	dx=180,225
+	parent=ODS
+	x=230,3708
+[ODS].[ACCOUNT_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=450,3708
+[ODS].[ACCOUNT_HIERARCHY]
+	dx=180,225
+	parent=ODS
+	x=670,3708
+[ODS].[ACCOUNT_HIERARCHY_FISCAL]
+	dx=180,225
+	parent=ODS
+	x=890,3708
+[ODS].[ACCOUNT_INDEX]
+	dx=180,225
+	parent=ODS
+	x=1110,3708
+[ODS].[ACCOUNT_TYPE_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=1330,3708
+[ODS].[ACTIVITY]
+	dx=180,225
+	parent=ODS
+	x=1550,3708
+[ODS].[ACTIVITY_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=1770,3708
+[ODS].[ADDRESS]
+	dx=180,225
+	parent=ODS
+	x=1990,3708
+[ODS].[ADDRESS_BY_RULE]
+	dx=180,225
+	parent=ODS
+	x=2210,3708
+[ODS].[ADDRESS_CURRENT]
+	dx=180,225
+	parent=ODS
+	x=2430,3708
+[ODS].[ADDRESS_PREFERRED]
+	dx=180,225
+	parent=ODS
+	x=2650,3708
+[ODS].[ADMINISTRATOR]
+	dx=180,225
+	parent=ODS
+	x=2870,3708
+[ODS].[ADMISSIONS_APPLICATION]
+	dx=180,225
+	parent=ODS
+	x=3090,3708
+[ODS].[ADMISSIONS_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=3310,3708
+[ODS].[ADMISSIONS_COHORT]
+	dx=180,225
+	parent=ODS
+	x=3530,3708
+[ODS].[ADMISSIONS_DECISION]
+	dx=180,225
+	parent=ODS
+	x=10,3764
+[ODS].[ADMISSIONS_DECISION_SLOT]
+	dx=180,225
+	parent=ODS
+	x=230,3764
+[ODS].[ADMISSIONS_RATING]
+	dx=180,225
+	parent=ODS
+	x=450,3764
+[ODS].[ADMISSIONS_REQUIREMENT]
+	dx=180,225
+	parent=ODS
+	x=670,3764
+[ODS].[ADMISSIONS_SOURCE]
+	dx=180,225
+	parent=ODS
+	x=890,3764
+[ODS].[ADMISSIONS_SOURCE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1110,3764
+[ODS].[ADVANCEMENT_RATING]
+	dx=180,225
+	parent=ODS
+	x=1330,3764
+[ODS].[ADVANCEMENT_RATING_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1550,3764
+[ODS].[ADVISOR]
+	dx=180,225
+	parent=ODS
+	x=1770,3764
+[ODS].[ADVISOR_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1990,3764
+[ODS].[ANNUAL_GIVING]
+	dx=180,225
+	parent=ODS
+	x=2210,3764
+[ODS].[ANNUAL_GIVING_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2430,3764
+[ODS].[APPLICANT_NEED]
+	dx=180,225
+	parent=ODS
+	x=2650,3764
+[ODS].[APPLICANT_RESOURCE]
+	dx=180,225
+	parent=ODS
+	x=2870,3764
+[ODS].[APPLICATION_OF_PAYMENT]
+	dx=180,225
+	parent=ODS
+	x=3090,3764
+[ODS].[APPL_OF_PAY_DETAIL_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=3310,3764
+[ODS].[ATTRIBUTE_SETS]
+	dx=180,225
+	parent=ODS
+	x=3530,3764
+[ODS].[AUTHORIZATION]
+	dx=180,225
+	parent=ODS
+	x=2933,55505
+[ODS].[AUTHORIZATION_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=2963,55535
+[ODS].[AUTHORIZATION_APPROVAL_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=2993,55565
+[ODS].[AUTHORIZATION_ITEM]
+	dx=180,225
+	parent=ODS
+	x=3023,55595
+[ODS].[AUTHORIZATION_ITINERARY]
+	dx=180,225
+	parent=ODS
+	x=3053,55625
+[ODS].[AUTHORIZATION_STATUS_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=3083,55655
+[ODS].[AWARD_BY_AID_YEAR]
+	dx=180,225
+	parent=ODS
+	x=10,3820
+[ODS].[AWARD_BY_FUND]
+	dx=180,225
+	parent=ODS
+	x=230,3820
+[ODS].[AWARD_BY_PERSON]
+	dx=180,225
+	parent=ODS
+	x=450,3820
+[ODS].[AWARD_DISBURSEMENT]
+	dx=180,225
+	parent=ODS
+	x=670,3820
+[ODS].[BARGAINING_UNIT]
+	dx=180,225
+	parent=ODS
+	x=890,3820
+[ODS].[BARG_UNIT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1110,3820
+[ODS].[BENEFICIARY_DEPENDENT]
+	dx=180,225
+	parent=ODS
+	x=1330,3820
+[ODS].[BENEFICIARY_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1550,3820
+[ODS].[BENEFIT_DEDUCTION]
+	dx=180,225
+	parent=ODS
+	x=1770,3820
+[ODS].[BUDGET_AVAILABILITY_LEDGER]
+	dx=180,225
+	parent=ODS
+	x=1990,3820
+[ODS].[BUDGET_DETAIL]
+	dx=180,225
+	parent=ODS
+	x=2210,3820
+[ODS].[BUDGET_REQUEST_TEXT]
+	dx=180,225
+	parent=ODS
+	x=2430,3820
+[ODS].[CALENDAR_DATE_HIERARCHY]
+	dx=180,225
+	parent=ODS
+	x=2650,3820
+[ODS].[CAMPAIGN]
+	dx=180,225
+	parent=ODS
+	x=2870,3820
+[ODS].[CAMPAIGN_COMMENT]
+	dx=180,225
+	parent=ODS
+	x=3090,3820
+[ODS].[CAMPAIGN_DESIGNATION]
+	dx=180,225
+	parent=ODS
+	x=3310,3820
+[ODS].[CAMPAIGN_EXPENSE]
+	dx=180,225
+	parent=ODS
+	x=3530,3820
+[ODS].[CAMPAIGN_FUNDRAISER]
+	dx=180,225
+	parent=ODS
+	x=3113,55685
+[ODS].[CAMPAIGN_GIVING_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=10,3876
+[ODS].[CAMPAIGN_MAIL]
+	dx=180,225
+	parent=ODS
+	x=230,3876
+[ODS].[CAMPAIGN_SOLICITATION]
+	dx=180,225
+	parent=ODS
+	x=450,3876
+[ODS].[CERTIFICATION]
+	dx=180,225
+	parent=ODS
+	x=670,3876
+[ODS].[CERTIFICATION_SLOT]
+	dx=180,225
+	parent=ODS
+	x=890,3876
+[ODS].[CHART_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=1110,3876
+[ODS].[COMBINED_ACADEMIC_OUTCOME]
+	dx=180,225
+	parent=ODS
+	x=1330,3876
+[ODS].[COMMUNICATION]
+	dx=180,225
+	parent=ODS
+	x=1550,3876
+[ODS].[COMMUNICATION_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1770,3876
+[ODS].[CONSTITUENT]
+	dx=180,225
+	parent=ODS
+	x=1990,3876
+[ODS].[CONSTITUENT_CONF_COMMENT]
+	dx=180,225
+	parent=ODS
+	x=3143,55715
+[ODS].[CONSTITUENT_CONF_COMMENT_SUBJ]
+	dx=180,225
+	parent=ODS
+	x=3173,55745
+[ODS].[CONSTITUENT_CONTACT]
+	dx=180,225
+	parent=ODS
+	x=2210,3876
+[ODS].[CONSTITUENT_ENTITY]
+	dx=180,225
+	parent=ODS
+	x=2430,3876
+[ODS].[CONSTITUENT_PLAN]
+	dx=180,225
+	parent=ODS
+	x=2650,3876
+[ODS].[CONSTITUENT_STAFF_ASSIGN]
+	dx=180,225
+	parent=ODS
+	x=2870,3876
+[ODS].[CONTACT]
+	dx=180,225
+	parent=ODS
+	x=3090,3876
+[ODS].[CONTACT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3310,3876
+[ODS].[CONTRACT]
+	dx=180,225
+	parent=ODS
+	x=3530,3876
+[ODS].[COURSE_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=10,3932
+[ODS].[COURSE_ATT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=230,3932
+[ODS].[COURSE_CATALOG]
+	dx=180,225
+	parent=ODS
+	x=450,3932
+[ODS].[COURSE_COREQ]
+	dx=180,225
+	parent=ODS
+	x=670,3932
+[ODS].[COURSE_LEVEL]
+	dx=180,225
+	parent=ODS
+	x=890,3932
+[ODS].[COURSE_LEVEL_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1110,3932
+[ODS].[COURSE_OFFERING_FEES]
+	dx=180,225
+	parent=ODS
+	x=1330,3932
+[ODS].[COURSE_PREREQ]
+	dx=180,225
+	parent=ODS
+	x=1550,3932
+[ODS].[COURSE_PREREQ_COMBINED]
+	dx=180,225
+	parent=ODS
+	x=1770,3932
+[ODS].[COURSE_SCHEDULE]
+	dx=180,225
+	parent=ODS
+	x=1990,3932
+[ODS].[COURSE_SCHEDULE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2210,3932
+[ODS].[CROSS_REFERENCE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2430,3932
+[ODS].[CURRENT_EMPLOYMENT]
+	dx=180,225
+	parent=ODS
+	x=2650,3932
+[ODS].[DEGREE]
+	dx=180,225
+	parent=ODS
+	x=2870,3932
+[ODS].[DEGREE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3090,3932
+[ODS].[DEPOSIT]
+	dx=180,225
+	parent=ODS
+	x=3310,3932
+[ODS].[DESIGNATION]
+	dx=180,225
+	parent=ODS
+	x=3530,3932
+[ODS].[DESIGNATION_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=10,3988
+[ODS].[DESIGNATION_ADJUSTMENT]
+	dx=180,225
+	parent=ODS
+	x=230,3988
+[ODS].[DESIGNATION_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=450,3988
+[ODS].[DESIGNATION_CLASS_YEAR]
+	dx=180,225
+	parent=ODS
+	x=670,3988
+[ODS].[DESIGNATION_COMMENT]
+	dx=180,225
+	parent=ODS
+	x=890,3988
+[ODS].[DESIGNATION_COMMENT_SUBJ]
+	dx=180,225
+	parent=ODS
+	x=3203,55775
+[ODS].[DESIGNATION_FINAID_FUND]
+	dx=180,225
+	parent=ODS
+	x=1330,3988
+[ODS].[DESIGNATION_GIVING_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=1550,3988
+[ODS].[DESIGNATION_ID]
+	dx=180,225
+	parent=ODS
+	x=1770,3988
+[ODS].[DONOR_CATEGORY]
+	dx=180,225
+	parent=ODS
+	x=1990,3988
+[ODS].[DONOR_CATEGORY_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2210,3988
+[ODS].[EMPLOYEE]
+	dx=180,225
+	parent=ODS
+	x=2430,3988
+[ODS].[EMPLOYEE_EARNING_CY]
+	dx=180,225
+	parent=ODS
+	x=2650,3988
+[ODS].[EMPLOYEE_EARNING_FY]
+	dx=180,225
+	parent=ODS
+	x=2870,3988
+[ODS].[EMPLOYEE_POSITION]
+	dx=180,225
+	parent=ODS
+	x=3090,3988
+[ODS].[EMPLOYMENT_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=3310,3988
+[ODS].[EMPL_EARN_CY_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3530,3988
+[ODS].[ENCUMBRANCE]
+	dx=180,225
+	parent=ODS
+	x=10,4044
+[ODS].[ENCUMBRANCE_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=230,4044
+[ODS].[ENCUMBRANCE_LEDGER]
+	dx=180,225
+	parent=ODS
+	x=450,4044
+[ODS].[ENCUMBRANCE_TEXT]
+	dx=180,225
+	parent=ODS
+	x=670,4044
+[ODS].[ENDOWMENT_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=890,4044
+[ODS].[ENDOWMENT_DISTRIBUTION]
+	dx=180,225
+	parent=ODS
+	x=1110,4044
+[ODS].[ENDOWMENT_SUMMARIZED_UNITS]
+	dx=180,225
+	parent=ODS
+	x=1330,4044
+[ODS].[ENDOWMENT_UNITS]
+	dx=180,225
+	parent=ODS
+	x=1550,4044
+[ODS].[ENROLLMENT]
+	dx=180,225
+	parent=ODS
+	x=1770,4044
+[ODS].[EVENT]
+	dx=180,225
+	parent=ODS
+	x=1990,4044
+[ODS].[EVENT_INVITEE]
+	dx=180,225
+	parent=ODS
+	x=2210,4044
+[ODS].[EXCLUSION]
+	dx=180,225
+	parent=ODS
+	x=2430,4044
+[ODS].[EXCLUSION_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2650,4044
+[ODS].[EXEMPTION]
+	dx=180,225
+	parent=ODS
+	x=2870,4044
+[ODS].[FACULTY]
+	dx=180,225
+	parent=ODS
+	x=3090,4044
+[ODS].[FACULTY_APPOINTMENT_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=3310,4044
+[ODS].[FACULTY_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=3530,4044
+[ODS].[FACULTY_ATT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=10,4100
+[ODS].[FACULTY_DEPARTMENT_COLLEGE]
+	dx=180,225
+	parent=ODS
+	x=230,4100
+[ODS].[FACULTY_RANK_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=450,4100
+[ODS].[FACULTY_SABBATICAL_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=670,4100
+[ODS].[FACULTY_TRACKING]
+	dx=180,225
+	parent=ODS
+	x=890,4100
+[ODS].[FINAID_APPLICANT_STATUS]
+	dx=180,225
+	parent=ODS
+	x=1110,4100
+[ODS].[FINAID_BUDGET_COMPONENT]
+	dx=180,225
+	parent=ODS
+	x=1330,4100
+[ODS].[FINAID_BUDGET_COMP_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1550,4100
+[ODS].[FINAID_COMMENTS]
+	dx=180,225
+	parent=ODS
+	x=1770,4100
+[ODS].[FINAID_ENROLLMENT]
+	dx=180,225
+	parent=ODS
+	x=1990,4100
+[ODS].[FINAID_FUND]
+	dx=180,225
+	parent=ODS
+	x=2210,4100
+[ODS].[FINAID_HOLD]
+	dx=180,225
+	parent=ODS
+	x=2430,4100
+[ODS].[FINAID_MESSAGE]
+	dx=180,225
+	parent=ODS
+	x=2650,4100
+[ODS].[FINAID_TRACKING_REQUIREMENT]
+	dx=180,225
+	parent=ODS
+	x=2870,4100
+[ODS].[FIXED_ASSET_ACCOUNTING_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=3090,4100
+[ODS].[FIXED_ASSET_ACCOUNTING_SOURCE]
+	dx=180,225
+	parent=ODS
+	x=3310,4100
+[ODS].[FIXED_ASSET_ADJUSTMENT]
+	dx=180,225
+	parent=ODS
+	x=3530,4100
+[ODS].[FIXED_ASSET_ADJUSTMENT_TEXT]
+	dx=180,225
+	parent=ODS
+	x=10,4156
+[ODS].[FIXED_ASSET_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=230,4156
+[ODS].[FIXED_ASSET_DEPRECIATED_ITEM]
+	dx=180,225
+	parent=ODS
+	x=450,4156
+[ODS].[FIXED_ASSET_FUNDING_SOURCE]
+	dx=180,225
+	parent=ODS
+	x=670,4156
+[ODS].[FIXED_ASSET_ITEM]
+	dx=180,225
+	parent=ODS
+	x=890,4156
+[ODS].[FIXED_ASSET_TEXT]
+	dx=180,225
+	parent=ODS
+	x=1110,4156
+[ODS].[FOAPAL_NO_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=1330,4156
+[ODS].[FUNDING_INTEREST]
+	dx=180,225
+	parent=ODS
+	x=1550,4156
+[ODS].[FUNDING_INTEREST_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1770,4156
+[ODS].[FUND_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=1990,4156
+[ODS].[FUND_HIERARCHY]
+	dx=180,225
+	parent=ODS
+	x=2210,4156
+[ODS].[FUND_HIERARCHY_FISCAL]
+	dx=180,225
+	parent=ODS
+	x=2430,4156
+[ODS].[FUND_MESSAGE_RULE]
+	dx=180,225
+	parent=ODS
+	x=2650,4156
+[ODS].[FUND_TEXT]
+	dx=180,225
+	parent=ODS
+	x=2870,4156
+[ODS].[FUND_TYPE_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=3090,4156
+[ODS].[GENERAL_LEDGER]
+	dx=180,225
+	parent=ODS
+	x=3310,4156
+[ODS].[GEOGRAPHIC_REGION]
+	dx=180,225
+	parent=ODS
+	x=3530,4156
+[ODS].[GEOGRAPHIC_REGION_INSTITUTION]
+	dx=180,225
+	parent=ODS
+	x=10,4212
+[ODS].[GIFT]
+	dx=180,225
+	parent=ODS
+	x=230,4212
+[ODS].[GIFT_ASSOCIATED_ENTITY]
+	dx=180,225
+	parent=ODS
+	x=450,4212
+[ODS].[GIFT_AUXILIARY]
+	dx=180,225
+	parent=ODS
+	x=670,4212
+[ODS].[GIFT_MATCHING]
+	dx=180,225
+	parent=ODS
+	x=890,4212
+[ODS].[GIFT_MATCHING_TRANSACTION]
+	dx=180,225
+	parent=ODS
+	x=1110,4212
+[ODS].[GIFT_MEMO]
+	dx=180,225
+	parent=ODS
+	x=1330,4212
+[ODS].[GIFT_MULTIPLE]
+	dx=180,225
+	parent=ODS
+	x=1550,4212
+[ODS].[GIFT_SOCIETY]
+	dx=180,225
+	parent=ODS
+	x=1770,4212
+[ODS].[GIFT_SOCIETY_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1990,4212
+[ODS].[GIFT_TRANSACTION]
+	dx=180,225
+	parent=ODS
+	x=2210,4212
+[ODS].[GOVERNMENT_ACADEMIC_OUTCOME]
+	dx=180,225
+	parent=ODS
+	x=2430,4212
+[ODS].[GOVERNMENT_ADMISSIONS]
+	dx=180,225
+	parent=ODS
+	x=2650,4212
+[ODS].[GOVERNMENT_COURSE]
+	dx=180,225
+	parent=ODS
+	x=2870,4212
+[ODS].[GOVERNMENT_FA_FUND]
+	dx=180,225
+	parent=ODS
+	x=3090,4212
+[ODS].[GOVERNMENT_FINANCIAL_AID]
+	dx=180,225
+	parent=ODS
+	x=3310,4212
+[ODS].[GOVERNMENT_STUDENT]
+	dx=180,225
+	parent=ODS
+	x=3530,4212
+[ODS].[GPA]
+	dx=180,225
+	parent=ODS
+	x=10,4268
+[ODS].[GPA_BY_LEVEL]
+	dx=180,225
+	parent=ODS
+	x=230,4268
+[ODS].[GPA_BY_TERM]
+	dx=180,225
+	parent=ODS
+	x=450,4268
+[ODS].[GRANT_APPLIED_PAYMENTS]
+	dx=180,225
+	parent=ODS
+	x=670,4268
+[ODS].[GRANT_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=890,4268
+[ODS].[GRANT_BILLING_DETAIL]
+	dx=180,225
+	parent=ODS
+	x=1110,4268
+[ODS].[GRANT_FUND]
+	dx=180,225
+	parent=ODS
+	x=1330,4268
+[ODS].[GRANT_FUND_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1550,4268
+[ODS].[GRANT_LEDGER]
+	dx=180,225
+	parent=ODS
+	x=1770,4268
+[ODS].[GRANT_RECEIVABLE_ACCT_DETAIL]
+	dx=180,225
+	parent=ODS
+	x=1990,4268
+[ODS].[GRANT_TEXT]
+	dx=180,225
+	parent=ODS
+	x=2210,4268
+[ODS].[GRANT_VIEW]
+	dx=180,225
+	parent=ODS
+	x=2430,4268
+[ODS].[HOLD]
+	dx=180,225
+	parent=ODS
+	x=2650,4268
+[ODS].[HOLD_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2870,4268
+[ODS].[HR_APPLICATION]
+	dx=180,225
+	parent=ODS
+	x=3090,4268
+[ODS].[HR_APPLICATION_STATUS]
+	dx=180,225
+	parent=ODS
+	x=3310,4268
+[ODS].[HR_APPL_STAT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3530,4268
+[ODS].[HR_REQUISITION]
+	dx=180,225
+	parent=ODS
+	x=10,4324
+[ODS].[INSTALLMENT_PLAN]
+	dx=180,225
+	parent=ODS
+	x=230,4324
+[ODS].[INSTITUTION]
+	dx=180,225
+	parent=ODS
+	x=450,4324
+[ODS].[INSTITUTION_CHARACTERISTIC]
+	dx=180,225
+	parent=ODS
+	x=670,4324
+[ODS].[INSTITUTION_DEMOGRAPHIC]
+	dx=180,225
+	parent=ODS
+	x=890,4324
+[ODS].[INST_CHARACTERISTIC_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1110,4324
+[ODS].[INSTRUCTIONAL_ASSIGNMENT]
+	dx=180,225
+	parent=ODS
+	x=1330,4324
+[ODS].[INSTRUCT_ASSIGN_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1550,4324
+[ODS].[INTEREST]
+	dx=180,225
+	parent=ODS
+	x=1770,4324
+[ODS].[INTEREST_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1990,4324
+[ODS].[INTERNET_ADDRESS]
+	dx=180,225
+	parent=ODS
+	x=2210,4324
+[ODS].[INTERNET_ADDRESS_CURRENT]
+	dx=180,225
+	parent=ODS
+	x=2430,4324
+[ODS].[INTERVIEW]
+	dx=180,225
+	parent=ODS
+	x=2650,4324
+[ODS].[INTERVIEW_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2870,4324
+[ODS].[INVOICE]
+	dx=180,225
+	parent=ODS
+	x=3090,4324
+[ODS].[INVOICE_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=3310,4324
+[ODS].[INVOICE_CHECK]
+	dx=180,225
+	parent=ODS
+	x=3530,4324
+[ODS].[INVOICE_ITEM]
+	dx=180,225
+	parent=ODS
+	x=10,4380
+[ODS].[INVOICE_TAX_RATE]
+	dx=180,225
+	parent=ODS
+	x=230,4380
+[ODS].[INVOICE_TAX_RATE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=450,4380
+[ODS].[INVOICE_TEXT]
+	dx=180,225
+	parent=ODS
+	x=670,4380
+[ODS].[JOURNAL_VOUCHER_TEXT]
+	dx=180,225
+	parent=ODS
+	x=890,4380
+[ODS].[LABOR_COST_DISTRIBUTION]
+	dx=180,225
+	parent=ODS
+	x=1110,4380
+[ODS].[LEAVE_ACCRUAL]
+	dx=180,225
+	parent=ODS
+	x=1330,4380
+[ODS].[LEAVE_BALANCE]
+	dx=180,225
+	parent=ODS
+	x=1550,4380
+[ODS].[LEAVE_BALANCE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1770,4380
+[ODS].[LOAN_AGGREGATES]
+	dx=180,225
+	parent=ODS
+	x=1990,4380
+[ODS].[LOAN_APPLICATION]
+	dx=180,225
+	parent=ODS
+	x=2210,4380
+[ODS].[LOAN_DISBURSEMENT]
+	dx=180,225
+	parent=ODS
+	x=2430,4380
+[ODS].[LOCATION_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=2650,4380
+[ODS].[LOCATION_HIERARCHY]
+	dx=180,225
+	parent=ODS
+	x=2870,4380
+[ODS].[LOCATION_HIERARCHY_FISCAL]
+	dx=180,225
+	parent=ODS
+	x=3090,4380
+[ODS].[MAIL]
+	dx=180,225
+	parent=ODS
+	x=3310,4380
+[ODS].[MAIL_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3530,4380
+[ODS].[MEAL_ASSIGNMENT]
+	dx=180,225
+	parent=ODS
+	x=10,4436
+[ODS].[MEDICAL_INFORMATION]
+	dx=180,225
+	parent=ODS
+	x=230,4436
+[ODS].[MEDICAL_INFORMATION_SLOT]
+	dx=180,225
+	parent=ODS
+	x=450,4436
+[ODS].[MEETING_TIME]
+	dx=180,225
+	parent=ODS
+	x=670,4436
+[ODS].[MEETING_TIME_SLOT]
+	dx=180,225
+	parent=ODS
+	x=890,4436
+[ODS].[MEMBERSHIP]
+	dx=180,225
+	parent=ODS
+	x=1110,4436
+[ODS].[MEMBERSHIP_INTEREST]
+	dx=180,225
+	parent=ODS
+	x=1330,4436
+[ODS].[MEMO]
+	dx=180,225
+	parent=ODS
+	x=1550,4436
+[ODS].[MFT_GRANT_LEDGER_MAX]
+	dx=180,225
+	parent=ODS
+	x=1330,4940
+[ODS].[MGT_VALIDATION]
+	dx=180,225
+	parent=ODS
+	x=1110,4940
+[ODS].[MISCELLANEOUS_TRANSACTION]
+	dx=180,225
+	parent=ODS
+	x=1770,4436
+[ODS].[MONTHLY_DEDUCTION]
+	dx=180,225
+	parent=ODS
+	x=1990,4436
+[ODS].[MONTHLY_DEDUCT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2210,4436
+[ODS].[MST_ACTIVE_TERMS_STAGE]
+	dx=180,225
+	parent=ODS
+	x=1550,4940
+[ODS].[MST_BASE_STUDENT]
+	dx=180,225
+	parent=ODS
+	x=1770,4940
+[ODS].[MST_PREVIOUS_DEGREE]
+	dx=180,225
+	parent=ODS
+	x=1990,4940
+[ODS].[NEED_ANALYSIS]
+	dx=180,225
+	parent=ODS
+	x=2430,4436
+[ODS].[NEED_ANALYSIS_DEMOGRAPHIC]
+	dx=180,225
+	parent=ODS
+	x=2650,4436
+[ODS].[NEED_ANALYSIS_FEDERAL_METHOD]
+	dx=180,225
+	parent=ODS
+	x=2870,4436
+[ODS].[NEED_ANALYSIS_INST_METHOD]
+	dx=180,225
+	parent=ODS
+	x=3090,4436
+[ODS].[NEED_ANALYSIS_ISIR_SPECIFIC]
+	dx=180,225
+	parent=ODS
+	x=3310,4436
+[ODS].[NEED_ANALYSIS_OVERRIDE]
+	dx=180,225
+	parent=ODS
+	x=3530,4436
+[ODS].[NEED_ANALYSIS_PROFILE_SPECIFIC]
+	dx=180,225
+	parent=ODS
+	x=10,4492
+[ODS].[NONINSTRUCT_ASSIGN_SLOT]
+	dx=180,225
+	parent=ODS
+	x=230,4492
+[ODS].[NON_INSTRUCTIONAL_ASSIGNMENT]
+	dx=180,225
+	parent=ODS
+	x=450,4492
+[ODS].[OFFERING_COREQ]
+	dx=180,225
+	parent=ODS
+	x=670,4492
+[ODS].[OFFERING_GRADE_TYPE]
+	dx=180,225
+	parent=ODS
+	x=890,4492
+[ODS].[OFFERING_PREREQ]
+	dx=180,225
+	parent=ODS
+	x=1110,4492
+[ODS].[OPERATING_LEDGER]
+	dx=180,225
+	parent=ODS
+	x=1330,4492
+[ODS].[ORGANIZATIONAL_CONSTITUENT]
+	dx=180,225
+	parent=ODS
+	x=1550,4492
+[ODS].[ORGANIZATION_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=1770,4492
+[ODS].[ORGANIZATION_CONTACT]
+	dx=180,225
+	parent=ODS
+	x=1990,4492
+[ODS].[ORGANIZATION_CONTACT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2210,4492
+[ODS].[ORGANIZATION_ENTITY]
+	dx=180,225
+	parent=ODS
+	x=2430,4492
+[ODS].[ORGANIZATION_ENTITY_ADDRESS]
+	dx=180,225
+	parent=ODS
+	x=2650,4492
+[ODS].[ORGANIZATION_FUNDING_AREA]
+	dx=180,225
+	parent=ODS
+	x=2870,4492
+[ODS].[ORGANIZATION_HIERARCHY]
+	dx=180,225
+	parent=ODS
+	x=3090,4492
+[ODS].[ORGANIZATION_HIERARCHY_FISCAL]
+	dx=180,225
+	parent=ODS
+	x=3310,4492
+[ODS].[OUTCOME_DEPARTMENTAL_HONOR]
+	dx=180,225
+	parent=ODS
+	x=3530,4492
+[ODS].[OUTCOME_HONOR]
+	dx=180,225
+	parent=ODS
+	x=10,4548
+[ODS].[OUTCOME_INSTITUTIONAL_HONOR]
+	dx=180,225
+	parent=ODS
+	x=230,4548
+[ODS].[PAST_EMPLOYMENT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=450,4548
+[ODS].[PAYROLL_ATTENDANCE]
+	dx=180,225
+	parent=ODS
+	x=670,4548
+[ODS].[PAYROLL_POSITION_TIMESHEET]
+	dx=180,225
+	parent=ODS
+	x=890,4548
+[ODS].[PAYROLL_TIMESHEET]
+	dx=180,225
+	parent=ODS
+	x=1110,4548
+[ODS].[PAYROLL_DEDUCTION]
+	dx=180,225
+	parent=ODS
+	x=1330,4548
+[ODS].[PAYROLL_DISTRIBUTION]
+	dx=180,225
+	parent=ODS
+	x=1550,4548
+[ODS].[PAYROLL_DOCUMENT]
+	dx=180,225
+	parent=ODS
+	x=1770,4548
+[ODS].[PAYROLL_EARNING]
+	dx=180,225
+	parent=ODS
+	x=1990,4548
+[ODS].[PAYROLL_EMPLOYEE_POSITION]
+	dx=180,225
+	parent=ODS
+	x=2210,4548
+[ODS].[PAYROLL_LABOR_DIST_OVERRIDE]
+	dx=180,225
+	parent=ODS
+	x=2430,4548
+[ODS].[PERSON]
+	dx=180,225
+	parent=ODS
+	x=2650,4548
+[ODS].[PERSON_ADDRESS]
+	dx=180,225
+	parent=ODS
+	x=2870,4548
+[ODS].[PERSON_DETAIL]
+	dx=180,225
+	parent=ODS
+	x=3090,4548
+[ODS].[PERSON_INTERNATIONAL]
+	dx=180,225
+	parent=ODS
+	x=3310,4548
+[ODS].[PERSON_SENSITIVE]
+	dx=180,225
+	parent=ODS
+	x=3530,4548
+[ODS].[PERSON_SENSITIVE_RACE]
+	dx=180,225
+	parent=ODS
+	x=10,4604
+[ODS].[PERSON_SENSITIVE_RACE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=230,4604
+[ODS].[PERSON_VETERAN]
+	dx=180,225
+	parent=ODS
+	x=450,4604
+[ODS].[PHONE_ASSIGNMENT]
+	dx=180,225
+	parent=ODS
+	x=670,4604
+[ODS].[PLEDGE]
+	dx=180,225
+	parent=ODS
+	x=890,4604
+[ODS].[PLEDGE_ASSOCIATED_ENTITY]
+	dx=180,225
+	parent=ODS
+	x=1110,4604
+[ODS].[PLEDGE_AUXILIARY]
+	dx=180,225
+	parent=ODS
+	x=1330,4604
+[ODS].[PLEDGE_CONDITIONAL]
+	dx=180,225
+	parent=ODS
+	x=1550,4604
+[ODS].[PLEDGE_INSTALLMENT]
+	dx=180,225
+	parent=ODS
+	x=1770,4604
+[ODS].[PLEDGE_MATCHING]
+	dx=180,225
+	parent=ODS
+	x=1990,4604
+[ODS].[PLEDGE_MATCHING_TRANSACTION]
+	dx=180,225
+	parent=ODS
+	x=2210,4604
+[ODS].[PLEDGE_TRANSACTION]
+	dx=180,225
+	parent=ODS
+	x=2430,4604
+[ODS].[PORTFOLIO]
+	dx=180,225
+	parent=ODS
+	x=3233,55805
+[ODS].[POSITION_BUDGET]
+	dx=180,225
+	parent=ODS
+	x=2650,4604
+[ODS].[POSITION_DEFINITION]
+	dx=180,225
+	parent=ODS
+	x=2870,4604
+[ODS].[POSITION_LABOR_DISTRIBUTION]
+	dx=180,225
+	parent=ODS
+	x=3090,4604
+[ODS].[POSN_LABOR_DIST_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3310,4604
+[ODS].[PREVIOUS_EDUCATION]
+	dx=180,225
+	parent=ODS
+	x=3530,4604
+[ODS].[PREVIOUS_EDUCATION_SLOT]
+	dx=180,225
+	parent=ODS
+	x=10,4660
+[ODS].[PRE_STUDENT]
+	dx=180,225
+	parent=ODS
+	x=230,4660
+[ODS].[PROGRAM_ATTRIBUTES]
+	dx=180,225
+	parent=ODS
+	x=450,4660
+[ODS].[PROGRAM_HIERARCHY]
+	dx=180,225
+	parent=ODS
+	x=670,4660
+[ODS].[PROPOSAL]
+	dx=180,225
+	parent=ODS
+	x=890,4660
+[ODS].[PROPOSAL_TEXT]
+	dx=180,225
+	parent=ODS
+	x=1110,4660
+[ODS].[PROGRAM_HIERARCHY_FISCAL]
+	dx=180,225
+	parent=ODS
+	x=1330,4660
+[ODS].[PROJECT_INTEREST]
+	dx=180,225
+	parent=ODS
+	x=1550,4660
+[ODS].[PREVIOUS_DEGREE]
+	dx=180,225
+	parent=ODS
+	x=1770,4660
+[ODS].[PREVIOUS_EDUCATION_ATTENDANCE]
+	dx=180,225
+	parent=ODS
+	x=1990,4660
+[ODS].[PROSPECT_CONF_COMMENT_SUBJ]
+	dx=180,225
+	parent=ODS
+	x=3263,55835
+[ODS].[PROSPECT_CONFIDENTIAL_COMMENT]
+	dx=180,225
+	parent=ODS
+	x=2430,4660
+[ODS].[PROSPECT CONTACT EXPENSE]
+	dx=180,225
+	parent=ODS
+	x=2650,4660
+[ODS].[PROSPECT_INFO]
+	dx=180,225
+	parent=ODS
+	x=2870,4660
+[ODS].[PROSPECT MOVES MANAGEMENT]
+	dx=180,225
+	parent=ODS
+	x=3090,4660
+[ODS].[PROSPECT_PROPOSAL]
+	dx=180,225
+	parent=ODS
+	x=3310,4660
+[ODS].[PROSPECT_PROPOSAL_MASTER]
+	dx=180,225
+	parent=ODS
+	x=3293,55865
+[ODS].[PROSPECT_PROPOSAL_PROJECT]
+	dx=180,225
+	parent=ODS
+	x=3323,55895
+[ODS].[PROSPECT STAFF ASSIGNMENT]
+	dx=180,225
+	parent=ODS
+	x=3353,55925
+[ODS].[PURCHASE_ORDER]
+	dx=180,225
+	parent=ODS
+	x=3530,4660
+[ODS].[PURCHASE_ORDER_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=10,4716
+[ODS].[PURCHASE_ORDER_ITEM]
+	dx=180,225
+	parent=ODS
+	x=230,4716
+[ODS].[PURCHASE_ORDER_ITEM_SUMMARY]
+	dx=180,225
+	parent=ODS
+	x=450,4716
+[ODS].[PURCHASE_ORDER_ITEM_TEXT]
+	dx=180,225
+	parent=ODS
+	x=670,4716
+[ODS].[PURCHASE_ORDER_TAX_RATE]
+	dx=180,225
+	parent=ODS
+	x=890,4716
+[ODS].[PURCHASE_ORDER_TEXT]
+	dx=180,225
+	parent=ODS
+	x=1110,4716
+[ODS].[RECEIVABLE_ACCOUNT]
+	dx=180,225
+	parent=ODS
+	x=1330,4716
+[ODS].[RECEIVABLE_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=1550,4716
+[ODS].[RECEIVABLE_ACCOUNT_DETAIL]
+	dx=180,225
+	parent=ODS
+	x=1770,4716
+[ODS].[RECEIVABLE_SUMMARY]
+	dx=180,225
+	parent=ODS
+	x=1990,4716
+[ODS].[RECEIVED_ITEM]
+	dx=180,225
+	parent=ODS
+	x=2210,4716
+[ODS].[RECEIVED_ITEM_TEXT]
+	dx=180,225
+	parent=ODS
+	x=2430,4716
+[ODS].[RECRUITMENT_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=2650,4716
+[ODS].[RECRUITMENT_COHORT]
+	dx=180,225
+	parent=ODS
+	x=2870,4716
+[ODS].[RECRUITMENT_INFORMATION]
+	dx=180,225
+	parent=ODS
+	x=3090,4716
+[ODS].[RECRUITMENT_LEARNED]
+	dx=180,225
+	parent=ODS
+	x=3310,4716
+[ODS].[RECRUITMENT_SOURCE]
+	dx=180,225
+	parent=ODS
+	x=3530,4716
+[ODS].[RECRUITMENT_SOURCE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=10,4772
+[ODS].[REFERENCE]
+	dx=180,225
+	parent=ODS
+	x=230,4772
+[ODS].[REFERENCE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=450,4772
+[ODS].[REIMBURSEMENT]
+	dx=180,225
+	parent=ODS
+	x=3413,55985
+[ODS].[REIMBURSEMENT_ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=3443,56015
+[ODS].[REIMBURSEMENT_APPROVAL_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=3473,56045
+[ODS].[REIMBURSEMENT_ITEM]
+	dx=180,225
+	parent=ODS
+	x=3503,56075
+[ODS].[REIMBURSEMENT_ITINERARY]
+	dx=180,225
+	parent=ODS
+	x=3533,56105
+[ODS].[REIMBURSEMENT_STATUS_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=3563,56135
+[ODS].[RELATIONSHIP]
+	dx=180,225
+	parent=ODS
+	x=670,4772
+[ODS].[REQUIREMENT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=890,4772
+[ODS].[RETURNED_ITEM]
+	dx=180,225
+	parent=ODS
+	x=1110,4772
+[ODS].[RETURNED_ITEM_TEXT]
+	dx=180,225
+	parent=ODS
+	x=1330,4772
+[ODS].[REVIEW]
+	dx=180,225
+	parent=ODS
+	x=1550,4772
+[ODS].[REVIEW_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1770,4772
+[ODS].[ROOM_ASSIGNMENT]
+	dx=180,225
+	parent=ODS
+	x=1990,4772
+[ODS].[SALUTATION]
+	dx=180,225
+	parent=ODS
+	x=2210,4772
+[ODS].[SATISFACTORY_ACAD_PROGRESS]
+	dx=180,225
+	parent=ODS
+	x=2430,4772
+[ODS].[SCHEDULE_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=2650,4772
+[ODS].[SCHEDULE_OFFERING]
+	dx=180,225
+	parent=ODS
+	x=2870,4772
+[ODS].[SECONDARY_SCHOOL_SUBJECT]
+	dx=180,225
+	parent=ODS
+	x=3090,4772
+[ODS].[SKILL]
+	dx=180,225
+	parent=ODS
+	x=3310,4772
+[ODS].[SKILL_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3530,4772
+[ODS].[SOLICITATION]
+	dx=180,225
+	parent=ODS
+	x=10,4828
+[ODS].[SOLICITOR ASSIGNMENT]
+	dx=180,225
+	parent=ODS
+	x=1550,4828
+[ODS].[SOLICITOR ASSIGNMENT RESULT]
+	dx=180,225
+	parent=ODS
+	x=1770,4828
+[ODS].[SPECIAL_ACTIVITY]
+	dx=180,225
+	parent=ODS
+	x=230,4828
+[ODS].[SPECIAL_ACTIVITY_SLOT]
+	dx=180,225
+	parent=ODS
+	x=450,4828
+[ODS].[SPECIAL_ACTIVITY_YEAR]
+	dx=180,225
+	parent=ODS
+	x=670,4828
+[ODS].[SPECIAL_ACTIVITY_YEAR_SLOT]
+	dx=180,225
+	parent=ODS
+	x=890,4828
+[ODS].[SPECIAL_PURPOSE_GROUP]
+	dx=180,225
+	parent=ODS
+	x=1110,4828
+[ODS].[SPECIAL_PURPOSE_SLOT]
+	dx=180,225
+	parent=ODS
+	x=1330,4828
+[ODS].[SOLICITOR_ORGANIZATION]
+	dx=180,225
+	parent=ODS
+	x=3593,56165
+[ODS].[SOLICITOR_ORGANIZATION_COMMENT]
+	dx=180,225
+	parent=ODS
+	x=3623,56195
+[ODS].[SOLICITOR_ORG_FUNDRAISER]
+	dx=180,225
+	parent=ODS
+	x=3653,56225
+[ODS].[SOLICITOR_ORG_FUNDRAISER_GOAL]
+	dx=180,225
+	parent=ODS
+	x=3683,56255
+[ODS].[SOLICITOR_ORGANIZATION_GOAL]
+	dx=180,225
+	parent=ODS
+	x=3713,56285
+[ODS].[SPORT]
+	dx=180,225
+	parent=ODS
+	x=1990,4828
+[ODS].[SPORT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2210,4828
+[ODS].[STUDENT]
+	dx=180,225
+	parent=ODS
+	x=2430,4828
+[ODS].[STUDENT_ACTIVITY]
+	dx=180,225
+	parent=ODS
+	x=2650,4828
+[ODS].[STUDENT_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=2870,4828
+[ODS].[STUDENT_COHORT]
+	dx=180,225
+	parent=ODS
+	x=3090,4828
+[ODS].[STUDENT_COHORT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=3310,4828
+[ODS].[STUDENT_COURSE]
+	dx=180,225
+	parent=ODS
+	x=3530,4828
+[ODS].[STUDENT_COURSE_ATTRIBUTE]
+	dx=180,225
+	parent=ODS
+	x=10,4884
+[ODS].[STUDENT_COURSE_ATT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=230,4884
+[ODS].[STUDENT_COURSE_GRADE_CHANGE]
+	dx=180,225
+	parent=ODS
+	x=450,4884
+[ODS].[STUDENT_COURSE_REG_AUDIT]
+	dx=180,225
+	parent=ODS
+	x=670,4884
+[ODS].[STUDENT_EXTENDED]
+	dx=180,225
+	parent=ODS
+	x=890,4884
+[ODS].[STUDENT_WORK_EXPERIENCE]
+	dx=180,225
+	parent=ODS
+	x=1110,4884
+[ODS].[TAX]
+	dx=180,225
+	parent=ODS
+	x=1330,4884
+[ODS].[TELEPHONE]
+	dx=180,225
+	parent=ODS
+	x=1550,4884
+[ODS].[TELEPHONE_CURRENT]
+	dx=180,225
+	parent=ODS
+	x=1770,4884
+[ODS].[TEST]
+	dx=180,225
+	parent=ODS
+	x=1990,4884
+[ODS].[TEST_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2210,4884
+[ODS].[TRACKING_REQUIREMENT_SLOT]
+	dx=180,225
+	parent=ODS
+	x=2430,4884
+[ODS].[TRANSACTION_HISTORY]
+	dx=180,225
+	parent=ODS
+	x=2650,4884
+[ODS].[TRANSCRIPT_COMMENT]
+	dx=180,225
+	parent=ODS
+	x=2870,4884
+[ODS].[TRAVEL_AND_EXPENSE_PROFILE]
+	dx=180,225
+	parent=ODS
+	x=3743,56315
+[ODS].[USER_DEFINED_FIELDS]
+	dx=180,225
+	parent=ODS
+	x=3090,4884
+[ODS].[VENDOR]
+	dx=180,225
+	parent=ODS
+	x=3310,4884
+[ODS].[VENDOR_TEXT]
+	dx=180,225
+	parent=ODS
+	x=3530,4884
+[ODS].[VENDOR_TYPE]
+	dx=180,225
+	parent=ODS
+	x=10,4940
+[ODS].[VISA]
+	dx=180,225
+	parent=ODS
+	x=230,4940
+[ODS].[VISA_CURRENT]
+	dx=180,225
+	parent=ODS
+	x=450,4940
+[ODS].[YEARLY_DEDUCTION]
+	dx=180,225
+	parent=ODS
+	x=670,4940
+[ODS].[YEAR_TYPE_DEFINITION]
+	dx=180,225
+	parent=ODS
+	x=890,4940
+[ODS].[PORTFOLIO_SUMMARY]
+	dx=180,225
+	parent=ODS
+	x=3773,56345
+[ODS].[PROFILE DEFAULT ACCOUNTING]
+	dx=180,225
+	parent=ODS
+	x=3803,56375
+[ODS].[TRANSACTION_HISTORY_INVOICE]
+	parent=ODS
+	x=2640,4958
+[ODS]
+	c=99b2c7
+	dx=200,28
+	expanded=f
+	parent=Model
+	view=2228,4543
+	x=818,755
+	zoom=8192
+]]></property></object></namespace></bmtcustomdata>

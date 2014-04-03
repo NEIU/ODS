@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archive xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bus="http://developer.cognos.com/schemas/bibus/3/" xmlns:cm="http://developer.cognos.com/schemas/bibus/3/">
+<!-- CM Build=8.4.6020.0 -->
+  <objects>
+	<object>
+		<class>package</class>
+		<name>Organization Entity</name>
+		<id>1</id>
+		<parentId>0</parentId>
+		<storeID>i1138CFDCD37E4E0C9B0FF13DD4ABC4F1</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:25:47.479Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:25:54.699Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">Organization Entity</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<retentions>
+				<value><item><objectClass xsi:type="cm:classEnum">model</objectClass><prop xsi:type="cm:propEnum">creationTime</prop><maxObjects xsi:type="xsd:integer">1</maxObjects></item>
+</value>
+			</retentions>
+			<defaultPortalAction>
+				<value>view</value>
+			</defaultPortalAction>
+			<userInterfaces>
+				<value><item>eventStudio</item>
+<item>queryStudio</item>
+<item>reportStudio</item>
+</value>
+			</userInterfaces>
+		</props>
+	</object>
+	<object>
+		<class>packageConfiguration</class>
+		<name>Organization Entity</name>
+		<parentId>1</parentId>
+		<storeID>iCDD0BD50A9BA43D0A3094BB5355BD63E</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:25:51.284Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:25:51.284Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">Organization Entity</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<crosstabItemDisplayCountDefault>
+				<value>5</value>
+			</crosstabItemDisplayCountDefault>
+			<crosstabItemDisplayCountLimit>
+				<value>20</value>
+			</crosstabItemDisplayCountLimit>
+			<memberDisplayCountDefault>
+				<value>20</value>
+			</memberDisplayCountDefault>
+			<memberDisplayCountLimit>
+				<value>50</value>
+			</memberDisplayCountLimit>
+		</props>
+	</object>
+	<object>
+		<class>model</class>
+		<name>model</name>
+		<id>2</id>
+		<parentId>1</parentId>
+		<storeID>iE34D29FAD4614C0786502673BD69555D</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:25:54.699Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:25:55.440Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">model</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<model>
+				<value href="50.dat" size="71717"/>
+			</model>
+		</props>
+	</object>
+	<object>
+		<class>modelView</class>
+		<name>[].[securityViews].[Organization Entity]</name>
+		<parentId>2</parentId>
+		<storeID>iBF2931FE10D5458B874E5F6F8E73A5B2</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:25:55.440Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:25:55.440Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">[].[securityViews].[Organization Entity]</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+		</props>
+	</object>
+  </objects>
+</archive>

@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archive xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bus="http://developer.cognos.com/schemas/bibus/3/" xmlns:cm="http://developer.cognos.com/schemas/bibus/3/">
+<!-- CM Build=8.4.6020.0 -->
+  <objects>
+	<object>
+		<class>package</class>
+		<name>Grant-Contract and Proposal</name>
+		<id>1</id>
+		<parentId>0</parentId>
+		<storeID>iF6CA3E5EA7EC4792B8225DE39E4A80FC</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:08:39.791Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:08:44.448Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">Grant-Contract and Proposal</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<retentions>
+				<value><item><objectClass xsi:type="cm:classEnum">model</objectClass><prop xsi:type="cm:propEnum">creationTime</prop><maxObjects xsi:type="xsd:integer">1</maxObjects></item>
+</value>
+			</retentions>
+			<defaultPortalAction>
+				<value>view</value>
+			</defaultPortalAction>
+			<userInterfaces>
+				<value><item>eventStudio</item>
+<item>queryStudio</item>
+<item>reportStudio</item>
+</value>
+			</userInterfaces>
+		</props>
+	</object>
+	<object>
+		<class>packageConfiguration</class>
+		<name>Grant-Contract and Proposal</name>
+		<parentId>1</parentId>
+		<storeID>i6F82CFD309264C8491489C7FF1E5AC8C</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:08:43.216Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:08:43.216Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">Grant-Contract and Proposal</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<crosstabItemDisplayCountDefault>
+				<value>5</value>
+			</crosstabItemDisplayCountDefault>
+			<crosstabItemDisplayCountLimit>
+				<value>20</value>
+			</crosstabItemDisplayCountLimit>
+			<memberDisplayCountDefault>
+				<value>20</value>
+			</memberDisplayCountDefault>
+			<memberDisplayCountLimit>
+				<value>50</value>
+			</memberDisplayCountLimit>
+		</props>
+	</object>
+	<object>
+		<class>model</class>
+		<name>model</name>
+		<id>2</id>
+		<parentId>1</parentId>
+		<storeID>iE04C952CA10040E583FA855932235CC3</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:08:44.448Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:08:45.069Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">model</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+			<displaySequence>
+				<value>0</value>
+			</displaySequence>
+			<hidden>
+				<value>false</value>
+			</hidden>
+			<viewed>
+				<value>false</value>
+			</viewed>
+			<model>
+				<value href="38.dat" size="9413"/>
+			</model>
+		</props>
+	</object>
+	<object>
+		<class>modelView</class>
+		<name>[].[securityViews].[Grant-Contract and Proposal]</name>
+		<parentId>2</parentId>
+		<storeID>iBC3599889B21435BB168085121507D23</storeID>
+		<props>
+			<creationTime>
+				<value>2011-04-14T12:08:45.069Z</value>
+			</creationTime>
+			<modificationTime>
+				<value>2011-04-14T12:08:45.069Z</value>
+			</modificationTime>
+			<name>
+				<value><item><locale xsi:type="xsd:string">en</locale><value xsi:type="xsd:string">[].[securityViews].[Grant-Contract and Proposal]</value></item>
+</value>
+			</name>
+			<owner>
+				<value><item><searchPath xsi:type="cm:stringProp">
+	<value xsi:type="xsd:string" xml:space="preserve">CAMID(&quot;::Anonymous&quot;)</value>
+</searchPath>
+<storeID xsi:type="cm:guidProp">
+	<value xsi:type="cm:guid" xml:space="preserve">xOjpBbm9ueW1vdXM_</value>
+</storeID></item>
+</value>
+			</owner>
+		</props>
+	</object>
+  </objects>
+</archive>
